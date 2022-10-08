@@ -1,13 +1,10 @@
-"""
-Напишите программу, которая принимает на вход цифру,
-обозначающую день недели, и проверяет, является ли этот день выходным.
+# Напишите программу, которая принимает на вход цифру,
+# обозначающую день недели, и проверяет, является ли этот день выходным.
+# Пример:
+# - 6 -> да
+# - 7 -> да
+# - 1 -> нет
 
-Пример:
-
-- 6 -> да
-- 7 -> да
-- 1 -> нет
-"""
 
 
 def get_int_number(): return int(input())
@@ -44,7 +41,7 @@ def print_result(day: int):
     """
     print 'да' if the day is a weekend else print 'нет'
     :param day: int
-    :return: bool
+    :return: None
     >>> print_result(1)
     нет
     >>> print_result(2)
@@ -67,7 +64,11 @@ def print_result(day: int):
 
 
 def main():
-    while 0 < day < 8:
+    import doctest
+    #doctest.testmod()
+
+    day = -1
+    while day < 1 or day > 7:
         print('Enter a number of a day:')
         try:
             day = get_int_number()
