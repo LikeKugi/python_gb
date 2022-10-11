@@ -48,7 +48,9 @@ def main():
     if not check_file():
         create_file(n)
     positions = read_from_file()
-    product = product_positions(numbers,positions)
+    product = product_positions(numbers, positions)
     print(product)
 
-main()
+
+if __name__ == '__main__':
+    main()
