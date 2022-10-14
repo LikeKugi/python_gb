@@ -12,9 +12,13 @@ if len(encoding) % 4 != 0:
     encoding.extend([-1] * n)
 
 pas = np.array(encoding).reshape((4, -1))
-
+decoded = ''
 for j in range(pas.shape[1]):
     for i in range(pas.shape[0]):
         if pas[i, j] == -1:
             break
-        print(chr(pas[i, j]),end='')
+        decoded += str(chr(pas[i, j]))
+
+
+with open('transpose_cipher.txt','w') as ouf:
+    ouf.write(decoded)
