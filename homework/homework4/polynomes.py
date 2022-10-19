@@ -2,7 +2,7 @@
 
 
 with open('polynomes.txt', 'r') as inf:
-    polynomes = [el.split(" + ") for el in map(str.rstrip, inf.readlines())]
+    polynomes = [el.replace('-', '+ -').split(" + ") for el in map(str.rstrip, inf.readlines())]
 
 max_power = 0
 for i in range(len(polynomes)):
@@ -23,14 +23,14 @@ for i in range(len(result_polynome)):
                 result_polynome[i] += int(polynomes[j].pop())
         elif current_power == 1:
             if polynomes[j][-1].endswith('x'):
-                element = polynomes[j].pop()
+                element = polynomes[j].pop().replace(' ','')
                 if element.find('x') == 0:
                     result_polynome[i] += 1
                 else:
                     result_polynome[i] += int(element[:element.find('x')])
         else:
             if polynomes[j][-1].endswith(str(current_power)):
-                element = polynomes[j].pop()
+                element = polynomes[j].pop().replace(' ','')
                 if element.find('x') == 0:
                     result_polynome[i] += 1
                 else:
@@ -63,4 +63,3 @@ while len(result_polynome) != 0:
             res_str += f' + {element}'
 
 print(res_str)
-
