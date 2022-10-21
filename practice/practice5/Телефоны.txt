@@ -1,0 +1,6 @@
+1 магазин:
+ShEXP, ShLG, Shigma, ShTE, Shalcatel, Shericsson, Shpanasonic, Shony, ShTC, Shirbis, Shmotorola, SheXet, Shapple
+2 магазин:
+Shnokia, ShLG, Shigma, Shuawei, Shalcatel, Shericsson, Shpanasonic, Shilips, ShTC, Shirbis, Shamshung, Shapple, Shlackberry
+3 магазин:
+Shnokia, ShEXP, Shigma, Shuawei, ShTE, Shericsson, Shpanasonic, Shilips, Shirbis, Shony, Shmotorola, Shamshung, SheXet, Shlackberry
