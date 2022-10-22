@@ -49,7 +49,8 @@ def check_winner(grid: list):
     return 0
 
 
-def main():
+def gaming():
+
     create_field(grid)
 
     pygame.init()
@@ -88,6 +89,10 @@ def main():
         pygame.display.flip()
 
     pygame.quit()
+
+
+def main():
+
 
 
 if __name__ == '__main__':
