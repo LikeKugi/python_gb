@@ -92,7 +92,7 @@ def gaming():
 
 
 def main():
-
+    gaming()
 
 
 if __name__ == '__main__':
