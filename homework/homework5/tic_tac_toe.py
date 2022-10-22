@@ -19,6 +19,12 @@ def create_field(grid):
             grid[i].append(0)
 
 
+def reset_field(grid):
+    for i in range(3):
+        for j in range(3):
+            grid[i][j] = 0
+
+
 def color_field(grid, scr):
     for i in range(3):
         for j in range(3):
@@ -50,7 +56,6 @@ def check_winner(grid: list):
 
 
 def gaming():
-
     create_field(grid)
 
     pygame.init()
@@ -83,7 +88,9 @@ def gaming():
 
         if winner != 0 or move == 9:
             print(f'player {winner} won' if winner != 0 else 'PAIR')
-            done = True
+            move = 0
+            reset_field(grid)
+
 
         clock.tick(50)
         pygame.display.flip()
