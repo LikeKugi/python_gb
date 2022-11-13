@@ -1,16 +1,16 @@
 import pickle
 from xml.etree import ElementTree
 
-from contact import Contact
+from .contact import Contact
 
 
-def open_file() -> dict[int, Contact]:
+def _open_file() -> dict[int, Contact]:
     with open('contacts.bin', 'rb') as inf:
         db_contacts = pickle.load(inf)
     return db_contacts
 
 
-def write_file_xml(data: dict[int, Contact]) -> None:
+def _write_file_xml(data: dict[int, Contact]) -> None:
     root = ElementTree.Element('Addressbook')
 
     for index, contact in data.items():
@@ -23,13 +23,14 @@ def write_file_xml(data: dict[int, Contact]) -> None:
         c_phone.text = contact.phone_number
 
     tree = ElementTree.ElementTree(root)
-    tree.write('Contacts.xml')
+    tree.write('contacts.xml')
 
 
-def write_xml() -> None:
+def import_xml() -> None:
     """
     export contacts to xml file
     :return: None
+        contacts.xml
     """
-    data = open_file()
-    write_file_xml(data)
+    data = _open_file()
+    _write_file_xml(data)

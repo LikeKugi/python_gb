@@ -1,15 +1,20 @@
 import pickle
+import os.path
 
-from contact import Contact
-
-
-def open_file() -> dict[int, Contact]:
-    with open('contacts.bin', 'rb') as inf:
-        db_contacts = pickle.load(inf)
-    return db_contacts
+from .contact import Contact
+from .opener_contacts import open_contacts
 
 
-def search_contact(db_contacts: dict[int, Contact], query: str) -> tuple[int, Contact] | None:
+def _open_file() -> dict[int, Contact] | None:
+    if os.path.isfile('contacts.bin'):
+        with open('contacts.bin', 'rb') as inf:
+            db_contacts = pickle.load(inf)
+        return db_contacts
+    else:
+        return None
+
+
+def _search_contact(db_contacts: dict[int, Contact], query: str) -> tuple[int, Contact] | None:
     query = query.lower()
     for index, val in db_contacts.items():
         if query in val.name or query in val.phone_number.replace('-', ''):
@@ -28,11 +33,13 @@ def search(query: str) -> tuple[int, Contact] | None:
          Contact - the contact in db
          None if no contact
     """
-    db = open_file()
-    if q := search_contact(db, query):
-        return q
-    else:
-        return None
+    db = open_contacts()
+    if db:
+        if q := _search_contact(db, query):
+            return q
+        else:
+            return None
+    return None
 
 
 def is_contact(query: str) -> bool:
@@ -43,8 +50,11 @@ def is_contact(query: str) -> bool:
         True - is in
         False - not found
     """
-    db = open_file()
-    if search_contact(db, query):
-        return True
+    db = open_contacts()
+    if db:
+        if _search_contact(db, query):
+            return True
+        else:
+            return False
     else:
         return False

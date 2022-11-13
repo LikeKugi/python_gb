@@ -28,9 +28,9 @@ class Contact:
         if len(self._phone_number) < 5:
             return ''.join(str(self._phone_number))
         elif len(self._phone_number) < 8:
-            return f'{self._phone_number[:-4]}-{self._phone_number[-4:-2]}-{self._phone_number[-2:]}'
+            return f'{"".join(map(str, self._phone_number[:-4]))}-{"".join(map(str, self._phone_number[-4:-2]))}-{"".join(map(str, self._phone_number[-2:]))}'
         else:
-            return f'{self._phone_number[0]}-{self._phone_number[1:-4]}-{self._phone_number[-4:-2]}-{self._phone_number[-2:]}'
+            return f'{self._phone_number[0]}-{"".join(map(str, self._phone_number[1:-4]))}-{"".join(map(str, self._phone_number[-4:-2]))}-{"".join(map(str, self._phone_number[-2:]))}'
 
     @phone_number.setter
     def phone_number(self, phone: str) -> None:
@@ -62,6 +62,6 @@ class Contact:
     # -------------------------------------------------------------------------------
     def __str__(self) -> str:
         return f'''
-        {self._name}
-        \t{self._phone_number}\n
+        {self.name}
+        \t{self.phone_number}\n
         '''
