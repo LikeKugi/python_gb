@@ -1,5 +1,11 @@
+#   В двумерном массиве хранятся средние дневные температуры с мая по сентябрь за прошлый год. Каждому месяцу
+#   соответствует своя строка. Определите самый жаркий и самый холодный 7-дневный промежуток этого периода.
+#   Выведите его даты.
+#  Moscow for 01.05.2021 to 30.09.2021 by Gismeteo
+
 import requests
 import pickle
+from os.path import exists
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 
@@ -72,6 +78,8 @@ def find_max_min_average_temperatures(days: dict):
 
 
 def main():
+    if not exists('temperatures.bin'):
+        create_weather_dict()
     days = open_weather_dict()
     find_max_min_average_temperatures(days)
 
