@@ -79,8 +79,9 @@ def find_max_min_average_temperatures(days: dict):
 
 def main():
     if not exists('temperatures.bin'):
-        create_weather_dict()
-    days = open_weather_dict()
+        days = create_weather_dict()
+    else:
+        days = open_weather_dict()
     find_max_min_average_temperatures(days)
 
 
