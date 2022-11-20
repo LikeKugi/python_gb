@@ -6,7 +6,11 @@ from ask_user import ask
 def ask_for_continue(): return input('Continue(any) or Exit(q): ')
 
 
-def main_loop():
+def main_loop() -> None:
+    """
+    main loop of the game
+    :return: None
+    """
     used_words = set()
     used_chars = set()
     all_questions = get_quiz_dict()

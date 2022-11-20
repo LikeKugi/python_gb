@@ -1,7 +1,14 @@
 AVAILABLE_CHARS = set(chr(i) for i in range(ord('А'), ord('Я')))
 
 
-def ask(used_chars: set):
+def ask(used_chars: set) -> str:
+    """
+    ask player for a letter
+    :param used_chars: set
+        letters that were used in current game
+    :return: str
+        letter that wasn't used or quit command
+    """
     print('/-------------------------------------------------/')
     print('Доступные буквы: ')
     print(*sorted(AVAILABLE_CHARS - used_chars))

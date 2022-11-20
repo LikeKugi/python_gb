@@ -4,7 +4,7 @@ def create_array_answer(answer: dict) -> list[str]:
     return new_field
 
 
-def put_char_in_field(char: str, field: list[str], ans: dict[str, list]):
+def put_char_in_field(char: str, field: list[str], ans: dict[str, list]) -> None:
     indexes = ans.get(char)
     for i in indexes:
         field[i] = char
