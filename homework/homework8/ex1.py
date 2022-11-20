@@ -3,6 +3,7 @@
 # наилучшим средним баллом.
 from random import randint as RI
 
+
 def create_marks(n: int) -> list[list]:
     groups = []
     for _ in range(n + 1):
@@ -10,8 +11,10 @@ def create_marks(n: int) -> list[list]:
         groups.append([RI(50, 100) for i in range(m + 1)])
     return groups
 
+
 def find_max_average(groups: list[list]) -> int:
     return groups.index(max(groups, key=lambda x: sum(x) / len(x)))
+
 
 def main():
     count = int(input('how many groups are there? '))
@@ -21,6 +24,7 @@ def main():
     print('the best group is:')
     best_average = find_max_average(groups)
     print(best_average)
+
 
 if __name__ == '__main__':
     main()
