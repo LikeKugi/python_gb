@@ -20,14 +20,16 @@ class Calculator:
 
         if val_expression.isdigit():
             value = value.replace(' ', '')
-            for el in {'/', '*', '-', '+', '.'}:
-                value = value.replace(el, f' {el} ')
             self._expression = value
         else:
             raise self.CalculatorException(f'Not an expression: {value!r} should contains only digits and "/*-+."')
 
     def __str__(self):
-        return f'{self._expression} = {eval(str(self._expression))}'
+        value = self._expression
+        for el in {'/', '*', '-', '+', '.'}:
+            value = value.replace(el, f' {el} ')
+        value = value.replace('*  *', '**')
+        return f'{value} = {eval(str(self._expression))}'
 
     def __repr__(self):
         return f'Calculator({self.expression!r})'
@@ -36,3 +38,5 @@ class Calculator:
 if __name__ == '__main__':
     a = Calculator('1   +( 2-3   )*4')
     print(a)
+    b = Calculator('5*(2+4)**6')
+    print(b)

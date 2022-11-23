@@ -12,7 +12,7 @@ def set_menu_buttons():
 
 def set_continue_keyboards():
     keyboard = InlineKeyboardMarkup()
-    yes_choose = InlineKeyboardButton(text='ДА', callback_data='stay')
-    no_choose = InlineKeyboardButton(text='НЕТ', callback_data='stop_calc')
+    yes_choose = InlineKeyboardButton(text='ПРОДОЛЖИТЬ', callback_data='Y_calc')
+    no_choose = InlineKeyboardButton(text='СТОП', callback_data='all_stop')
     keyboard.add(yes_choose, no_choose)
     return keyboard
