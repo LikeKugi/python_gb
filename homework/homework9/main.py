@@ -30,10 +30,16 @@ UNKNOWN = 'Неизвестная команда'
 # OTHER FUNCTIONS
 # ----------------------------------------------------------------------
 def send_cat(message):
+    """
+    sends a picture of cat
+    """
     bot.send_photo(message.chat.id, cat_url())
 
 
 def calc_expression(message):
+    """
+    turn on calculator state
+    """
     bot.send_message(message.chat.id, CALCING)
     if not state.calc:
         state.do_calc()
@@ -49,6 +55,9 @@ def go_calc(message):
 
 
 def quiz_game(message):
+    """
+    turn on quiz game
+    """
     bot.send_message(message.chat.id, QUIZ_GAME)
     QuizNumber()
     if not state.quiz:
