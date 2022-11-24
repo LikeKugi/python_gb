@@ -4,15 +4,15 @@ class Calculator:
 
     _expression: str
 
-    def __init__(self, expression: str):
+    def __init__(self, expression: str) -> None:
         self.expression = expression
 
     @property
-    def expression(self):
+    def expression(self) -> str:
         return self._expression
 
     @expression.setter
-    def expression(self, value: str):
+    def expression(self, value: str) -> None:
 
         val_expression = value
         for el in {'/', '*', '-', '+', '.', ' ', '(', ')'}:
@@ -24,14 +24,14 @@ class Calculator:
         else:
             raise self.CalculatorException(f'Not an expression: {value!r} should contains only digits and "/*-+."')
 
-    def __str__(self):
+    def __str__(self) -> str:
         value = self._expression
         for el in {'/', '*', '-', '+', '.'}:
             value = value.replace(el, f' {el} ')
         value = value.replace('*  *', '**')
         return f'{value} = {eval(str(self._expression))}'
 
-    def __repr__(self):
+    def __repr__(self) -> str:
         return f'Calculator({self.expression!r})'
 
 
