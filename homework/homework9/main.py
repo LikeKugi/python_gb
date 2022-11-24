@@ -20,7 +20,11 @@ bot = telebot.TeleBot(token)
 # do_quiz -> quiz: bool
 # stop_state -> calc = False; quiz = False
 state = BS()
+
+# the number for quiz
 quiz_number = QuizNumber()
+
+# default answers
 CALCING = 'Введите выражение, которое надо посчитать'
 QUIZ_GAME = 'Я загадал число от 0 до 1000 включительно, отгадай'
 UNKNOWN = 'Неизвестная команда'
