@@ -5,6 +5,9 @@ from bot_logic import set_continue_keyboards as c_yes_no
 from bot_logic import set_quiz_keyboards as q_yes_no
 from bot_logic import get_url_cat as cat_url
 from bot_logic import BotState as BS
+from bot_logic import txt_logger, user_logger
+from bot_logic import main_register
+from bot_logic import get_users_ids
 from calcing import Calculator
 from quiz import QuizNumber
 
@@ -99,7 +102,22 @@ def start_message(message):
     bot.send_message(message.chat.id, 'Привет!', reply_markup=menu())
 
 
+@bot.message_handler(commands=['register'])
+@user_logger
+def register_user(message):
+    txt = main_register(message)
+    bot.send_message(message.chat.id, txt)
+
+
+@bot.message_handler(commands=['dospam'])
+def spam_users(message):
+    users = get_users_ids()
+    for user in users:
+        bot.send_message(user, text="YOU'RE OWNED")
+
+
 @bot.message_handler(func=lambda message: True)
+@txt_logger
 def message_write(message):
     query = message.text
     if state.calc:
