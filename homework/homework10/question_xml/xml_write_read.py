@@ -24,7 +24,5 @@ def read_file() -> ElementTree:
 
     tree = ElementTree.parse(FILE)
 
-    create_new_file()
-
     root = tree.getroot()
     return root

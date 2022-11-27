@@ -15,7 +15,7 @@ def _create_question_node(message) -> ElementTree:
     user = str(message.from_user.id)
     question = message.text
 
-    root = ElementTree.Element('question')
+    root = ElementTree.Element('article')
 
     xml_from_user = ElementTree.SubElement(root, 'fromUser')
     xml_from_user.text = user
