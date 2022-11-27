@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<questions>
+    <questions>Questions from users</questions>
+    <article>
+        <fromUser>178035235</fromUser>
+        <messageID>515</messageID>
+        <time>27-11-2022 13:24:47</time>
+        <question>1 question</question>
+        <answer>1 answer</answer>
+    </article>
+    <article answer="2 answer">
+        <fromUser>178035235</fromUser>
+        <messageID>518</messageID>
+        <time>27-11-2022 13:24:54</time>
+        <question>2 question</question>
+        <answer>2 answer</answer>
+    </article>
+    <article>
+        <fromUser>178035235</fromUser>
+        <messageID>521</messageID>
+        <time>27-11-2022 13:25:02</time>
+        <question>some tests</question>
+        <answer>some answers</answer>
+    </article>
+    <article>
+        <fromUser>178035235</fromUser>
+        <messageID>524</messageID>
+        <time>27-11-2022 13:25:10</time>
+        <question>проверка кодировки</question>
+        <answer>кодировка пойдёт</answer>
+    </article>
+    <article>
+        <fromUser>184365065</fromUser>
+        <messageID>537</messageID>
+        <time>27-11-2022 13:34:33</time>
+        <question>What’s the weather today?</question>
+        <answer>I'm travelling down the river</answer>
+    </article>
+    <article>
+        <fromUser>184365065</fromUser>
+        <messageID>540</messageID>
+        <time>27-11-2022 13:34:50</time>
+        <question>When will we watch the game of thrones?</question>
+        <answer/>
+    </article>
+    <article>
+        <fromUser>184365065</fromUser>
+        <messageID>543</messageID>
+        <time>27-11-2022 13:35:04</time>
+        <question>Why is my bottle empty?</question>
+        <answer/>
+    </article>
+    <article>
+        <fromUser>178035235</fromUser>
+        <messageID>665</messageID>
+        <time>27-11-2022 14:43:14</time>
+        <question>вопрос какой-нибудь</question>
+        <answer>ответ какой-нибудь</answer>
+    </article>
+    <article>
+        <fromUser>178035235</fromUser>
+        <messageID>678</messageID>
+        <time>27-11-2022 19:10:26</time>
+        <question>какой-то случайный вопрос</question>
+        <answer/>
+    </article>
+    <article>
+        <fromUser>178035235</fromUser>
+        <messageID>701</messageID>
+        <time>27-11-2022 19:22:48</time>
+        <question>были два козла. один серый, другой черный. Сколько?</question>
+        <answer>Жак Фреско, залогиньтесь!</answer>
+    </article>
+</questions>
