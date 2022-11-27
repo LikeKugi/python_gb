@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}Answer the questions{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block content %}
+
+<div class="header">
+    <h1>Questions</h1>
+</div>
+
+
+{% if form %}
+<form action="/index" , method="post">
+    {{ form.csrf_token }}
+    <div id="input-word">
+        <div class="input-form">
+            {{ form.questions.label }}
+            {{ form.questions }}
+        </div>
+
+        <br>
+
+        <div class="input-form">
+            {{ form.answer.label }}
+            {{ form.answer }}
+        </div>
+
+        <br>
+
+        <div class="input-form">
+            {{ form.submit.label }}
+            {{ form.submit }}
+        </div>
+
+    </div>
+
+
+</form>
+{% endif %}
+
+{% endblock %}

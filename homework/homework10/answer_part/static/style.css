@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body {
+	box-sizing: border-box;
+	font-family: 'Ubuntu', sans-serif;
+	margin: 2rem;
+}
+body::before {
+	z-index: -1;
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(
+        115deg,
+        rgba(222, 222, 222),
+        rgba(235, 235, 235)
+        );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#content {
+	margin: 0 auto;
+	max-width: 1000px;
+	background-color: #dddfe1;
+	outline: 1px rgb(230, 230, 250);
+	border-radius: 5px;
+}
+.header {
+	border-top-left-radius:     1rem;
+    border-top-right-radius:    1rem;
+    background-color: rgb(60, 60, 60);
+    padding: 30px;
+}
+h1 {
+	font-size: 40px;
+	text-align: center;
+	color: rgb(60, 205, 65);
+}
+.successed {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 50px;
+	padding: 20px;
+}
+.successed-link{
+	font-size: 30px;
+	text-align: center;
+}
+.input-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+}
+#questions {
+	display: block;
+    height: 25px;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    border-radius: 3px;
+    margin: 5px;
+    padding-left: 5px;
+}
+#answer {
+	border: 1px solid rgba(0, 0, 0, 0.8);
+    border-radius: 3px;
+    margin: 5px;
+    padding: 5px;
+}
+#submit {
+	height: 2rem;
+    background-color: rgb(175, 175, 175);
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    border-radius: 0.5rem;
+    font-size: 25px;
+}
+#input-word{
+	margin: 2rem;
+}
+#footer {
+	position: sticky;
+	bottom: 0;
+	width: 100%;
+	height: 2.5rem;
+}
