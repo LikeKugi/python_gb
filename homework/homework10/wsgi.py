@@ -1,3 +1,4 @@
+# FLASK enter point
 from answer_part import app
 
 if __name__ == '__main__':
