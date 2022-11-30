@@ -1,4 +1,4 @@
 Flask==2.2.2
 flask_wtf==1.0.1
-pyTelegramBotAPI==4.8.0
+pyTelegramBotAPI==4.7.1
 WTForms==3.0.1

@@ -41,14 +41,14 @@
         <messageID>540</messageID>
         <time>27-11-2022 13:34:50</time>
         <question>When will we watch the game of thrones?</question>
-        <answer/>
+        <answer />
     </article>
     <article>
         <fromUser>184365065</fromUser>
         <messageID>543</messageID>
         <time>27-11-2022 13:35:04</time>
         <question>Why is my bottle empty?</question>
-        <answer/>
+        <answer />
     </article>
     <article>
         <fromUser>178035235</fromUser>
@@ -62,7 +62,7 @@
         <messageID>678</messageID>
         <time>27-11-2022 19:10:26</time>
         <question>какой-то случайный вопрос</question>
-        <answer/>
+        <answer>какой-то случайный ответ</answer>
     </article>
     <article>
         <fromUser>178035235</fromUser>
