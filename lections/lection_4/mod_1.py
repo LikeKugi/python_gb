@@ -2,8 +2,11 @@ x = 0
 y = 0
 
 
-def foo():
+def init(a, b):
     global x
     global y
-    x = 10
-    y = 12
+    x = a
+    y = b
+
+
+def sum_of_two(): return x + y

@@ -1,0 +1,74 @@
+[
+    {
+        "productName": "Huawei MateBook X Pro",
+        "image": "huawei-matebook-pro.jpg",
+        "cpu": "Intel Core i7, 8th generation",
+        "ram": "8GB",
+        "storage": "512GB",
+        "screen": "13.9-inch, 3K (3000 x 2080)",
+        "price": "1499"
+    },
+    {
+        "productName": "Apple Macbook Pro 2018",
+        "image": "macbook-pro-15.jpg",
+        "cpu": "6-core Intel i7, 8th generation",
+        "ram": "16GB",
+        "storage": "1TB",
+        "screen": "15-inch, Retina display",
+        "price": "3199"
+    },
+    {
+        "productName": "Dell XPS 13",
+        "image": "dell-xps-13.png",
+        "cpu": "Intel Core i7, 8th generation",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen": "13.3-inch, Full HD",
+        "price": "1199"
+    },
+    {
+        "productName": "Asus ZenBook Flip S",
+        "image": "asus-zenbook-flip-s.jpg",
+        "cpu": "Intel Core i7, 8th generation",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen": "13.3-inch, Full HD touchscreen",
+        "price": "1399"
+    },
+    {
+        "productName": "Samsung Notebook 9",
+        "image": "samsung-notebook-9.jpg",
+        "cpu": "Intel Core i7, 8th generation",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen": "15-inch, Full HD",
+        "price": "1499"
+    },
+    {
+        "productName": "MSI Pulse GL76",
+        "image": "msi-pulse-gl76.jpg",
+        "cpu": "Intel Core i7, 12th generation",
+        "ram": "16GB",
+        "storage": "256GB",
+        "screen": "17.3-inch, Full HD",
+        "price": "1299"
+    },
+    {
+        "productName": "HP Victus 16",
+        "image": "hp-victus-16.jpg",
+        "cpu": "Ryzen 5 5600H",
+        "ram": "16GB",
+        "storage": "512GB",
+        "screen": "16.1-inch, Full HD",
+        "price": "1199"
+    },
+    {
+        "productName": "Lenovo 3 15ITL6",
+        "image": "lenovo-3-15itl.jpg",
+        "cpu": "Intel Core i5, 11th generation",
+        "ram": "8GB",
+        "storage": "256GB",
+        "screen": "15.6-inch, Full HD",
+        "price": "999"
+    }
+]
