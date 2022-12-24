@@ -6,37 +6,32 @@
 {% block content %}
 
 <div class="main__header">
-    <h1>Questions</h1>
+    <h1 class="main__header__title">List of laptops</h1>
 </div>
 
 
-{% if form %}
-<form action="/index" , method="post">
-    {{ form.csrf_token }}
-    <div id="input-word">
-        <div class="input-form">
-            {{ form.questions.label }}
-            {{ form.questions }}
-        </div>
+{% if laptops %}
+    <div class="cards">
+        {% for laptop in laptops %}
+            <div class="card">
+                <div class="card__image">
+                    <img class="card__image__img" src="{{url_for('static', filename='img/'+laptop.image )}}" alt="{{ laptop.product_name }}">
+                </div>
+                <div class="card__content">
+                    <h3 class="card__content__header">
+                        {{ laptop.product_name }}
+                    </h3>
+                    <p class="card__content__text">{{ laptop.cpu }}</p>
+                    <p class="card__content__text">{{ laptop.ram }}GB</p>
+                    <p class="card__content__text">{{ laptop.storage }}GB</p>
+                    <p class="card__content__text">{{ laptop.screen }}-inches </p>
+                    <p class="card__content__text">{{ laptop.get_screen_property() }}</p>
+                    <p class="card__content__price">${{ laptop.price }}</p>
+                </div>
+            </div>
 
-        <br>
-
-        <div class="input-form">
-            {{ form.answer.label }}
-            {{ form.answer }}
-        </div>
-
-        <br>
-
-        <div class="input-form">
-            {{ form.submit.label }}
-            {{ form.submit }}
-        </div>
-
+        {% endfor %}
     </div>
-
-
-</form>
 {% endif %}
 
 {% endblock %}

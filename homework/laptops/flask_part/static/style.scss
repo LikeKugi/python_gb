@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+$dark_font: rgb(40, 40, 40);
+
+
 * {
   margin: 0;
   padding: 0;
@@ -12,20 +15,117 @@
   flex-direction: column;
   min-height: 100vh;
 }
+
+.header {
+  background-color: lightgrey;
+  font-family: 'Oswald', sans-serif;
+  min-height: 2.75rem;
+  padding-top: 10px;
+}
+
+.nav-wrapper {
+  margin: 0 auto;
+  max-width: 900px;
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+  &__item {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: $dark_font;
+    font-size: 0.8rem;
+    display: inline-block;
+    border: 1px solid $dark_font;
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 1rem;
+  }
+  &__item:last-child {
+    margin-right: 0;
+    margin-left: auto;
+  }
+  &__item:hover {
+    background-color: $dark-font;
+    color: lightgrey;
+  }
+}
+
 .main {
   flex: 1;
+  margin-bottom: 20px;
+  &__header {
+    text-align: center;
+    margin-bottom: 20px;
+    &__title {
+      font-size: 48px;
+      font-weight: bolder;
+    }
+  }
 }
+
 .container {
   margin: 0 auto;
   max-width: 1200px;
-  min-height: 200px;
 }
+
 .footer {
+  box-sizing: border-box;
   min-height: 150px;
   color: rgb(222, 222, 222);
   background-color: rgb(33, 33, 33);
+  padding: 20px 60px;
   &__link {
     text-decoration: none;
     color: aquamarine;
   }
+}
+
+.cards {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  box-sizing: border-box;
+  padding: 5px;
+  border: 1px solid $dark_font;
+  border-radius: 5px;
+  min-width: 475px;
+  min-height: 250px;
+  margin: 10px;
+  &__image {
+    max-width: 200px;
+    max-height: 200px;
+    margin-right: 10px;
+    &__img {
+      width: 100%;
+    }
+  }
+  &__content {
+    min-width: 200px;
+    &__header {
+      font-size: 1.2rem;
+      color: rgb(20, 20, 20);
+      text-transform: capitalize;
+      margin-bottom: 10px;
+    }
+    &__text{
+      color: rgb(60, 60, 60);
+      font-size: 0.9rem;
+      font-weight: lighter;
+      margin-bottom: 0.5rem;
+    }
+    &__price{
+      color: $dark-font;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+  }
+}
+
+.card:hover {
+  background-color: rgba(230, 230, 230, 0.4);
 }

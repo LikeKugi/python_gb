@@ -92,7 +92,7 @@ class Laptop:
         self._inches = to_digit(inches)
         self._screen_property = screen_property
 
-    def get_screen_property(self): return self._screen_property
+    def get_screen_property(self): return f'{self._screen_property}'
 
 
 if __name__ == '__main__':

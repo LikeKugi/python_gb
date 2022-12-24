@@ -1,11 +1,16 @@
 import json
-import pickle
 
-from Laptop import Laptop
+from .Laptop import Laptop
+
+PATH = 'data/laptop.json'
 
 
 def read_json() -> json:
-    with open("../data/laptop.json") as inf:
+    if __name__ == '__main__':
+        path = "../data/laptop.json"
+    else:
+        path = PATH
+    with open(path) as inf:
         laptops = json.load(inf)
         return laptops
 
@@ -14,16 +19,12 @@ def create_database(laptops: json):
     goods = set()
     for el in laptops:
         laptop = Laptop(*el.values())
-        print(laptop)
         goods.add(laptop)
     return goods
 
 
-def save_info(database: set) -> None:
-    with open('laptops_set.bin', 'wb') as ouf:
-        pickle.dump(database, ouf)
-
-
-if __name__ == '__main__':
+def create_set_laptops():
     data = read_json()
-    create_database(data)
+    laptops = create_database(data)
+    return laptops
+
