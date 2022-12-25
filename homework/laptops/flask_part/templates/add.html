@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}Add Laptop{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+{% block content %}
+
+<div class="main__header">
+  <h1 class="main__header__title">Add laptop</h1>
+</div>
+
+{% if form %}
+<form action="/add.html" method=post enctype=multipart/form-data>
+  {{ form.csrf_token }}
+  <fieldset class="upload">
+    <legend>Upload laptop data</legend>
+    <div class="upload__input">
+      {{ form.product_name.label }}
+      {{ form.product_name }}
+    </div>
+    <div class="upload__input">
+      {{ form.cpu.label }}
+      {{ form.cpu }}
+    </div>
+    <div class="upload__input">
+      {{ form.ram.label }}
+      {{ form.ram }}
+    </div>
+    <div class="upload__input">
+      {{ form.storage.label }}
+      {{ form.storage }}
+    </div>
+    <div class="upload__input">
+      {{ form.screen_inches.label }}
+      {{ form. screen_inches }}
+    </div>
+    <div class="upload__input">
+      {{ form.screen_property.label }}
+      {{ form.screen_property }}
+    </div>
+    <div class="upload__input">
+      {{ form.image.label }}
+      {{ form.image }}
+    </div>
+    <div class="upload__button">
+      {{ form.submit }}
+    </div>
+  </fieldset>
+</form>
+{% endif %}
+
+{% endblock %}

@@ -129,3 +129,19 @@ $dark_font: rgb(40, 40, 40);
 .card:hover {
   background-color: rgba(230, 230, 230, 0.4);
 }
+.upload {
+  &__input {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+  }
+  &__button {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+}
+#submit {
+  padding: 5px 40px;
+}
