@@ -1,14 +1,14 @@
 import os
 
 from flask import Flask, render_template, redirect, url_for, request
-from base import get_laptops, save_laptops
+from base import get_laptops, write_json
 from .add_form import UploadForm as UF
 from werkzeug.utils import secure_filename
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 app.config['SECRET_KEY'] = '1234'
 app.config['UPLOAD_EXTENSIONS'] = ['.jpg', '.png']
-app.config['UPLOAD_PATH'] = 'flask_part/static/uploads'
+app.config['UPLOAD_PATH'] = 'flask_part/static/img'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
 
 
@@ -30,6 +30,8 @@ def upload_page():
             filename = secure_filename(uploaded_file.filename)
             uploaded_file.save(os.path.join(app.config['UPLOAD_PATH'], filename))
             print(filename)
+        else:
+            filename = 'empty.jpg'
 
         print(f'name = {form.product_name.data}')
         print(f'cpu = {form.cpu.data}')
@@ -37,7 +39,20 @@ def upload_page():
         print(f'storage = {form.storage.data}')
         print(f'inches = {form.screen_inches.data}')
         print(f'screen = {form.screen_property.data}')
+        print(f'price = {form.price.data}')
         print(f'image = {form.image}')
+
+        new_laptop = {
+            'productName': form.product_name.data,
+            'image': filename,
+            'cpu': form.cpu.data,
+            'ram': f'{form.ram.data}GB',
+            'storage': f'{form.storage.data}GB',
+            'screen': f'{form.screen_inches.data}, {form.screen_property.data}',
+            'price': f'{form.price.data}'
+        }
+        print(new_laptop)
+        write_json(new_laptop)
 
         return redirect(url_for('index'))
 
