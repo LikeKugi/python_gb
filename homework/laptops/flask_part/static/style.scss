@@ -99,6 +99,7 @@ $dark_font: rgb(40, 40, 40);
   min-width: 475px;
   min-height: 250px;
   margin: 10px;
+  transition: box-shadow 1s, background-color .5s;
   &__image {
     max-width: 200px;
     max-height: 200px;

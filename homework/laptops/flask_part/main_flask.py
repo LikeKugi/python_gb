@@ -1,7 +1,7 @@
 import os
 
 from flask import Flask, render_template, redirect, url_for, request
-from base import get_laptops, write_json
+from base import get_laptops, write_json, filter_laptops
 from .add_form import UploadForm as UF
 from werkzeug.utils import secure_filename
 
@@ -57,3 +57,27 @@ def upload_page():
         return redirect(url_for('index'))
 
     return render_template('add.html', form=form)
+
+@app.route('/cpu')
+@app.route('/cpu.html')
+def filter_cpu():
+    laptops = filter_laptops('cpu')
+    return render_template('index.html', laptops=laptops)
+
+@app.route('/ram')
+@app.route('/ram.html')
+def filter_ram():
+    laptops = filter_laptops('ram')
+    return render_template('index.html', laptops=laptops)
+
+@app.route('/storage')
+@app.route('/storage.html')
+def filter_storage():
+    laptops = filter_laptops('storage')
+    return render_template('index.html', laptops=laptops)
+
+@app.route('/inches')
+@app.route('/inches.html')
+def filter_inches():
+    laptops = filter_laptops('screen')
+    return render_template('index.html', laptops=laptops)

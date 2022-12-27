@@ -71,6 +71,9 @@ class Laptop:
         self.image = image
         self.product_name = product_name
 
+    def __getitem__(self, item):
+        return object.__getattribute__(self, item)
+
     def __repr__(self):
         return f'{self.__class__.__name__}({self.product_name!r}, {self.image!r}, {self.cpu!r}, {self.ram!r}, {self.storage!r}, {self.screen!r}, {self.price!r})'
 
