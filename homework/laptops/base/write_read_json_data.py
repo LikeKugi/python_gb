@@ -1,9 +1,7 @@
 import json
+from .Laptops import save_laptops, create_collection_laptops
 
-from .set_laptops import save_laptops
-from .Laptop import Laptop
-
-PATH = 'data/laptop_first.json'
+PATH = 'data/laptop.json'
 
 
 def read_json() -> json:
@@ -31,23 +29,3 @@ def write_json(new_laptop: dict) -> None:
     data.append(new_laptop)
     with open(PATH, 'w') as ouf:
         json.dump(data, ouf)
-    laptops_set = create_set_laptops()
-    save_laptops(laptops_set)
-
-
-def create_database(laptops: json):
-    goods = set()
-    for el in laptops:
-        laptop = Laptop(*el.values())
-        goods.add(laptop)
-    return goods
-
-
-def create_set_laptops():
-    data = read_json()
-    laptops = create_database(data)
-    return laptops
-
-
-if __name__ == '__main__':
-    print(read_json())

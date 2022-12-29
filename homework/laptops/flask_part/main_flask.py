@@ -1,7 +1,7 @@
 import os
 
 from flask import Flask, render_template, redirect, url_for, request
-from base import get_laptops, write_json, filter_laptops
+from base import write_json, load_db
 from .add_form import UploadForm as UF
 from werkzeug.utils import secure_filename
 
@@ -14,8 +14,11 @@ app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
 
 @app.route('/', methods=['GET', 'POST'])
 @app.route('/index', methods=['GET', 'POST'])
+@app.route('/index.html', methods=['GET', 'POST'])
 def index():
-    laptops = get_laptops()
+    new_laptops = load_db()
+    laptops = new_laptops.laptops
+    print(laptops)
     return render_template('index.html', laptops=laptops)
 
 
@@ -53,7 +56,6 @@ def upload_page():
         }
         print(new_laptop)
         write_json(new_laptop)
-
         return redirect(url_for('index'))
 
     return render_template('add.html', form=form)
@@ -61,23 +63,29 @@ def upload_page():
 @app.route('/cpu')
 @app.route('/cpu.html')
 def filter_cpu():
-    laptops = filter_laptops('cpu')
+    laptops = load_db().filter('cpu')
     return render_template('index.html', laptops=laptops)
 
 @app.route('/ram')
 @app.route('/ram.html')
 def filter_ram():
-    laptops = filter_laptops('ram')
+    laptops = load_db().filter('ram')
     return render_template('index.html', laptops=laptops)
 
 @app.route('/storage')
 @app.route('/storage.html')
 def filter_storage():
-    laptops = filter_laptops('storage')
+    laptops = load_db().filter('storage')
     return render_template('index.html', laptops=laptops)
 
 @app.route('/inches')
 @app.route('/inches.html')
 def filter_inches():
-    laptops = filter_laptops('screen')
+    laptops = load_db().filter('screen')
+    return render_template('index.html', laptops=laptops)
+
+@app.route('/price')
+@app.route('/price.html')
+def filter_price():
+    laptops = load_db().filter('price')
     return render_template('index.html', laptops=laptops)

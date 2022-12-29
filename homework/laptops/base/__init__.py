@@ -1,4 +1,2 @@
-from .Laptop import Laptop
-from .create_laptops_set import create_set_laptops, write_json
-from .set_laptops import get_laptops, save_laptops
-from .laptops_filters import filter_laptops
+from .write_read_json_data import write_json
+from .Laptops import LaptopsCollection, load_db, create_collection_laptops
