@@ -1,5 +1,4 @@
 import json
-from .Laptops import save_laptops, create_collection_laptops
 
 PATH = 'data/laptop.json'
 
