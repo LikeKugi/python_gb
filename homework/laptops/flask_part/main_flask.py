@@ -60,11 +60,13 @@ def upload_page():
 
     return render_template('add.html', form=form)
 
+
 @app.route('/cpu')
 @app.route('/cpu.html')
 def filter_cpu():
     laptops = load_db().filter('cpu')
     return render_template('index.html', laptops=laptops)
+
 
 @app.route('/ram')
 @app.route('/ram.html')
@@ -72,17 +74,20 @@ def filter_ram():
     laptops = load_db().filter('ram')
     return render_template('index.html', laptops=laptops)
 
+
 @app.route('/storage')
 @app.route('/storage.html')
 def filter_storage():
     laptops = load_db().filter('storage')
     return render_template('index.html', laptops=laptops)
 
+
 @app.route('/inches')
 @app.route('/inches.html')
 def filter_inches():
     laptops = load_db().filter('screen')
     return render_template('index.html', laptops=laptops)
+
 
 @app.route('/price')
 @app.route('/price.html')
