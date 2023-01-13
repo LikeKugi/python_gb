@@ -1,8 +1,8 @@
 from __future__ import annotations
-from typing import TypeVar, Generic
+from typing import TypeVar, Generic, Protocol
 from random import randint as ri
 
-_T = TypeVar('_T')
+_T_co = TypeVar('_T_co', covariant=True)
 
 
 def main():
@@ -20,21 +20,21 @@ def main():
         print(person.kids)
 
 
-class Human:
-    def __init__(self, name: str, surname: str, patronymic: str, age: int):
+class Human(Protocol[_T_co]):
+    def __init__(self, name: str, surname: str, patronymic: str, age: int) -> None:
         self.name = name.capitalize()
         self.surname = surname.capitalize()
         self.patronymic = patronymic.capitalize()
         self.age = age
 
-    def marriage(self, pair: Generic[_T]):
+    def marriage(self, pair: Generic[_T_co]):
         raise NotImplemented
 
-    def create_kid(self, kid: Generic[_T]):
+    def create_kid(self, kid: Generic[_T_co]):
         raise NotImplemented
 
     def set_parents(self, father, mother):
-        pass
+        raise NotImplemented
 
 
 class Man(Human):
@@ -46,13 +46,13 @@ class Man(Human):
         self.kids = []
         self.parents = None
 
-    def marriage(self, pair: Generic[_T]):
-        self.wife: _T = pair
+    def marriage(self, pair: Generic[_T_co]):
+        self.wife: _T_co = pair
 
-    def create_kid(self, kid: Generic[_T]):
+    def create_kid(self, kid: Generic[_T_co]):
         self.kids.append(kid)
 
-    def set_parents(self, father: Generic[_T], mother: Generic[_T]):
+    def set_parents(self, father: Generic[_T_co], mother: Generic[_T_co]):
         self.parents = (father, mother)
 
     def __str__(self):
@@ -71,13 +71,13 @@ class Woman(Human):
         self.kids = []
         self.parents = None
 
-    def marriage(self, pair: Generic[_T]):
-        self.husband: _T = pair
+    def marriage(self, pair: Generic[_T_co]):
+        self.husband: _T_co = pair
 
-    def create_kid(self, kid: Generic[_T]):
+    def create_kid(self, kid: Generic[_T_co]):
         self.kids.append(kid)
 
-    def set_parents(self, father: Generic[_T], mother: Generic[_T]):
+    def set_parents(self, father: Generic[_T_co], mother: Generic[_T_co]):
         self.parents = (father, mother)
 
     def __str__(self):
@@ -89,11 +89,11 @@ class Woman(Human):
 
 class Family:
 
-    def __init__(self, husband: Generic[_T], wife: Generic[_T]):
+    def __init__(self, husband: Generic[_T_co], wife: Generic[_T_co]):
         if husband.sex != wife.sex:
-            self.husband: _T = husband
-            self.wife: _T = wife
-            self.kids: list[_T] = []
+            self.husband: _T_co = husband
+            self.wife: _T_co = wife
+            self.kids: list[_T_co] = []
 
         else:
             raise NotImplemented
@@ -105,9 +105,9 @@ class Family:
     def make_kids(self, name):
         sex = ri(0, 1)
         if sex:
-            kid: _T = Woman(name, self.husband.surname, self.husband.name, 0)
+            kid: _T_co = Woman(name, self.husband.surname, self.husband.name, 0)
         else:
-            kid: _T = Man(name, self.husband.surname, self.husband.name, 0)
+            kid: _T_co = Man(name, self.husband.surname, self.husband.name, 0)
 
         for person in [self.wife, self.husband]:
             person.create_kid(kid)
