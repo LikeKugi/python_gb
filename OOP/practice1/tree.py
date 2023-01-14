@@ -1,130 +1,105 @@
 from __future__ import annotations
-from typing import TypeVar, Generic, Protocol
+from typing import TypeVar
 from random import randint as ri
+
+import names
+
+from Human import Man, Woman, Family
 
 _T_co = TypeVar('_T_co', covariant=True)
 
 
 def main():
-    man = Man('John', 'Doe', 'Harry', 19)
-    woman = Woman('Marry', 'Olsen', 'Boris', 18)
-    family = Family(man, woman)
-    family.make_kids('alex')
+    families: list[Family] = []
 
-    for kid in ['alex', 'mary', 'april', 'wednesday']:
-        family.make_kids(kid)
+    man = create_man(age=1400)
+    woman = create_pair(man)
+    _family = create_family(man, woman)
 
-    print(f'{family}')
+    print(f'{_family}')
 
-    for person in [man, woman]:
-        print(person.kids)
+    families.append(_family)
 
+    i = 0
+    while families[i].husband.age < 1500:
+        families.extend(create_families_kids(families[i]))
+        i += 1
 
-class Human:
-    def __init__(self, name: str, surname: str, patronymic: str, age: int) -> None:
-        self.name = name.capitalize()
-        self.surname = surname.capitalize()
-        self.patronymic = patronymic.capitalize()
-        self.age = age
-        print(self)
+    # for i in range(30):
+    #     families.extend(create_families_kids(families[i]))
+    write_families(families)
 
-    def marriage(self, pair: Generic[_T_co]):
-        raise NotImplemented
+    for family in families:
+        print(f'{family}')
 
-    def create_kid(self, kid: Generic[_T_co]):
-        raise NotImplemented
-
-    def set_parents(self, father, mother):
-        raise NotImplemented
+    egg = create_man()
+    print(f'{egg = }')
 
 
-class Man(Human):
-    sex = 'male'
-
-    def __init__(self, name, surname, patronymic, age):
-        super().__init__(name, surname, patronymic, age)
-        self.wife = None
-        self.kids = []
-        self.parents = None
-
-    def marriage(self, pair: Generic[_T_co]):
-        self.wife: _T_co = pair
-
-    def create_kid(self, kid: Generic[_T_co]):
-        self.kids.append(kid)
-
-    def set_parents(self, father: Generic[_T_co], mother: Generic[_T_co]):
-        self.parents = (father, mother)
-
-    def __str__(self):
-        return f'{self.name} {self.surname} {self.patronymic} {self.age}'
-
-    def __repr__(self):
-        return f'Man({self.name}, {self.surname}, {self.patronymic}, {self.age})'
+def create_man(*, name=None, surname=None, patronymic=None, age=None):
+    _age = age or ri(1960, 2004)
+    _name = name or names.get_first_name(gender='male')
+    _surname = surname or names.get_last_name()
+    _patronymic = patronymic or names.get_first_name(gender='male')
+    man = Man(_name, _surname, _patronymic, _age)
+    return man
 
 
-class Woman(Human):
-    sex = 'female'
-
-    def __init__(self, name, surname, patronymic, age):
-        super().__init__(name, surname, patronymic, age)
-        self.husband = None
-        self.kids = []
-        self.parents = None
-
-    def marriage(self, pair: Generic[_T_co]):
-        self.husband: _T_co = pair
-
-    def create_kid(self, kid: Generic[_T_co]):
-        self.kids.append(kid)
-
-    def set_parents(self, father: Generic[_T_co], mother: Generic[_T_co]):
-        self.parents = (father, mother)
-
-    def __str__(self):
-        return f'{self.name} {self.surname} {self.patronymic} {self.age}'
-
-    def __repr__(self):
-        return f'Woman({self.name}, {self.surname}, {self.patronymic}, {self.age})'
+def create_woman(*, name=None, surname=None, patronymic=None, age=None):
+    _age = age or ri(1960, 2004)
+    _name = name or names.get_first_name(gender='female')
+    _surname = surname or names.get_last_name()
+    _patronymic = patronymic or names.get_first_name(gender='female')
+    woman = Woman(_name, _surname, _patronymic, _age)
+    return woman
 
 
-class Family:
+def create_kid(person_1, person_2):
+    if type(person_1) == Man:
+        man = person_1
+        woman = person_2
+    else:
+        man = person_2
+        woman = person_1
+    _age = min(man.age, woman.age) + ri(18, 27)
+    sex = ri(0, 1)
+    if sex:
+        kid = create_man(age=_age, surname=man.surname, patronymic=man.name)
+    else:
+        kid = create_woman(age=_age, surname=man.surname, patronymic=man.name)
+    return kid
 
-    def __init__(self, husband: Generic[_T_co], wife: Generic[_T_co]):
-        if husband.sex != wife.sex:
-            self.husband: _T_co = husband
-            self.wife: _T_co = wife
-            self.kids: list[_T_co] = []
 
-        else:
-            raise NotImplemented
+def create_pair(person):
+    if type(person) == Man:
+        pair = create_woman(age=(person.age + ri(-5, 5)))
+    else:
+        pair = create_man(age=(person.age + ri(-5, 5)))
+    return pair
 
-    def marriage(self):
-        self.husband.marriage(self.wife)
-        self.wife.marriage(self.husband)
 
-    def make_kids(self, name):
-        sex = ri(0, 1)
-        if sex:
-            kid: _T_co = Woman(name, self.husband.surname, self.husband.name, 0)
-        else:
-            kid: _T_co = Man(name, self.husband.surname, self.husband.name, 0)
+def create_families_kids(family: Family):
+    _families: list[Family] = []
+    for kid in family.kids:
+        pair = create_pair(kid)
+        _family = create_family(kid, pair)
+        _families.append(_family)
+    return _families
 
-        for person in [self.wife, self.husband]:
-            person.create_kid(kid)
 
-        kid.set_parents(self.husband, self.wife)
+def create_family(man, woman):
+    _family = Family(man, woman)
+    for _ in range(ri(0, 5)):
+        kid = create_kid(man, woman)
+        _family.make_kids(kid)
+    print(_family)
+    return _family
 
-        self.kids.append(kid)
 
-    def _children(self):
-        inherits = ''
-        for kid in self.kids:
-            inherits += f'{kid}'
-        return inherits
-
-    def __str__(self):
-        return f'{self.husband} + {self.wife} = {self._children()}'
+def write_families(families: list[Family]):
+    with open('families.txt', 'w', encoding='utf-8') as ouf:
+        for _family in families:
+            print(_family, file=ouf)
 
 
 if __name__ == '__main__':
