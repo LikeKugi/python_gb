@@ -1,128 +1,2286 @@
-Glen Chinn Albert 1400 + Arlene Mooney Nina 1398 = Robert Chinn Glen 1420 | James Chinn Glen 1423 | Edward Chinn Glen 1417 | Curtis Chinn Glen 1421
-Robert Chinn Glen 1420 + Michele Eastham Stephanie 1425 = Valerie Chinn Robert 1442 | Walter Chinn Robert 1442
-James Chinn Glen 1423 + Stephanie Phillips Shayla 1427 = Jennifer Chinn James 1450
-Edward Chinn Glen 1417 + Yvette Windom Josephine 1419 = null
-Curtis Chinn Glen 1421 + Jessica Orr Marilyn 1423 = null
-Valerie Chinn Robert 1442 + Gary Capps Thomas 1441 = Larry Capps Gary 1467 | Constance Capps Gary 1465 | Jean Capps Gary 1462
-Walter Chinn Robert 1442 + Doris Tovar Annie 1441 = Anthony Chinn Walter 1461 | Donna Chinn Walter 1461 | Denise Chinn Walter 1463 | Jonathan Chinn Walter 1468
-Jennifer Chinn James 1450 + Cecil Welch Stephen 1451 = Susan Welch Cecil 1476 | Tracy Welch Cecil 1469 | Daniel Welch Cecil 1474 | Suzanne Welch Cecil 1468 | Richard Welch Cecil 1473
-Larry Capps Gary 1467 + Wendy Davis Melinda 1467 = Dustin Capps Larry 1489 | Joan Capps Larry 1494 | Elaine Capps Larry 1488 | Arthur Capps Larry 1493 | Michael Capps Larry 1485
-Constance Capps Gary 1465 + Santiago Fugate David 1465 = Tameka Fugate Santiago 1487 | Craig Fugate Santiago 1489
-Jean Capps Gary 1462 + Nicholas Quayle Francisco 1458 = David Quayle Nicholas 1483
-Anthony Chinn Walter 1461 + Darnell Jones Joyce 1460 = Christopher Chinn Anthony 1487 | Manuel Chinn Anthony 1484 | David Chinn Anthony 1483 | Milton Chinn Anthony 1481
-Donna Chinn Walter 1461 + Joseph Grogan Theodore 1457 = James Grogan Joseph 1477 | Ruth Grogan Joseph 1482 | David Grogan Joseph 1482 | Anton Grogan Joseph 1478
-Denise Chinn Walter 1463 + Curtis Morrone Mark 1462 = Velma Morrone Curtis 1486 | Adolfo Morrone Curtis 1482 | Starr Morrone Curtis 1487 | Ann Morrone Curtis 1480
-Jonathan Chinn Walter 1468 + Mary Wiggins Caroline 1469 = Constance Chinn Jonathan 1494 | Summer Chinn Jonathan 1486 | Dorothy Chinn Jonathan 1494
-Susan Welch Cecil 1476 + Thomas Daniels Joseph 1476 = null
-Tracy Welch Cecil 1469 + Travis Mcrae Daniel 1470 = Molly Mcrae Travis 1494 | Angela Mcrae Travis 1489
-Daniel Welch Cecil 1474 + Barbara Romeo Monique 1473 = Linda Welch Daniel 1494 | Mary Welch Daniel 1498
-Suzanne Welch Cecil 1468 + Wayne Valdez Howard 1468 = Patrick Valdez Wayne 1492 | Susan Valdez Wayne 1492 | Joyce Valdez Wayne 1486
-Richard Welch Cecil 1473 + Anita Hampton Janie 1474 = null
-Dustin Capps Larry 1489 + Lorrie Walter Heather 1488 = Bonnie Capps Dustin 1508 | Susan Capps Dustin 1509 | Paula Capps Dustin 1508 | Brandy Capps Dustin 1511
-Joan Capps Larry 1494 + Patrick Mcpherson Marc 1489 = Irene Mcpherson Patrick 1510
-Elaine Capps Larry 1488 + Sergio Keene Randy 1493 = Elanor Keene Sergio 1513 | Nancy Keene Sergio 1512 | Timothy Keene Sergio 1513 | George Keene Sergio 1513 | Emily Keene Sergio 1508
-Arthur Capps Larry 1493 + Dawn Haworth Alexis 1490 = Jose Capps Arthur 1512
-Michael Capps Larry 1485 + Elizabeth Heredia Pamela 1480 = Gerald Capps Michael 1501 | Teri Capps Michael 1504
-Tameka Fugate Santiago 1487 + Robert Maymi Alton 1490 = Valerie Maymi Robert 1509 | Kevin Maymi Robert 1512 | David Maymi Robert 1512 | Louise Maymi Robert 1512 | Sharon Maymi Robert 1505
-Craig Fugate Santiago 1489 + Kim Winston Charla 1485 = Larry Fugate Craig 1505 | Joseph Fugate Craig 1503
-David Quayle Nicholas 1483 + Roberta Fitzsimmons Elizabeth 1481 = Janet Quayle David 1508
-Christopher Chinn Anthony 1487 + Jennifer Anthony Blanca 1487 = Maryjo Chinn Christopher 1505
-Manuel Chinn Anthony 1484 + Jamie Hargis Doris 1481 = Steven Chinn Manuel 1505 | Lois Chinn Manuel 1505
-David Chinn Anthony 1483 + Molly Vargason Thelma 1480 = Donna Chinn David 1505 | Cory Chinn David 1499 | Nancy Chinn David 1505 | Peter Chinn David 1500 | Delores Chinn David 1500
-Milton Chinn Anthony 1481 + Lillian Smith Martha 1479 = Bethann Chinn Milton 1503 | Brian Chinn Milton 1501
-James Grogan Joseph 1477 + Ann Gainey Margaret 1476 = null
-Ruth Grogan Joseph 1482 + Marcos Hight Thomas 1481 = Dina Hight Marcos 1504 | Frank Hight Marcos 1500 | Betty Hight Marcos 1507 | Jon Hight Marcos 1507
-David Grogan Joseph 1482 + Andree Henriquez Linda 1480 = Rae Grogan David 1505 | Diedra Grogan David 1505 | Nellie Grogan David 1498 | Paul Grogan David 1506 | Lydia Grogan David 1507
-Anton Grogan Joseph 1478 + Deborah Hayes Heather 1475 = null
-Velma Morrone Curtis 1486 + Carlo Lazor Jose 1486 = Carla Lazor Carlo 1512 | Lawrence Lazor Carlo 1511 | Paul Lazor Carlo 1505 | Jeanna Lazor Carlo 1506
-Adolfo Morrone Curtis 1482 + Judy Burt Mary 1486 = Mary Morrone Adolfo 1500 | Sharon Morrone Adolfo 1506 | John Morrone Adolfo 1507
-Starr Morrone Curtis 1487 + Jimmy Collins John 1484 = null
-Ann Morrone Curtis 1480 + Ronald Aragon Gerald 1484 = Bonnie Aragon Ronald 1498 | Britt Aragon Ronald 1503 | Victor Aragon Ronald 1504
-Constance Chinn Jonathan 1494 + Fernando Fletcher James 1494 = William Fletcher Fernando 1514 | Stephen Fletcher Fernando 1513 | Virginia Fletcher Fernando 1519
-Summer Chinn Jonathan 1486 + Rene Curry Charles 1488 = Alice Curry Rene 1512 | Jennifer Curry Rene 1511 | Connie Curry Rene 1509 | Kelly Curry Rene 1510 | Janet Curry Rene 1512
-Dorothy Chinn Jonathan 1494 + Robert Roberts Carl 1489 = Dianne Roberts Robert 1513 | Carolyn Roberts Robert 1511 | Diana Roberts Robert 1515 | Justin Roberts Robert 1514 | Bethel Roberts Robert 1509
-Molly Mcrae Travis 1494 + Stephen Juarez Wm 1492 = null
-Angela Mcrae Travis 1489 + William Mayville Rodolfo 1485 = Suzanne Mayville William 1508 | Susan Mayville William 1510 | Tim Mayville William 1506
-Linda Welch Daniel 1494 + Jeremy Leroy James 1494 = Allen Leroy Jeremy 1513
-Mary Welch Daniel 1498 + Kenneth Hyman Carl 1502 = Joseph Hyman Kenneth 1518 | Dennis Hyman Kenneth 1520 | Irma Hyman Kenneth 1518 | Kimberly Hyman Kenneth 1524
-Patrick Valdez Wayne 1492 + Barbara Perkins Marceline 1489 = Margaret Valdez Patrick 1516 | Deanna Valdez Patrick 1507 | John Valdez Patrick 1512
-Susan Valdez Wayne 1492 + James Sheppard Carl 1490 = Charlotte Sheppard James 1509 | Tracy Sheppard James 1513 | Richard Sheppard James 1511
-Joyce Valdez Wayne 1486 + Kevin Cunningham Laurence 1481 = Michael Cunningham Kevin 1501
-Bonnie Capps Dustin 1508 + Keith Campbell Mathew 1507 = null
-Susan Capps Dustin 1509 + Ivan Vassell Jc 1504 = null
-Paula Capps Dustin 1508 + Raymond Fike Ben 1503 = Richard Fike Raymond 1525 | Marie Fike Raymond 1523 | Chris Fike Raymond 1527 | James Fike Raymond 1528 | Gregory Fike Raymond 1524
-Brandy Capps Dustin 1511 + Christopher Jones Michael 1516 = Ivan Jones Christopher 1529
-Irene Mcpherson Patrick 1510 + Joseph Goodwin Raymond 1512 = Connie Goodwin Joseph 1531 | William Goodwin Joseph 1528
-Elanor Keene Sergio 1513 + Benjamin Hamblin Mark 1514 = Michelle Hamblin Benjamin 1538 | John Hamblin Benjamin 1537 | Richard Hamblin Benjamin 1539
-Nancy Keene Sergio 1512 + Hans Rodriguez Bruce 1508 = Luis Rodriguez Hans 1531 | Veronica Rodriguez Hans 1532 | Patrick Rodriguez Hans 1535 | Emil Rodriguez Hans 1531 | Eric Rodriguez Hans 1533
-Timothy Keene Sergio 1513 + Nikki Patterson Carolyn 1517 = Richard Keene Timothy 1532 | Ronald Keene Timothy 1534 | Michael Keene Timothy 1539 | Donald Keene Timothy 1533 | Michael Keene Timothy 1538
-George Keene Sergio 1513 + Sally Kulig Lydia 1517 = Sandra Keene George 1538 | Jose Keene George 1531 | Kenneth Keene George 1534 | Patricia Keene George 1531 | Sylvia Keene George 1539
-Emily Keene Sergio 1508 + Ricky Gatewood Francis 1505 = null
-Jose Capps Arthur 1512 + Christine Gleason Carolyn 1507 = Maryann Capps Jose 1533 | Karen Capps Jose 1530
-Gerald Capps Michael 1501 + Mayra Martin Angela 1505 = Mike Capps Gerald 1524 | Benito Capps Gerald 1528 | Harry Capps Gerald 1519 | John Capps Gerald 1526
-Teri Capps Michael 1504 + Julio Massey Thomas 1504 = null
-Valerie Maymi Robert 1509 + James Cook Ronald 1507 = David Cook James 1530 | Charlotte Cook James 1533 | Genevieve Cook James 1528
-Kevin Maymi Robert 1512 + Bernadette Ramos Donna 1516 = Michael Maymi Kevin 1535
-David Maymi Robert 1512 + Eva Jones Madeline 1514 = Carol Maymi David 1532
-Louise Maymi Robert 1512 + Scott Peebles Lloyd 1512 = Linda Peebles Scott 1532 | Robert Peebles Scott 1532 | Minnie Peebles Scott 1536 | John Peebles Scott 1537
-Sharon Maymi Robert 1505 + David Rigby Todd 1508 = Irma Rigby David 1525 | William Rigby David 1525
-Larry Fugate Craig 1505 + Sheree Stracke Dora 1509 = Danny Fugate Larry 1526 | Jaime Fugate Larry 1525 | Thomas Fugate Larry 1526 | Antonio Fugate Larry 1528
-Joseph Fugate Craig 1503 + Clara Robertson Dorothy 1508 = Mary Fugate Joseph 1525 | Jack Fugate Joseph 1521 | Anna Fugate Joseph 1523 | Melissa Fugate Joseph 1521
-Janet Quayle David 1508 + Scott Mcnamara Phillip 1513 = null
-Maryjo Chinn Christopher 1505 + Oscar Zick William 1504 = null
-Steven Chinn Manuel 1505 + Catherine Scott Gladys 1504 = null
-Lois Chinn Manuel 1505 + Carey Cook Roland 1501 = null
-Donna Chinn David 1505 + Wesley Shelton Merle 1510 = Angie Shelton Wesley 1526 | Jill Shelton Wesley 1523
-Cory Chinn David 1499 + Janette Colbert Doris 1498 = Lisa Chinn Cory 1516
-Nancy Chinn David 1505 + William Waverly Carlos 1510 = Lori Waverly William 1529 | Arthur Waverly William 1529
-Peter Chinn David 1500 + Lisa Steen Bonnie 1496 = Mohammad Chinn Peter 1521 | Judy Chinn Peter 1521 | Angelia Chinn Peter 1522 | Althea Chinn Peter 1514
-Delores Chinn David 1500 + Edward Sagon Joe 1497 = Jessica Sagon Edward 1519 | Antonio Sagon Edward 1520 | Joseph Sagon Edward 1520 | Gregory Sagon Edward 1521 | Melanie Sagon Edward 1515
-Bethann Chinn Milton 1503 + Alfred Lynn James 1505 = Melissa Lynn Alfred 1529
-Brian Chinn Milton 1501 + Mary Boyd Regina 1506 = Christine Chinn Brian 1520 | Magnolia Chinn Brian 1526 | Gary Chinn Brian 1519
-Dina Hight Marcos 1504 + George Mitchell Maurice 1501 = Walter Mitchell George 1524 | Clarence Mitchell George 1519
-Frank Hight Marcos 1500 + Gina Shuster Socorro 1500 = null
-Betty Hight Marcos 1507 + James Nahass Peter 1505 = Joseph Nahass James 1527
-Jon Hight Marcos 1507 + Alma Trevino Josette 1509 = Virginia Hight Jon 1533 | Troy Hight Jon 1534
-Rae Grogan David 1505 + Jesse Irons Raymond 1502 = Richard Irons Jesse 1527 | Pasquale Irons Jesse 1524 | Guadalupe Irons Jesse 1529 | Fernando Irons Jesse 1525
-Diedra Grogan David 1505 + Ernest Corvera Michael 1502 = Ashli Corvera Ernest 1521 | Deborah Corvera Ernest 1525 | Jesus Corvera Ernest 1528 | Sharon Corvera Ernest 1520
-Nellie Grogan David 1498 + Wendell Pippen Eddie 1493 = Leroy Pippen Wendell 1513
-Paul Grogan David 1506 + Cynthia Clary Jacquelyn 1511 = Adrienne Grogan Paul 1532 | Erica Grogan Paul 1525 | William Grogan Paul 1526 | Ruby Grogan Paul 1527
-Lydia Grogan David 1507 + Stewart King Rodney 1506 = Winifred King Stewart 1524 | Lesley King Stewart 1525 | Richard King Stewart 1528 | Bruce King Stewart 1524
-Carla Lazor Carlo 1512 + Nicholas Green Alberto 1516 = Brandy Green Nicholas 1535
-Lawrence Lazor Carlo 1511 + Linda Vera Dolores 1507 = Joyce Lazor Lawrence 1529 | Naomi Lazor Lawrence 1532 | Dorothy Lazor Lawrence 1528
-Paul Lazor Carlo 1505 + Nellie Hage Joanna 1500 = null
-Jeanna Lazor Carlo 1506 + Charles Arthur Charles 1501 = Mary Arthur Charles 1524
-Mary Morrone Adolfo 1500 + William Carver Bernard 1497 = Patricia Carver William 1518 | Antonio Carver William 1522
-Sharon Morrone Adolfo 1506 + Alfredo Oliver Michael 1502 = Barbara Oliver Alfredo 1528 | Rachel Oliver Alfredo 1522
-John Morrone Adolfo 1507 + Brenda Wilson Gretchen 1512 = Carolyn Morrone John 1527 | Carrie Morrone John 1532
-Bonnie Aragon Ronald 1498 + Edward German John 1497 = null
-Britt Aragon Ronald 1503 + Kimberly Priest Juanita 1499 = null
-Victor Aragon Ronald 1504 + Leslie Hayden Delphine 1505 = Mildred Aragon Victor 1527 | Joseph Aragon Victor 1525 | Patricia Aragon Victor 1522
-William Fletcher Fernando 1514 + Christine Gaither Rose 1519 = Bradley Fletcher William 1538 | Pamela Fletcher William 1533
-Stephen Fletcher Fernando 1513 + Ella Dismukes Lori 1508 = Priscilla Fletcher Stephen 1529 | Nancy Fletcher Stephen 1527 | Wilfred Fletcher Stephen 1533 | Jason Fletcher Stephen 1528
-Virginia Fletcher Fernando 1519 + Todd Lopez Daniel 1515 = Kenneth Lopez Todd 1533 | Jo Lopez Todd 1537 | Pamela Lopez Todd 1537
-Alice Curry Rene 1512 + Sean Silva John 1515 = Patricia Silva Sean 1533 | Russell Silva Sean 1533 | Kenneth Silva Sean 1536 | Frank Silva Sean 1535
-Jennifer Curry Rene 1511 + Frank Russell Howard 1510 = Juliana Russell Frank 1532 | Shawn Russell Frank 1533 | Cecil Russell Frank 1536 | Queen Russell Frank 1529 | Deborah Russell Frank 1535
-Connie Curry Rene 1509 + Robert Mares Christopher 1509 = Frances Mares Robert 1528 | Nancy Mares Robert 1530 | Eric Mares Robert 1527 | Walter Mares Robert 1532 | David Mares Robert 1530
-Kelly Curry Rene 1510 + Ronald Rodriguez Gary 1514 = Ella Rodriguez Ronald 1536 | Carmen Rodriguez Ronald 1531 | David Rodriguez Ronald 1537 | Thomas Rodriguez Ronald 1531
-Janet Curry Rene 1512 + William Mefford Mark 1512 = Walter Mefford William 1538
-Dianne Roberts Robert 1513 + Floyd Corriveau Marc 1511 = Shirley Corriveau Floyd 1532
-Carolyn Roberts Robert 1511 + Todd Fernandez Stephen 1507 = Mary Fernandez Todd 1533 | Daniel Fernandez Todd 1530
-Diana Roberts Robert 1515 + Rolf Evans Miguel 1514 = Raul Evans Rolf 1535 | Elaine Evans Rolf 1537 | Aida Evans Rolf 1536
-Justin Roberts Robert 1514 + Karen Rich Michael 1510 = null
-Bethel Roberts Robert 1509 + Frank Navarro Ken 1512 = Jennifer Navarro Frank 1530 | Charles Navarro Frank 1530 | Bart Navarro Frank 1535 | Melani Navarro Frank 1535
-Suzanne Mayville William 1508 + Alex Mccarrel Scott 1504 = null
-Susan Mayville William 1510 + Ian Mercer Billy 1506 = Susan Mercer Ian 1524 | Willis Mercer Ian 1533 | Fernando Mercer Ian 1528
-Tim Mayville William 1506 + Marilyn Anderson Anya 1509 = Delana Mayville Tim 1527 | James Mayville Tim 1532 | Billie Mayville Tim 1531
-Allen Leroy Jeremy 1513 + Lillian Evans Tijuana 1514 = Lester Leroy Allen 1535
-Joseph Hyman Kenneth 1518 + Adela Rascon Ruby 1516 = Betty Hyman Joseph 1541 | Joseph Hyman Joseph 1538
-Dennis Hyman Kenneth 1520 + Linda Fowler Nicolle 1520 = Barry Hyman Dennis 1544 | Adeline Hyman Dennis 1544 | Bessie Hyman Dennis 1543 | Fanny Hyman Dennis 1543
-Irma Hyman Kenneth 1518 + Thomas Young Joseph 1520 = Ana Young Thomas 1540 | Vernell Young Thomas 1545 | Adriana Young Thomas 1538
-Kimberly Hyman Kenneth 1524 + Carlton Burch Oscar 1522 = Jennifer Burch Carlton 1544 | Rodney Burch Carlton 1540 | Eva Burch Carlton 1548
-Margaret Valdez Patrick 1516 + Brent Miller Andre 1513 = Pearl Miller Brent 1540 | Shane Miller Brent 1532 | Joseph Miller Brent 1536 | Sean Miller Brent 1538
-Deanna Valdez Patrick 1507 + Tommy Saenz James 1506 = Michael Saenz Tommy 1527 | Jenna Saenz Tommy 1531 | Lavern Saenz Tommy 1527 | Mary Saenz Tommy 1530
-John Valdez Patrick 1512 + Edith Carrico Della 1509 = Felicia Valdez John 1535 | Terry Valdez John 1534
-Charlotte Sheppard James 1509 + Israel Michaelis Henry 1506 = null
-Tracy Sheppard James 1513 + Kelvin Brooks Christopher 1509 = Thomas Brooks Kelvin 1529 | Fred Brooks Kelvin 1527 | Christine Brooks Kelvin 1529 | Robert Brooks Kelvin 1529
-Richard Sheppard James 1511 + Sonya Garland Ivory 1510 = Sophie Sheppard Richard 1529 | Vera Sheppard Richard 1533
-Michael Cunningham Kevin 1501 + Olive Franz Kathy 1505 = Kathy Cunningham Michael 1524
+
+GENERATION 0
+
+HUSBAND: Russell Wilson Gary 1400 WIFE: Ruth Keefe Mattie 1400 
+	KIDS: Sage Wilson Russell 1426 | Sharon Wilson Russell 1419 | Martha Wilson Russell 1420
+
+GENERATION 1
+
+HUSBAND: Sage Wilson Russell 1426 WIFE: David Cheek Frederick 1427 
+	KIDS: Frank Cheek David 1453 | Joseph Cheek David 1445 | Stephen Cheek David 1450 | Gertrude Cheek David 1452
+HUSBAND: Sharon Wilson Russell 1419 WIFE: Ronald Smith William 1420 
+	KIDS: Mary Smith Ronald 1439
+HUSBAND: Martha Wilson Russell 1420 WIFE: Henry Gent Minh 1415 
+	KIDS: Bridget Gent Henry 1441 | Vincent Gent Henry 1438
+
+GENERATION 2
+
+HUSBAND: Frank Cheek David 1453 WIFE: Blanca Mccroskey Pamela 1456 
+	KIDS: Robert Cheek Frank 1473 | Judith Cheek Frank 1471 | Shane Cheek Frank 1471 | Joanne Cheek Frank 1472 | Kimberly Cheek Frank 1475
+HUSBAND: Joseph Cheek David 1445 WIFE: Laura Trotman Cecilia 1449 
+	KIDS: Tom Cheek Joseph 1471 | Evan Cheek Joseph 1471 | Barry Cheek Joseph 1466 | Carol Cheek Joseph 1466 | Michell Cheek Joseph 1470
+HUSBAND: Stephen Cheek David 1450 WIFE: Pearlene Winn Karen 1455 
+	KIDS: Brett Cheek Stephen 1474 | Alicia Cheek Stephen 1471
+HUSBAND: Gertrude Cheek David 1452 WIFE: Randolph Strief Matthew 1451 
+	KIDS: Dane Strief Randolph 1472
+HUSBAND: Mary Smith Ronald 1439 WIFE: Larry Petty John 1438 
+	KIDS: Barry Petty Larry 1461 | Daniel Petty Larry 1458 | John Petty Larry 1461 | Stephen Petty Larry 1462
+HUSBAND: Bridget Gent Henry 1441 WIFE: Michael Smith Dylan 1446 
+	KIDS: null
+HUSBAND: Vincent Gent Henry 1438 WIFE: Annette Pusey Gale 1434 
+	KIDS: Noel Gent Vincent 1453
+
+GENERATION 3
+
+HUSBAND: Robert Cheek Frank 1473 WIFE: Blanche Coplan Vicki 1475 
+	KIDS: Mary Cheek Robert 1498 | Jane Cheek Robert 1493 | Charles Cheek Robert 1498 | David Cheek Robert 1500
+HUSBAND: Judith Cheek Frank 1471 WIFE: David Whitfield Chris 1467 
+	KIDS: Richard Whitfield David 1485 | Ashley Whitfield David 1494 | Julia Whitfield David 1488 | Susann Whitfield David 1485
+HUSBAND: Shane Cheek Frank 1471 WIFE: Terri Frey Betty 1472 
+	KIDS: Lucas Cheek Shane 1495 | George Cheek Shane 1498
+HUSBAND: Joanne Cheek Frank 1472 WIFE: Royal Charles Glenn 1467 
+	KIDS: Mauricio Charles Royal 1486 | Jean Charles Royal 1487 | Nicholas Charles Royal 1493 | Harland Charles Royal 1490 | John Charles Royal 1486
+HUSBAND: Kimberly Cheek Frank 1475 WIFE: Michael Murphy Richard 1479 
+	KIDS: David Murphy Michael 1498 | Gary Murphy Michael 1501
+HUSBAND: Tom Cheek Joseph 1471 WIFE: Annie Martin Kristi 1467 
+	KIDS: null
+HUSBAND: Evan Cheek Joseph 1471 WIFE: Jeffrey Loder Jamal 1474 
+	KIDS: Cindy Loder Jeffrey 1497 | Glenn Loder Jeffrey 1497 | Betsy Loder Jeffrey 1497 | Mildred Loder Jeffrey 1490 | Gwendolyn Loder Jeffrey 1493
+HUSBAND: Barry Cheek Joseph 1466 WIFE: Jennifer Powell Eva 1462 
+	KIDS: Dylan Cheek Barry 1484 | Denise Cheek Barry 1486 | Dawn Cheek Barry 1484
+HUSBAND: Carol Cheek Joseph 1466 WIFE: Ralph Elmore Nickolas 1471 
+	KIDS: Lelia Elmore Ralph 1484 | Robert Elmore Ralph 1490
+HUSBAND: Michell Cheek Joseph 1470 WIFE: Justin Warner Jacob 1472 
+	KIDS: null
+HUSBAND: Brett Cheek Stephen 1474 WIFE: Natalie Calhoun Emma 1478 
+	KIDS: null
+HUSBAND: Alicia Cheek Stephen 1471 WIFE: Johnny Cornejo David 1469 
+	KIDS: John Cornejo Johnny 1487 | Christie Cornejo Johnny 1487 | Jestine Cornejo Johnny 1492 | Martha Cornejo Johnny 1495 | Doris Cornejo Johnny 1489
+HUSBAND: Dane Strief Randolph 1472 WIFE: Jennifer Stokes Carole 1467 
+	KIDS: Arturo Strief Dane 1492 | Gail Strief Dane 1492 | Sheena Strief Dane 1492
+HUSBAND: Barry Petty Larry 1461 WIFE: Kindra Andres Stacy 1456 
+	KIDS: Meaghan Petty Barry 1480 | Jeff Petty Barry 1477 | Evelyn Petty Barry 1478
+HUSBAND: Daniel Petty Larry 1458 WIFE: Lauren Washer Sandra 1463 
+	KIDS: Susan Petty Daniel 1477 | Mary Petty Daniel 1483 | Dorothy Petty Daniel 1483 | Martin Petty Daniel 1480
+HUSBAND: John Petty Larry 1461 WIFE: Patricia Graham Ann 1461 
+	KIDS: Susan Petty John 1480
+HUSBAND: Stephen Petty Larry 1462 WIFE: Kathleen Short Sherry 1467 
+	KIDS: Roberta Petty Stephen 1482
+HUSBAND: Noel Gent Vincent 1453 WIFE: Helen Lucero Linda 1458 
+	KIDS: Celeste Gent Noel 1479 | Margareta Gent Noel 1479 | Janice Gent Noel 1478 | Steve Gent Noel 1477 | Cindy Gent Noel 1473
+
+GENERATION 4
+
+HUSBAND: Mary Cheek Robert 1498 WIFE: Douglas Thomas Jefferson 1495 
+	KIDS: Douglas Thomas Douglas 1516
+HUSBAND: Jane Cheek Robert 1493 WIFE: Robert Baker Wilber 1498 
+	KIDS: James Baker Robert 1511 | Alexis Baker Robert 1519 | James Baker Robert 1518 | Michael Baker Robert 1511 | James Baker Robert 1519
+HUSBAND: Charles Cheek Robert 1498 WIFE: Margaret Scott Virginia 1493 
+	KIDS: Elizabeth Cheek Charles 1519 | George Cheek Charles 1517 | Violeta Cheek Charles 1518 | Pamela Cheek Charles 1515 | Irene Cheek Charles 1517
+HUSBAND: David Cheek Robert 1500 WIFE: Eileen Albrecht Lena 1504 
+	KIDS: Leanna Cheek David 1526 | Keith Cheek David 1522
+HUSBAND: Richard Whitfield David 1485 WIFE: Karen Brown Thelma 1485 
+	KIDS: Marcus Whitfield Richard 1505 | Thomas Whitfield Richard 1508 | Louis Whitfield Richard 1508 | Kevin Whitfield Richard 1511
+HUSBAND: Ashley Whitfield David 1494 WIFE: Buddy Reid Andrew 1494 
+	KIDS: Paul Reid Buddy 1519
+HUSBAND: Julia Whitfield David 1488 WIFE: Lonnie Gercak Thomas 1490 
+	KIDS: null
+HUSBAND: Susann Whitfield David 1485 WIFE: Edward Smith Brandon 1488 
+	KIDS: Nancy Smith Edward 1511 | Thomas Smith Edward 1503 | Carey Smith Edward 1510 | Jessica Smith Edward 1511
+HUSBAND: Lucas Cheek Shane 1495 WIFE: Phyllis Swanson Kay 1497 
+	KIDS: null
+HUSBAND: George Cheek Shane 1498 WIFE: Elizabeth Mace Amy 1502 
+	KIDS: Geraldine Cheek George 1517 | Arnold Cheek George 1522 | Robert Cheek George 1516 | Michael Cheek George 1517
+HUSBAND: Mauricio Charles Royal 1486 WIFE: Cynthia Salmon Audrey 1491 
+	KIDS: null
+HUSBAND: Jean Charles Royal 1487 WIFE: Nathan Bazemore Tony 1490 
+	KIDS: null
+HUSBAND: Nicholas Charles Royal 1493 WIFE: Linda Haralson Gwen 1494 
+	KIDS: Orville Charles Nicholas 1519 | Krystle Charles Nicholas 1512 | Garry Charles Nicholas 1513 | Brandon Charles Nicholas 1517 | Steven Charles Nicholas 1512
+HUSBAND: Harland Charles Royal 1490 WIFE: Barbara Clark Crystal 1493 
+	KIDS: Tina Charles Harland 1509
+HUSBAND: John Charles Royal 1486 WIFE: Deanne Cole Pat 1491 
+	KIDS: Luis Charles John 1513 | Irene Charles John 1513 | Mary Charles John 1511 | Dawn Charles John 1512
+HUSBAND: David Murphy Michael 1498 WIFE: Shannon Randle Mai 1499 
+	KIDS: Felicia Murphy David 1525 | Kelly Murphy David 1516
+HUSBAND: Gary Murphy Michael 1501 WIFE: Stephanie Malmquist Patricia 1503 
+	KIDS: Mildred Murphy Gary 1528 | David Murphy Gary 1524 | Sarah Murphy Gary 1527
+HUSBAND: Cindy Loder Jeffrey 1497 WIFE: David Duncan George 1494 
+	KIDS: Tyson Duncan David 1513 | Julia Duncan David 1515 | Robert Duncan David 1513
+HUSBAND: Glenn Loder Jeffrey 1497 WIFE: Angela Moses Katherine 1495 
+	KIDS: Virginia Loder Glenn 1514 | Carlos Loder Glenn 1513
+HUSBAND: Betsy Loder Jeffrey 1497 WIFE: William Caldwell Peter 1499 
+	KIDS: Beverly Caldwell William 1520 | Dana Caldwell William 1515 | Tonya Caldwell William 1522 | Lewis Caldwell William 1523
+HUSBAND: Mildred Loder Jeffrey 1490 WIFE: Lee Ladner Johnny 1493 
+	KIDS: Lucy Ladner Lee 1509
+HUSBAND: Gwendolyn Loder Jeffrey 1493 WIFE: Robert Hart Robert 1488 
+	KIDS: Juanita Hart Robert 1511 | Jeffrey Hart Robert 1506 | Matthew Hart Robert 1510 | Maria Hart Robert 1506 | Michael Hart Robert 1508
+HUSBAND: Dylan Cheek Barry 1484 WIFE: Dina Sewell Beatrice 1480 
+	KIDS: Jennifer Cheek Dylan 1502 | Kathleen Cheek Dylan 1498 | Jenny Cheek Dylan 1500 | William Cheek Dylan 1499 | Dorthy Cheek Dylan 1504
+HUSBAND: Denise Cheek Barry 1486 WIFE: Carlos Odom Eric 1485 
+	KIDS: Anna Odom Carlos 1506 | Stefan Odom Carlos 1512 | Ted Odom Carlos 1509 | Tamara Odom Carlos 1511
+HUSBAND: Dawn Cheek Barry 1484 WIFE: Merlin Smith Frank 1482 
+	KIDS: null
+HUSBAND: Lelia Elmore Ralph 1484 WIFE: Anthony Schaefer Richard 1487 
+	KIDS: Frances Schaefer Anthony 1504 | Keith Schaefer Anthony 1505 | Florida Schaefer Anthony 1507 | John Schaefer Anthony 1502 | Nicholas Schaefer Anthony 1510
+HUSBAND: Robert Elmore Ralph 1490 WIFE: Victoria Ray Cassandra 1485 
+	KIDS: Jeffrey Elmore Robert 1506
+HUSBAND: John Cornejo Johnny 1487 WIFE: Christopher Kelly Mark 1483 
+	KIDS: Diane Kelly Christopher 1509
+HUSBAND: Christie Cornejo Johnny 1487 WIFE: Dan Larson Jonathan 1487 
+	KIDS: James Larson Dan 1514 | Roman Larson Dan 1505 | Timothy Larson Dan 1510 | Allen Larson Dan 1510
+HUSBAND: Jestine Cornejo Johnny 1492 WIFE: Francisco Perkins Carlos 1491 
+	KIDS: Patricia Perkins Francisco 1509 | Edgar Perkins Francisco 1510
+HUSBAND: Martha Cornejo Johnny 1495 WIFE: James Tripp Robert 1497 
+	KIDS: null
+HUSBAND: Doris Cornejo Johnny 1489 WIFE: William Lepak James 1491 
+	KIDS: Stephanie Lepak William 1513
+HUSBAND: Arturo Strief Dane 1492 WIFE: Sheri Christensen Geneva 1492 
+	KIDS: Gregory Strief Arturo 1511
+HUSBAND: Gail Strief Dane 1492 WIFE: David Mcsween Lance 1495 
+	KIDS: null
+HUSBAND: Sheena Strief Dane 1492 WIFE: Kevin Vail Neal 1492 
+	KIDS: Garry Vail Kevin 1519
+HUSBAND: Meaghan Petty Barry 1480 WIFE: Peter Jackson Pedro 1478 
+	KIDS: Daphne Jackson Peter 1500 | Natalie Jackson Peter 1498 | Rick Jackson Peter 1502 | Christa Jackson Peter 1503 | John Jackson Peter 1502
+HUSBAND: Jeff Petty Barry 1477 WIFE: Edith Montana Jan 1480 
+	KIDS: Martha Petty Jeff 1502 | Jorge Petty Jeff 1496
+HUSBAND: Evelyn Petty Barry 1478 WIFE: Tom Matthews Robert 1474 
+	KIDS: Ursula Matthews Tom 1498 | Joshua Matthews Tom 1497 | Melvin Matthews Tom 1500 | James Matthews Tom 1497 | Slyvia Matthews Tom 1495
+HUSBAND: Susan Petty Daniel 1477 WIFE: Kenneth Williams Kelly 1472 
+	KIDS: Rebecca Williams Kenneth 1498 | Kristine Williams Kenneth 1499 | Cassaundra Williams Kenneth 1492 | Richard Williams Kenneth 1495
+HUSBAND: Mary Petty Daniel 1483 WIFE: Freeman Lasala Travis 1478 
+	KIDS: Charles Lasala Freeman 1499 | James Lasala Freeman 1497
+HUSBAND: Dorothy Petty Daniel 1483 WIFE: Jerry Gunnerson Virgil 1481 
+	KIDS: null
+HUSBAND: Martin Petty Daniel 1480 WIFE: Carole Carlson Geneva 1481 
+	KIDS: Catherine Petty Martin 1501 | William Petty Martin 1499
+HUSBAND: Susan Petty John 1480 WIFE: Clyde Cormier Evan 1475 
+	KIDS: Robert Cormier Clyde 1493 | Michael Cormier Clyde 1501 | Eugene Cormier Clyde 1495
+HUSBAND: Roberta Petty Stephen 1482 WIFE: Howard Johnson Michael 1478 
+	KIDS: Alison Johnson Howard 1503 | Luisa Johnson Howard 1498 | Justin Johnson Howard 1502
+HUSBAND: Celeste Gent Noel 1479 WIFE: Clifford Metzger Anthony 1483 
+	KIDS: Lee Metzger Clifford 1501 | Ruth Metzger Clifford 1501 | Lashawnda Metzger Clifford 1498 | Joy Metzger Clifford 1502
+HUSBAND: Margareta Gent Noel 1479 WIFE: Jason Pennington Brian 1478 
+	KIDS: null
+HUSBAND: Janice Gent Noel 1478 WIFE: Brandon Sims James 1480 
+	KIDS: null
+HUSBAND: Steve Gent Noel 1477 WIFE: Stephanie Hankins Nan 1475 
+	KIDS: Alba Gent Steve 1494 | Shirley Gent Steve 1493 | John Gent Steve 1501 | Stanley Gent Steve 1496 | Bob Gent Steve 1500
+HUSBAND: Cindy Gent Noel 1473 WIFE: Bruno Mendez Joesph 1475 
+	KIDS: null
+
+GENERATION 5
+
+HUSBAND: Douglas Thomas Douglas 1516 WIFE: Ethel Mayfield Anne 1513 
+	KIDS: Diane Thomas Douglas 1531
+HUSBAND: James Baker Robert 1511 WIFE: Laura Peragine Tamara 1514 
+	KIDS: Sandra Baker James 1537 | Brandy Baker James 1530 | Holly Baker James 1532
+HUSBAND: Alexis Baker Robert 1519 WIFE: James Hedrington Michael 1524 
+	KIDS: Vanessa Hedrington James 1538 | Mae Hedrington James 1542
+HUSBAND: James Baker Robert 1518 WIFE: Amber Tennyson Marylin 1520 
+	KIDS: Joe Baker James 1539 | Kimberly Baker James 1544 | Christian Baker James 1539 | Steven Baker James 1542 | Louis Baker James 1541
+HUSBAND: Michael Baker Robert 1511 WIFE: Tamika Hildebrand Jane 1514 
+	KIDS: Inocencia Baker Michael 1538 | Patricia Baker Michael 1537
+HUSBAND: James Baker Robert 1519 WIFE: Mildred Burklow Shannon 1520 
+	KIDS: null
+HUSBAND: Elizabeth Cheek Charles 1519 WIFE: Randall Parke Richard 1514 
+	KIDS: Patrick Parke Randall 1540 | Loree Parke Randall 1538 | Annie Parke Randall 1537 | Jeffery Parke Randall 1536 | Jim Parke Randall 1533
+HUSBAND: George Cheek Charles 1517 WIFE: Ruth Conway Margaret 1516 
+	KIDS: Judy Cheek George 1542 | Marie Cheek George 1541 | Wm Cheek George 1541 | Tiffany Cheek George 1537
+HUSBAND: Violeta Cheek Charles 1518 WIFE: William Estimable Charles 1518 
+	KIDS: Clinton Estimable William 1545 | Milton Estimable William 1536
+HUSBAND: Pamela Cheek Charles 1515 WIFE: Larry Jackson Ralph 1518 
+	KIDS: Denise Jackson Larry 1540 | William Jackson Larry 1539 | Samuel Jackson Larry 1540 | Christopher Jackson Larry 1540 | Lori Jackson Larry 1536
+HUSBAND: Irene Cheek Charles 1517 WIFE: Richard Hoffman Arturo 1516 
+	KIDS: null
+HUSBAND: Leanna Cheek David 1526 WIFE: Bradley Owens James 1527 
+	KIDS: James Owens Bradley 1552 | Marsha Owens Bradley 1553 | Beulah Owens Bradley 1551
+HUSBAND: Keith Cheek David 1522 WIFE: Susan Hernandez Claudia 1527 
+	KIDS: Dean Cheek Keith 1542
+HUSBAND: Marcus Whitfield Richard 1505 WIFE: Kristie Williams Cheryl 1508 
+	KIDS: null
+HUSBAND: Thomas Whitfield Richard 1508 WIFE: Virginia Harris Victoria 1509 
+	KIDS: James Whitfield Thomas 1533 | Charlotte Whitfield Thomas 1527
+HUSBAND: Louis Whitfield Richard 1508 WIFE: Chrissy Thompson Beth 1512 
+	KIDS: Christopher Whitfield Louis 1529
+HUSBAND: Kevin Whitfield Richard 1511 WIFE: Pam Henry Regina 1507 
+	KIDS: null
+HUSBAND: Paul Reid Buddy 1519 WIFE: Ashley Ballard Amber 1517 
+	KIDS: Kim Reid Paul 1536 | Alexander Reid Paul 1536 | Debra Reid Paul 1535 | Daniel Reid Paul 1535
+HUSBAND: Nancy Smith Edward 1511 WIFE: James Florez Richard 1511 
+	KIDS: Stefani Florez James 1537 | Hae Florez James 1534 | Millie Florez James 1535 | Thomas Florez James 1535
+HUSBAND: Thomas Smith Edward 1503 WIFE: Monica Puckett Dolores 1498 
+	KIDS: null
+HUSBAND: Carey Smith Edward 1510 WIFE: Michele Tuplano Danielle 1508 
+	KIDS: Steven Smith Carey 1526 | Cynthia Smith Carey 1533 | Mary Smith Carey 1528
+HUSBAND: Jessica Smith Edward 1511 WIFE: Bryan Lehman Warren 1506 
+	KIDS: Robert Lehman Bryan 1525 | Jennifer Lehman Bryan 1532
+HUSBAND: Geraldine Cheek George 1517 WIFE: Bill Karp David 1518 
+	KIDS: null
+HUSBAND: Arnold Cheek George 1522 WIFE: Angela Morales Veronica 1521 
+	KIDS: Mable Cheek Arnold 1543 | James Cheek Arnold 1539
+HUSBAND: Robert Cheek George 1516 WIFE: Teresa Arnold Maryanne 1514 
+	KIDS: Melissa Cheek Robert 1532 | David Cheek Robert 1534 | Sam Cheek Robert 1535
+HUSBAND: Michael Cheek George 1517 WIFE: Carolyn Schuetze Debra 1521 
+	KIDS: Elizabeth Cheek Michael 1536 | Yong Cheek Michael 1536 | Christopher Cheek Michael 1535 | Sandy Cheek Michael 1540 | Evelyn Cheek Michael 1535
+HUSBAND: Orville Charles Nicholas 1519 WIFE: Barbara Ottesen Irene 1518 
+	KIDS: Ronald Charles Orville 1540 | Carolyn Charles Orville 1543 | Olga Charles Orville 1536
+HUSBAND: Krystle Charles Nicholas 1512 WIFE: Richard Jones Randal 1507 
+	KIDS: Erin Jones Richard 1530
+HUSBAND: Garry Charles Nicholas 1513 WIFE: Kim Tucci Joyce 1515 
+	KIDS: Donnie Charles Garry 1540 | Johnny Charles Garry 1540 | Thomas Charles Garry 1534 | Christopher Charles Garry 1537
+HUSBAND: Brandon Charles Nicholas 1517 WIFE: Rose Olesky Barbara 1517 
+	KIDS: Jeanette Charles Brandon 1541 | Marlene Charles Brandon 1543
+HUSBAND: Steven Charles Nicholas 1512 WIFE: Marion Church Linda 1514 
+	KIDS: Jamie Charles Steven 1532
+HUSBAND: Tina Charles Harland 1509 WIFE: Joe Bennett Joseph 1509 
+	KIDS: Steven Bennett Joe 1533
+HUSBAND: Luis Charles John 1513 WIFE: Patricia Mathews Christina 1513 
+	KIDS: Keith Charles Luis 1537 | William Charles Luis 1540 | Jessica Charles Luis 1540 | Robin Charles Luis 1536
+HUSBAND: Irene Charles John 1513 WIFE: Henry Boyd Terry 1517 
+	KIDS: George Boyd Henry 1540 | Lawrence Boyd Henry 1540 | Christine Boyd Henry 1539 | Betty Boyd Henry 1540
+HUSBAND: Mary Charles John 1511 WIFE: John Watkins Richard 1516 
+	KIDS: Loraine Watkins John 1529
+HUSBAND: Dawn Charles John 1512 WIFE: John Phillips Jason 1517 
+	KIDS: Patricia Phillips John 1533 | Scott Phillips John 1536 | Ronald Phillips John 1532
+HUSBAND: Felicia Murphy David 1525 WIFE: Craig Marquez Anthony 1524 
+	KIDS: Susan Marquez Craig 1548 | Ronald Marquez Craig 1544
+HUSBAND: Kelly Murphy David 1516 WIFE: Dianne Piatek Shawana 1515 
+	KIDS: Raymond Murphy Kelly 1534 | Marion Murphy Kelly 1541 | Dora Murphy Kelly 1534
+HUSBAND: Mildred Murphy Gary 1528 WIFE: Kevin Whitton Robert 1523 
+	KIDS: null
+HUSBAND: David Murphy Gary 1524 WIFE: Cynthia Hawkins Susan 1528 
+	KIDS: null
+HUSBAND: Sarah Murphy Gary 1527 WIFE: Frank Burkholder Mark 1530 
+	KIDS: null
+HUSBAND: Tyson Duncan David 1513 WIFE: Edith Politte Jean 1512 
+	KIDS: Jeremy Duncan Tyson 1531 | Wilbert Duncan Tyson 1536
+HUSBAND: Julia Duncan David 1515 WIFE: Patrick Estes Harry 1511 
+	KIDS: Ian Estes Patrick 1536 | Sheridan Estes Patrick 1535 | Victor Estes Patrick 1532 | Daniel Estes Patrick 1530
+HUSBAND: Robert Duncan David 1513 WIFE: Teri Wall Shelia 1511 
+	KIDS: null
+HUSBAND: Virginia Loder Glenn 1514 WIFE: Frank Litzenberger Anthony 1518 
+	KIDS: Thomas Litzenberger Frank 1541 | George Litzenberger Frank 1539 | Emma Litzenberger Frank 1533 | Linda Litzenberger Frank 1537 | Susan Litzenberger Frank 1537
+HUSBAND: Carlos Loder Glenn 1513 WIFE: Lucinda Hodge Shaun 1513 
+	KIDS: Richard Loder Carlos 1532
+HUSBAND: Beverly Caldwell William 1520 WIFE: Wayne Yarber Craig 1524 
+	KIDS: Louis Yarber Wayne 1540 | Lester Yarber Wayne 1545 | Victor Yarber Wayne 1538 | Ronald Yarber Wayne 1539 | Bruce Yarber Wayne 1538
+HUSBAND: Dana Caldwell William 1515 WIFE: Timothy Williams Stan 1517 
+	KIDS: Terry Williams Timothy 1542
+HUSBAND: Tonya Caldwell William 1522 WIFE: Jason Hinkel Coy 1519 
+	KIDS: James Hinkel Jason 1539 | Aaron Hinkel Jason 1541 | Lauren Hinkel Jason 1538
+HUSBAND: Lewis Caldwell William 1523 WIFE: Isabelle Kaiser Ann 1523 
+	KIDS: Tom Caldwell Lewis 1546
+HUSBAND: Lucy Ladner Lee 1509 WIFE: Gabriel Harr Benjamin 1510 
+	KIDS: Leah Harr Gabriel 1531 | Linda Harr Gabriel 1527 | Robert Harr Gabriel 1528 | Sebastian Harr Gabriel 1530 | Patricia Harr Gabriel 1534
+HUSBAND: Juanita Hart Robert 1511 WIFE: Michael Jessen Walter 1510 
+	KIDS: null
+HUSBAND: Jeffrey Hart Robert 1506 WIFE: Carolyn Seward Mabelle 1503 
+	KIDS: Alan Hart Jeffrey 1528 | John Hart Jeffrey 1523 | Kimberly Hart Jeffrey 1530 | James Hart Jeffrey 1529
+HUSBAND: Matthew Hart Robert 1510 WIFE: Annie Barcenas Linda 1505 
+	KIDS: Bradley Hart Matthew 1528 | Sarah Hart Matthew 1532 | Sherrie Hart Matthew 1531 | Brian Hart Matthew 1532
+HUSBAND: Maria Hart Robert 1506 WIFE: Michael Goodemote Richard 1507 
+	KIDS: Johnny Goodemote Michael 1525 | Dana Goodemote Michael 1531
+HUSBAND: Michael Hart Robert 1508 WIFE: Maria Vela Jeanette 1506 
+	KIDS: Alberta Hart Michael 1526 | Rachel Hart Michael 1529
+HUSBAND: Jennifer Cheek Dylan 1502 WIFE: Donald Sierra Domingo 1507 
+	KIDS: Kenneth Sierra Donald 1529
+HUSBAND: Kathleen Cheek Dylan 1498 WIFE: Jeffrey Cabral Jack 1495 
+	KIDS: Steven Cabral Jeffrey 1515
+HUSBAND: Jenny Cheek Dylan 1500 WIFE: Charles Jennings Arron 1497 
+	KIDS: Alma Jennings Charles 1517 | Michelle Jennings Charles 1518 | Jennette Jennings Charles 1523 | David Jennings Charles 1521 | Laura Jennings Charles 1523
+HUSBAND: William Cheek Dylan 1499 WIFE: Elizabeth Manning Rose 1504 
+	KIDS: Sarah Cheek William 1522
+HUSBAND: Dorthy Cheek Dylan 1504 WIFE: Craig Figueroa David 1504 
+	KIDS: Lydia Figueroa Craig 1525 | Art Figueroa Craig 1526
+HUSBAND: Anna Odom Carlos 1506 WIFE: Ronald Price Jonathan 1507 
+	KIDS: Bettie Price Ronald 1527 | Tina Price Ronald 1531 | Kathy Price Ronald 1527 | Francis Price Ronald 1526
+HUSBAND: Stefan Odom Carlos 1512 WIFE: Sharon Stubblefield Martha 1508 
+	KIDS: Audrey Odom Stefan 1535 | John Odom Stefan 1528 | Joshua Odom Stefan 1527
+HUSBAND: Ted Odom Carlos 1509 WIFE: Edna Fagan Melodee 1504 
+	KIDS: Edris Odom Ted 1525 | Curtis Odom Ted 1528 | Tina Odom Ted 1528 | Rita Odom Ted 1528
+HUSBAND: Tamara Odom Carlos 1511 WIFE: Vincent Martin William 1508 
+	KIDS: Debra Martin Vincent 1533 | Jessica Martin Vincent 1532 | Frances Martin Vincent 1533 | Cheri Martin Vincent 1531 | Mary Martin Vincent 1533
+HUSBAND: Frances Schaefer Anthony 1504 WIFE: Jeffery Mack Nicholas 1500 
+	KIDS: Michael Mack Jeffery 1522 | Dominique Mack Jeffery 1527 | Lee Mack Jeffery 1522
+HUSBAND: Keith Schaefer Anthony 1505 WIFE: Sylvia Simms Leslie 1507 
+	KIDS: null
+HUSBAND: Florida Schaefer Anthony 1507 WIFE: Adam Oshea Gerald 1510 
+	KIDS: Jonathan Oshea Adam 1528 | Sherry Oshea Adam 1529 | Frederick Oshea Adam 1533
+HUSBAND: John Schaefer Anthony 1502 WIFE: Suzanne West Bessie 1504 
+	KIDS: Carol Schaefer John 1528 | Sarah Schaefer John 1520
+HUSBAND: Nicholas Schaefer Anthony 1510 WIFE: Marguerite Marshall Alice 1513 
+	KIDS: Christopher Schaefer Nicholas 1535 | Maria Schaefer Nicholas 1528 | Harlan Schaefer Nicholas 1530
+HUSBAND: Jeffrey Elmore Robert 1506 WIFE: Adeline Brown Brandi 1505 
+	KIDS: Robert Elmore Jeffrey 1524
+HUSBAND: Diane Kelly Christopher 1509 WIFE: Elwood Hannah George 1504 
+	KIDS: null
+HUSBAND: James Larson Dan 1514 WIFE: Pamela Velazquez Abigail 1517 
+	KIDS: John Larson James 1533 | Kaye Larson James 1541
+HUSBAND: Roman Larson Dan 1505 WIFE: Rita Mckibben Angela 1502 
+	KIDS: Joseph Larson Roman 1529 | Jeffrey Larson Roman 1526 | Patricia Larson Roman 1524
+HUSBAND: Timothy Larson Dan 1510 WIFE: Mary Starbuck Rita 1515 
+	KIDS: Tommie Larson Timothy 1530
+HUSBAND: Allen Larson Dan 1510 WIFE: Jackie Martin Shawn 1512 
+	KIDS: Joyce Larson Allen 1532
+HUSBAND: Patricia Perkins Francisco 1509 WIFE: Samuel Gonzales Walter 1506 
+	KIDS: null
+HUSBAND: Edgar Perkins Francisco 1510 WIFE: Dorthy Hendrix Brenda 1515 
+	KIDS: Kelley Perkins Edgar 1531 | Randall Perkins Edgar 1532 | Cyrus Perkins Edgar 1537 | Rhonda Perkins Edgar 1533
+HUSBAND: Stephanie Lepak William 1513 WIFE: Michael Hughes Charles 1514 
+	KIDS: Jennifer Hughes Michael 1539 | Jared Hughes Michael 1540 | Kenneth Hughes Michael 1533
+HUSBAND: Gregory Strief Arturo 1511 WIFE: Angela Riley Migdalia 1514 
+	KIDS: Judy Strief Gregory 1529 | Kimberly Strief Gregory 1533
+HUSBAND: Garry Vail Kevin 1519 WIFE: Amy Knotts Shani 1524 
+	KIDS: null
+HUSBAND: Daphne Jackson Peter 1500 WIFE: Lewis Wiggins James 1499 
+	KIDS: Rosella Wiggins Lewis 1524 | Karen Wiggins Lewis 1525 | Danilo Wiggins Lewis 1520
+HUSBAND: Natalie Jackson Peter 1498 WIFE: Robert Ruiz Jordan 1495 
+	KIDS: null
+HUSBAND: Rick Jackson Peter 1502 WIFE: Karen Link Tracey 1500 
+	KIDS: Lauren Jackson Rick 1523 | Evelyn Jackson Rick 1521 | Carolyn Jackson Rick 1519 | Virginia Jackson Rick 1527
+HUSBAND: Christa Jackson Peter 1503 WIFE: Bradley Willis Larry 1504 
+	KIDS: Vernon Willis Bradley 1525 | Frances Willis Bradley 1530 | Stephanie Willis Bradley 1527
+HUSBAND: John Jackson Peter 1502 WIFE: Penny Gonzalez Jennifer 1503 
+	KIDS: James Jackson John 1520 | Susan Jackson John 1523 | Theresa Jackson John 1526
+HUSBAND: Martha Petty Jeff 1502 WIFE: William Jacobs Warren 1505 
+	KIDS: Ulysses Jacobs William 1527 | Scott Jacobs William 1523 | Michael Jacobs William 1524
+HUSBAND: Jorge Petty Jeff 1496 WIFE: Kathrine Lewis Della 1501 
+	KIDS: Valerie Petty Jorge 1516 | Amanda Petty Jorge 1516
+HUSBAND: Ursula Matthews Tom 1498 WIFE: David Oquinn Coy 1500 
+	KIDS: null
+HUSBAND: Joshua Matthews Tom 1497 WIFE: Laurie Schmidt Mary 1494 
+	KIDS: null
+HUSBAND: Melvin Matthews Tom 1500 WIFE: Mechelle Simpson Marquerite 1503 
+	KIDS: Pauline Matthews Melvin 1523 | Andrea Matthews Melvin 1527 | Cecil Matthews Melvin 1519 | Leroy Matthews Melvin 1523 | Stephen Matthews Melvin 1525
+HUSBAND: James Matthews Tom 1497 WIFE: Aline Powell Virginia 1493 
+	KIDS: Ronald Matthews James 1520 | James Matthews James 1514
+HUSBAND: Slyvia Matthews Tom 1495 WIFE: John Tudor Eugene 1497 
+	KIDS: George Tudor John 1521
+HUSBAND: Rebecca Williams Kenneth 1498 WIFE: Albert Pettaway Angelo 1495 
+	KIDS: Manuela Pettaway Albert 1522 | Sharyl Pettaway Albert 1519 | Robert Pettaway Albert 1516
+HUSBAND: Kristine Williams Kenneth 1499 WIFE: John Wenstrom Michael 1504 
+	KIDS: null
+HUSBAND: Cassaundra Williams Kenneth 1492 WIFE: Kyle Flores Carl 1493 
+	KIDS: null
+HUSBAND: Richard Williams Kenneth 1495 WIFE: Marguerite Carpenter Diane 1493 
+	KIDS: Robert Williams Richard 1520 | Milford Williams Richard 1519 | Tamara Williams Richard 1520
+HUSBAND: Charles Lasala Freeman 1499 WIFE: Nannie Turbeville Maggie 1498 
+	KIDS: Angela Lasala Charles 1524 | Georgia Lasala Charles 1524 | Darrick Lasala Charles 1524
+HUSBAND: James Lasala Freeman 1497 WIFE: Marian Masella Victoria 1495 
+	KIDS: Diane Lasala James 1521 | Arthur Lasala James 1514 | Manuel Lasala James 1520
+HUSBAND: Catherine Petty Martin 1501 WIFE: Oscar Terry David 1497 
+	KIDS: Barbara Terry Oscar 1515 | Donna Terry Oscar 1524
+HUSBAND: William Petty Martin 1499 WIFE: Maria Balducci Kathryn 1499 
+	KIDS: John Petty William 1520 | Philip Petty William 1524
+HUSBAND: Robert Cormier Clyde 1493 WIFE: Susan Mcginn Astrid 1496 
+	KIDS: null
+HUSBAND: Michael Cormier Clyde 1501 WIFE: Roberta Pace Mary 1504 
+	KIDS: Willie Cormier Michael 1527 | Raymon Cormier Michael 1519 | Clifford Cormier Michael 1520
+HUSBAND: Eugene Cormier Clyde 1495 WIFE: Jenny Epstein Darcy 1496 
+	KIDS: Matthew Cormier Eugene 1522 | Emily Cormier Eugene 1522 | Gerald Cormier Eugene 1515 | John Cormier Eugene 1514
+HUSBAND: Alison Johnson Howard 1503 WIFE: Kenneth Everett Michael 1507 
+	KIDS: Christopher Everett Kenneth 1527
+HUSBAND: Luisa Johnson Howard 1498 WIFE: Kevin Nielson Frank 1494 
+	KIDS: Francis Nielson Kevin 1518
+HUSBAND: Justin Johnson Howard 1502 WIFE: Jennie Brown Antoinette 1499 
+	KIDS: null
+HUSBAND: Lee Metzger Clifford 1501 WIFE: Stephan Mobley Robert 1498 
+	KIDS: Charity Mobley Stephan 1522
+HUSBAND: Ruth Metzger Clifford 1501 WIFE: Joseph Davis David 1506 
+	KIDS: Brenda Davis Joseph 1522 | Richard Davis Joseph 1528 | Tiffany Davis Joseph 1525 | George Davis Joseph 1524
+HUSBAND: Lashawnda Metzger Clifford 1498 WIFE: Tommy Miller Arturo 1501 
+	KIDS: Heather Miller Tommy 1522 | Hazel Miller Tommy 1516 | Gertrude Miller Tommy 1516 | Noah Miller Tommy 1520 | Timothy Miller Tommy 1523
+HUSBAND: Joy Metzger Clifford 1502 WIFE: Fred Walls Bradley 1500 
+	KIDS: Ivette Walls Fred 1522 | John Walls Fred 1523 | Pearl Walls Fred 1522 | Anton Walls Fred 1525 | Robert Walls Fred 1519
+HUSBAND: Alba Gent Steve 1494 WIFE: Thomas Thomas Timothy 1494 
+	KIDS: Brenda Thomas Thomas 1517 | William Thomas Thomas 1512 | Tracy Thomas Thomas 1520
+HUSBAND: Shirley Gent Steve 1493 WIFE: Joseph Diehl Joseph 1492 
+	KIDS: Mozelle Diehl Joseph 1519 | George Diehl Joseph 1517 | George Diehl Joseph 1513 | Patricia Diehl Joseph 1518
+HUSBAND: John Gent Steve 1501 WIFE: Martha Pate Danielle 1505 
+	KIDS: Paul Gent John 1521 | Jacqueline Gent John 1525 | John Gent John 1526
+HUSBAND: Stanley Gent Steve 1496 WIFE: Patrica Parry Alice 1495 
+	KIDS: Duane Gent Stanley 1521 | Alice Gent Stanley 1520 | Ross Gent Stanley 1517 | Jeannine Gent Stanley 1520
+HUSBAND: Bob Gent Steve 1500 WIFE: Patricia Goings Juana 1500 
+	KIDS: Tonya Gent Bob 1520 | Tami Gent Bob 1523 | Thomas Gent Bob 1525 | Francisco Gent Bob 1525 | Angelia Gent Bob 1524
+
+GENERATION 6
+
+HUSBAND: Diane Thomas Douglas 1531 WIFE: Willie Griffin Craig 1532 
+	KIDS: Janet Griffin Willie 1558 | Wilma Griffin Willie 1556 | Paul Griffin Willie 1555
+HUSBAND: Sandra Baker James 1537 WIFE: Jack Gallegos Billy 1539 
+	KIDS: null
+HUSBAND: Brandy Baker James 1530 WIFE: Reginald Gay Monty 1528 
+	KIDS: Eric Gay Reginald 1546
+HUSBAND: Holly Baker James 1532 WIFE: Anthony Wills Richard 1529 
+	KIDS: Douglas Wills Anthony 1547 | William Wills Anthony 1547 | Rachel Wills Anthony 1554 | Kevin Wills Anthony 1548 | Marilyn Wills Anthony 1556
+HUSBAND: Vanessa Hedrington James 1538 WIFE: Steven Stiner Son 1533 
+	KIDS: Amy Stiner Steven 1553 | Judy Stiner Steven 1552
+HUSBAND: Mae Hedrington James 1542 WIFE: Albert Hurst John 1547 
+	KIDS: null
+HUSBAND: Joe Baker James 1539 WIFE: Virginia Smith Frances 1536 
+	KIDS: Barbara Baker Joe 1556
+HUSBAND: Kimberly Baker James 1544 WIFE: Kevin Kime Andrew 1548 
+	KIDS: Jonathan Kime Kevin 1563 | Patricia Kime Kevin 1566 | Robert Kime Kevin 1569 | Freda Kime Kevin 1563
+HUSBAND: Christian Baker James 1539 WIFE: Charles Helfrich James 1540 
+	KIDS: Lola Helfrich Charles 1558
+HUSBAND: Steven Baker James 1542 WIFE: Theresa Dalton Linda 1543 
+	KIDS: Lucie Baker Steven 1564 | William Baker Steven 1560
+HUSBAND: Louis Baker James 1541 WIFE: Melissa Garrison Rebecca 1536 
+	KIDS: Brenda Baker Louis 1554 | Bobbie Baker Louis 1559 | Pauline Baker Louis 1562 | Troy Baker Louis 1563 | Helena Baker Louis 1563
+HUSBAND: Inocencia Baker Michael 1538 WIFE: Stephen Gutierrez Paul 1533 
+	KIDS: Judith Gutierrez Stephen 1560
+HUSBAND: Patricia Baker Michael 1537 WIFE: Wayne Maulden Kyle 1539 
+	KIDS: Janice Maulden Wayne 1560 | Edward Maulden Wayne 1559 | Justin Maulden Wayne 1561 | Frances Maulden Wayne 1557 | Gregory Maulden Wayne 1564
+HUSBAND: Patrick Parke Randall 1540 WIFE: Jennifer Miller Donna 1543 
+	KIDS: null
+HUSBAND: Loree Parke Randall 1538 WIFE: Jose Manning Peter 1541 
+	KIDS: Joanne Manning Jose 1565 | Jorge Manning Jose 1565 | Karen Manning Jose 1557 | Denise Manning Jose 1559 | Samuel Manning Jose 1557
+HUSBAND: Annie Parke Randall 1537 WIFE: Sammy Burleson Clemente 1541 
+	KIDS: Steven Burleson Sammy 1560 | Yvonne Burleson Sammy 1564 | Karen Burleson Sammy 1555
+HUSBAND: Jeffery Parke Randall 1536 WIFE: Ruthie Varner Hazel 1536 
+	KIDS: Marilyn Parke Jeffery 1563 | Barbara Parke Jeffery 1558
+HUSBAND: Jim Parke Randall 1533 WIFE: Kelly Vasquez Maureen 1535 
+	KIDS: Charles Parke Jim 1559
+HUSBAND: Judy Cheek George 1542 WIFE: Tanner Dehaven Kenny 1540 
+	KIDS: Janice Dehaven Tanner 1561 | Caitlin Dehaven Tanner 1566 | Shawna Dehaven Tanner 1566 | Thomas Dehaven Tanner 1562
+HUSBAND: Marie Cheek George 1541 WIFE: Larry Gonzalez Kory 1538 
+	KIDS: null
+HUSBAND: Wm Cheek George 1541 WIFE: Tonya Kerrigan Phyllis 1543 
+	KIDS: Justin Cheek Wm 1567 | Kathleen Cheek Wm 1566 | Steve Cheek Wm 1562 | Stephanie Cheek Wm 1562
+HUSBAND: Tiffany Cheek George 1537 WIFE: Jason Archer Arthur 1537 
+	KIDS: Eleanor Archer Jason 1557
+HUSBAND: Clinton Estimable William 1545 WIFE: Jo Totten Kimberly 1550 
+	KIDS: Brenda Estimable Clinton 1565 | Andre Estimable Clinton 1567 | Arnetta Estimable Clinton 1565 | Robert Estimable Clinton 1572 | Richard Estimable Clinton 1572
+HUSBAND: Milton Estimable William 1536 WIFE: Sara Zwagerman Mary 1531 
+	KIDS: Leonardo Estimable Milton 1555
+HUSBAND: Denise Jackson Larry 1540 WIFE: James Robison Aaron 1539 
+	KIDS: Mary Robison James 1558
+HUSBAND: William Jackson Larry 1539 WIFE: Loretta Lanterman Mary 1541 
+	KIDS: John Jackson William 1565 | Woodrow Jackson William 1561 | Erin Jackson William 1566 | Barbara Jackson William 1558 | Steven Jackson William 1564
+HUSBAND: Samuel Jackson Larry 1540 WIFE: Margaret Grassi Irmgard 1541 
+	KIDS: Douglas Jackson Samuel 1559
+HUSBAND: Christopher Jackson Larry 1540 WIFE: Elizabeth Forman Sara 1544 
+	KIDS: Cherryl Jackson Christopher 1562 | Larry Jackson Christopher 1565 | Audra Jackson Christopher 1563
+HUSBAND: Lori Jackson Larry 1536 WIFE: Paul Hamilton Marvin 1531 
+	KIDS: Irving Hamilton Paul 1556
+HUSBAND: James Owens Bradley 1552 WIFE: Juanita Dunn Ruth 1550 
+	KIDS: Mary Owens James 1577 | Trina Owens James 1572
+HUSBAND: Marsha Owens Bradley 1553 WIFE: Raymond Hamel John 1554 
+	KIDS: Larry Hamel Raymond 1574 | Donald Hamel Raymond 1578
+HUSBAND: Beulah Owens Bradley 1551 WIFE: Harold Pena Frank 1556 
+	KIDS: Pamela Pena Harold 1573
+HUSBAND: Dean Cheek Keith 1542 WIFE: Linda Fierro Maura 1540 
+	KIDS: Josephine Cheek Dean 1564 | Rose Cheek Dean 1562 | Kevin Cheek Dean 1566 | Gwendolyn Cheek Dean 1561
+HUSBAND: James Whitfield Thomas 1533 WIFE: Clarine Mcalvain Kathleen 1528 
+	KIDS: null
+HUSBAND: Charlotte Whitfield Thomas 1527 WIFE: Charles William Patrick 1524 
+	KIDS: Sara William Charles 1545 | Kathryn William Charles 1545 | Joshua William Charles 1543 | Eugene William Charles 1548 | Peter William Charles 1544
+HUSBAND: Christopher Whitfield Louis 1529 WIFE: Lillie Brown Shirley 1528 
+	KIDS: Anthony Whitfield Christopher 1553 | Delores Whitfield Christopher 1546 | David Whitfield Christopher 1554 | Joe Whitfield Christopher 1547
+HUSBAND: Kim Reid Paul 1536 WIFE: Dennis Scully Fred 1541 
+	KIDS: null
+HUSBAND: Alexander Reid Paul 1536 WIFE: Michelle Rivera Susan 1532 
+	KIDS: James Reid Alexander 1554
+HUSBAND: Debra Reid Paul 1535 WIFE: Kevin Ritter Barry 1531 
+	KIDS: null
+HUSBAND: Daniel Reid Paul 1535 WIFE: Suzan Medina Jana 1530 
+	KIDS: Lilian Reid Daniel 1549 | Ruby Reid Daniel 1553 | Charles Reid Daniel 1548 | Jacqueline Reid Daniel 1555 | Tracey Reid Daniel 1552
+HUSBAND: Stefani Florez James 1537 WIFE: Johnny Jackson Eddie 1532 
+	KIDS: John Jackson Johnny 1555
+HUSBAND: Hae Florez James 1534 WIFE: Andre Miller Lawrence 1536 
+	KIDS: Marcelino Miller Andre 1556 | Amy Miller Andre 1560 | Damon Miller Andre 1552 | Melissa Miller Andre 1560 | Jeff Miller Andre 1561
+HUSBAND: Millie Florez James 1535 WIFE: Steven Cordell Ricky 1539 
+	KIDS: Chris Cordell Steven 1555 | Maria Cordell Steven 1553 | Jessica Cordell Steven 1554 | Casey Cordell Steven 1562 | Allen Cordell Steven 1555
+HUSBAND: Thomas Florez James 1535 WIFE: Bobbie Peitz Catherine 1539 
+	KIDS: Edward Florez Thomas 1557 | Antoinette Florez Thomas 1558 | Ruth Florez Thomas 1558 | Joan Florez Thomas 1561 | Gregory Florez Thomas 1557
+HUSBAND: Steven Smith Carey 1526 WIFE: Christina Egger Andrea 1530 
+	KIDS: null
+HUSBAND: Cynthia Smith Carey 1533 WIFE: Ronald Heras Joseph 1529 
+	KIDS: Sue Heras Ronald 1549 | Tina Heras Ronald 1555 | Brandon Heras Ronald 1553
+HUSBAND: Mary Smith Carey 1528 WIFE: Frank Gregory Scott 1525 
+	KIDS: Ted Gregory Frank 1550 | Lillian Gregory Frank 1543 | Tina Gregory Frank 1549 | Carrie Gregory Frank 1548
+HUSBAND: Robert Lehman Bryan 1525 WIFE: Elizabeth Liddle Rita 1522 
+	KIDS: null
+HUSBAND: Jennifer Lehman Bryan 1532 WIFE: Fred Appling Richard 1533 
+	KIDS: null
+HUSBAND: Mable Cheek Arnold 1543 WIFE: Joseph Martin Morton 1547 
+	KIDS: null
+HUSBAND: James Cheek Arnold 1539 WIFE: Sandra Shoaf Angela 1537 
+	KIDS: Sharon Cheek James 1560 | Alvin Cheek James 1562
+HUSBAND: Melissa Cheek Robert 1532 WIFE: Jimmy Metcalf Luis 1533 
+	KIDS: Esperanza Metcalf Jimmy 1553
+HUSBAND: David Cheek Robert 1534 WIFE: Kandy Jackson Ollie 1539 
+	KIDS: Janet Cheek David 1561
+HUSBAND: Sam Cheek Robert 1535 WIFE: Cynthia Ortiz Sue 1530 
+	KIDS: Roy Cheek Sam 1555 | Glen Cheek Sam 1557 | Isabelle Cheek Sam 1552 | Margarita Cheek Sam 1553
+HUSBAND: Elizabeth Cheek Michael 1536 WIFE: Rafael Goss Gary 1531 
+	KIDS: null
+HUSBAND: Yong Cheek Michael 1536 WIFE: Antoine Gural Will 1531 
+	KIDS: Gary Gural Antoine 1555 | William Gural Antoine 1557 | Lisa Gural Antoine 1554 | Julie Gural Antoine 1553 | Hillary Gural Antoine 1551
+HUSBAND: Christopher Cheek Michael 1535 WIFE: Lacey Oliver Rebecca 1538 
+	KIDS: Audrey Cheek Christopher 1559 | Walter Cheek Christopher 1560 | Diane Cheek Christopher 1556
+HUSBAND: Sandy Cheek Michael 1540 WIFE: Earl Lasala Eugene 1536 
+	KIDS: Berta Lasala Earl 1559
+HUSBAND: Evelyn Cheek Michael 1535 WIFE: Jason Myers Aaron 1539 
+	KIDS: Mary Myers Jason 1554 | Anton Myers Jason 1562 | Tracy Myers Jason 1559 | James Myers Jason 1557 | Russell Myers Jason 1560
+HUSBAND: Ronald Charles Orville 1540 WIFE: Cora Langan Judy 1545 
+	KIDS: Joan Charles Ronald 1559 | Christina Charles Ronald 1558 | Domingo Charles Ronald 1558
+HUSBAND: Carolyn Charles Orville 1543 WIFE: John Hodges William 1540 
+	KIDS: Clyde Hodges John 1559
+HUSBAND: Olga Charles Orville 1536 WIFE: Melvin Crossman Glenn 1537 
+	KIDS: Peter Crossman Melvin 1559 | Gary Crossman Melvin 1556 | Maurice Crossman Melvin 1555 | Melissa Crossman Melvin 1559 | Todd Crossman Melvin 1563
+HUSBAND: Erin Jones Richard 1530 WIFE: David Almeida Nicholas 1529 
+	KIDS: null
+HUSBAND: Donnie Charles Garry 1540 WIFE: Joe Hookano David 1539 
+	KIDS: Karen Hookano Joe 1558 | Eric Hookano Joe 1560 | Harvey Hookano Joe 1557
+HUSBAND: Johnny Charles Garry 1540 WIFE: Olivia Mickelson Olga 1535 
+	KIDS: Gary Charles Johnny 1562
+HUSBAND: Thomas Charles Garry 1534 WIFE: Bernadette Jones Gale 1533 
+	KIDS: Regina Charles Thomas 1551 | Rebecca Charles Thomas 1553 | Vicky Charles Thomas 1560 | Antonio Charles Thomas 1551 | Julia Charles Thomas 1560
+HUSBAND: Christopher Charles Garry 1537 WIFE: Mamie Dungy Sarah 1532 
+	KIDS: Cesar Charles Christopher 1555 | Diane Charles Christopher 1559 | Rachel Charles Christopher 1553 | Jennifer Charles Christopher 1557 | Joy Charles Christopher 1557
+HUSBAND: Jeanette Charles Brandon 1541 WIFE: James Jackson Martin 1543 
+	KIDS: Darrell Jackson James 1561 | Robert Jackson James 1562
+HUSBAND: Marlene Charles Brandon 1543 WIFE: Willie Parrales Gary 1539 
+	KIDS: Dorothy Parrales Willie 1562
+HUSBAND: Jamie Charles Steven 1532 WIFE: James Cousin James 1534 
+	KIDS: Ronald Cousin James 1555 | Rocio Cousin James 1555 | George Cousin James 1553 | Everett Cousin James 1555 | Tina Cousin James 1557
+HUSBAND: Steven Bennett Joe 1533 WIFE: Joni Lewis Diane 1528 
+	KIDS: Judy Bennett Steven 1554
+HUSBAND: Keith Charles Luis 1537 WIFE: Kathryn Bell Susan 1538 
+	KIDS: John Charles Keith 1563
+HUSBAND: William Charles Luis 1540 WIFE: Natasha Schleppenbach Amy 1542 
+	KIDS: Melissa Charles William 1564
+HUSBAND: Jessica Charles Luis 1540 WIFE: Freddy Groom Ronald 1543 
+	KIDS: David Groom Freddy 1566 | Violet Groom Freddy 1563 | Monica Groom Freddy 1563 | Amelia Groom Freddy 1565 | Roxann Groom Freddy 1563
+HUSBAND: Robin Charles Luis 1536 WIFE: Albert Paulseth Stacey 1537 
+	KIDS: null
+HUSBAND: George Boyd Henry 1540 WIFE: Addie Runyon Cleo 1538 
+	KIDS: Mildred Boyd George 1564 | Clifton Boyd George 1561
+HUSBAND: Lawrence Boyd Henry 1540 WIFE: Cathy Miller Beverly 1541 
+	KIDS: null
+HUSBAND: Christine Boyd Henry 1539 WIFE: Leon Haskins Patrick 1537 
+	KIDS: Sally Haskins Leon 1558 | Kimberly Haskins Leon 1563 | Pauline Haskins Leon 1556 | Christopher Haskins Leon 1556
+HUSBAND: Betty Boyd Henry 1540 WIFE: Frederick Peckenpaugh Clarence 1536 
+	KIDS: Justin Peckenpaugh Frederick 1554 | Maryann Peckenpaugh Frederick 1558
+HUSBAND: Loraine Watkins John 1529 WIFE: Samuel Tietjen Alexander 1529 
+	KIDS: James Tietjen Samuel 1549 | Sara Tietjen Samuel 1556 | Jeremy Tietjen Samuel 1553 | Philip Tietjen Samuel 1554
+HUSBAND: Patricia Phillips John 1533 WIFE: Kenneth Morris Duane 1537 
+	KIDS: Betty Morris Kenneth 1551 | Sam Morris Kenneth 1557 | Camille Morris Kenneth 1553 | Andres Morris Kenneth 1553
+HUSBAND: Scott Phillips John 1536 WIFE: Graciela Nevins Jennifer 1541 
+	KIDS: Joshua Phillips Scott 1563 | Shirley Phillips Scott 1556
+HUSBAND: Ronald Phillips John 1532 WIFE: Elaine Aldrich Christine 1528 
+	KIDS: Jeffrey Phillips Ronald 1552 | Erin Phillips Ronald 1555 | Roger Phillips Ronald 1549
+HUSBAND: Susan Marquez Craig 1548 WIFE: John Howser Richard 1547 
+	KIDS: Mary Howser John 1565 | Melinda Howser John 1573
+HUSBAND: Ronald Marquez Craig 1544 WIFE: Sarah Simpson Juanita 1546 
+	KIDS: William Marquez Ronald 1562
+HUSBAND: Raymond Murphy Kelly 1534 WIFE: Arlene Clemens Lauren 1531 
+	KIDS: David Murphy Raymond 1550
+HUSBAND: Marion Murphy Kelly 1541 WIFE: Jamie Lundquist Michael 1538 
+	KIDS: William Lundquist Jamie 1563 | Suzanne Lundquist Jamie 1558 | William Lundquist Jamie 1559
+HUSBAND: Dora Murphy Kelly 1534 WIFE: Paul Clay Robert 1532 
+	KIDS: Lawrence Clay Paul 1551 | Judy Clay Paul 1552 | Harriet Clay Paul 1553 | Marian Clay Paul 1558
+HUSBAND: Jeremy Duncan Tyson 1531 WIFE: Sarah Reynolds Dolores 1529 
+	KIDS: Eldon Duncan Jeremy 1551 | Catherine Duncan Jeremy 1555 | Grady Duncan Jeremy 1547 | Gigi Duncan Jeremy 1552
+HUSBAND: Wilbert Duncan Tyson 1536 WIFE: Juana Guetierrez Sharon 1541 
+	KIDS: Mary Duncan Wilbert 1561
+HUSBAND: Ian Estes Patrick 1536 WIFE: Monica Mercuri Karen 1540 
+	KIDS: Fredrick Estes Ian 1555 | Robert Estes Ian 1561 | Edward Estes Ian 1557 | Dianna Estes Ian 1562
+HUSBAND: Sheridan Estes Patrick 1535 WIFE: David Houston Thomas 1539 
+	KIDS: null
+HUSBAND: Victor Estes Patrick 1532 WIFE: Mary Bennett Phyllis 1527 
+	KIDS: Gerald Estes Victor 1545 | Steven Estes Victor 1554
+HUSBAND: Daniel Estes Patrick 1530 WIFE: Patricia Coplan Lorie 1530 
+	KIDS: null
+HUSBAND: Thomas Litzenberger Frank 1541 WIFE: Kathleen Vandergriff Regine 1546 
+	KIDS: null
+HUSBAND: George Litzenberger Frank 1539 WIFE: Christina Brink Kari 1538 
+	KIDS: Roland Litzenberger George 1562
+HUSBAND: Emma Litzenberger Frank 1533 WIFE: Willie Medina Tom 1529 
+	KIDS: David Medina Willie 1550 | Timothy Medina Willie 1555 | Billy Medina Willie 1552 | Leon Medina Willie 1552 | Robert Medina Willie 1551
+HUSBAND: Linda Litzenberger Frank 1537 WIFE: Phillip Stancill Alvin 1542 
+	KIDS: Mary Stancill Phillip 1561 | Daniel Stancill Phillip 1557 | Davida Stancill Phillip 1555
+HUSBAND: Susan Litzenberger Frank 1537 WIFE: Emmanuel Eberts Lance 1541 
+	KIDS: Craig Eberts Emmanuel 1560 | Amy Eberts Emmanuel 1555
+HUSBAND: Richard Loder Carlos 1532 WIFE: Leslie Lee Elsie 1531 
+	KIDS: Mary Loder Richard 1552 | Jack Loder Richard 1557
+HUSBAND: Louis Yarber Wayne 1540 WIFE: Phyllis Pickard Kelli 1540 
+	KIDS: Diana Yarber Louis 1561 | Brad Yarber Louis 1566 | Tracey Yarber Louis 1559 | Margarita Yarber Louis 1563 | Mervin Yarber Louis 1567
+HUSBAND: Lester Yarber Wayne 1545 WIFE: Vivian Everett Mary 1540 
+	KIDS: Allan Yarber Lester 1559 | Gilbert Yarber Lester 1561 | Donna Yarber Lester 1563 | Debra Yarber Lester 1564 | Patsy Yarber Lester 1559
+HUSBAND: Victor Yarber Wayne 1538 WIFE: Jeanne Siders Erin 1539 
+	KIDS: Gregory Yarber Victor 1558 | Sam Yarber Victor 1562 | Theresa Yarber Victor 1561 | Carmen Yarber Victor 1558
+HUSBAND: Ronald Yarber Wayne 1539 WIFE: Susan Taylor Flossie 1536 
+	KIDS: Scott Yarber Ronald 1561 | Annette Yarber Ronald 1559 | Raymond Yarber Ronald 1560
+HUSBAND: Bruce Yarber Wayne 1538 WIFE: Mellisa Spangler Whitney 1536 
+	KIDS: Frank Yarber Bruce 1556
+HUSBAND: Terry Williams Timothy 1542 WIFE: Emory Hager Shawn 1537 
+	KIDS: Andre Hager Emory 1555 | Kim Hager Emory 1555 | Tommy Hager Emory 1556 | Joseph Hager Emory 1564 | Terrance Hager Emory 1561
+HUSBAND: James Hinkel Jason 1539 WIFE: Cathy Keitel Deanna 1535 
+	KIDS: Wilburn Hinkel James 1554 | Robert Hinkel James 1557 | Donald Hinkel James 1557 | Kent Hinkel James 1556 | Daniel Hinkel James 1553
+HUSBAND: Aaron Hinkel Jason 1541 WIFE: Virginia Campbell Leslie 1543 
+	KIDS: Evan Hinkel Aaron 1564 | Samuel Hinkel Aaron 1562
+HUSBAND: Lauren Hinkel Jason 1538 WIFE: Tom Brushwood Jerome 1541 
+	KIDS: April Brushwood Tom 1558 | Herbert Brushwood Tom 1561 | John Brushwood Tom 1560 | Gloria Brushwood Tom 1564 | Douglas Brushwood Tom 1561
+HUSBAND: Tom Caldwell Lewis 1546 WIFE: Cindy Hartford Elsie 1541 
+	KIDS: Michael Caldwell Tom 1568 | Randall Caldwell Tom 1561
+HUSBAND: Leah Harr Gabriel 1531 WIFE: Dale Sandau Leo 1532 
+	KIDS: Jamie Sandau Dale 1554
+HUSBAND: Linda Harr Gabriel 1527 WIFE: Richard Flanagan Bernie 1528 
+	KIDS: Tammy Flanagan Richard 1545 | Rolando Flanagan Richard 1547
+HUSBAND: Robert Harr Gabriel 1528 WIFE: Christie Tacadina Brenda 1528 
+	KIDS: Katherine Harr Robert 1553
+HUSBAND: Sebastian Harr Gabriel 1530 WIFE: Lucy Bianco Matilda 1531 
+	KIDS: Cristina Harr Sebastian 1557 | Ileana Harr Sebastian 1552 | Lola Harr Sebastian 1548 | Johnny Harr Sebastian 1554 | Rex Harr Sebastian 1555
+HUSBAND: Patricia Harr Gabriel 1534 WIFE: James Sheffield Robert 1533 
+	KIDS: Ray Sheffield James 1552 | Robert Sheffield James 1559 | Bob Sheffield James 1551 | Mary Sheffield James 1559
+HUSBAND: Alan Hart Jeffrey 1528 WIFE: Alma Chau Lizzie 1524 
+	KIDS: Frank Hart Alan 1543 | Brian Hart Alan 1546
+HUSBAND: John Hart Jeffrey 1523 WIFE: Kristy Craft Shelia 1518 
+	KIDS: Betty Hart John 1540 | Veda Hart John 1542 | Tabitha Hart John 1540 | David Hart John 1544 | Kimberly Hart John 1544
+HUSBAND: Kimberly Hart Jeffrey 1530 WIFE: Christopher Nickelson Kevin 1535 
+	KIDS: null
+HUSBAND: James Hart Jeffrey 1529 WIFE: Esther Blakely Judith 1531 
+	KIDS: Raymond Hart James 1553 | John Hart James 1549 | James Hart James 1547 | Jennifer Hart James 1556
+HUSBAND: Bradley Hart Matthew 1528 WIFE: Kimberly Kent Martha 1530 
+	KIDS: Steven Hart Bradley 1548
+HUSBAND: Sarah Hart Matthew 1532 WIFE: William Griffin Michael 1528 
+	KIDS: null
+HUSBAND: Sherrie Hart Matthew 1531 WIFE: Shawn Wilkowitz Robert 1533 
+	KIDS: null
+HUSBAND: Brian Hart Matthew 1532 WIFE: Sarah Samples Gloria 1532 
+	KIDS: Lavonne Hart Brian 1554 | Karen Hart Brian 1554 | Teresa Hart Brian 1553 | Patricia Hart Brian 1550 | Elma Hart Brian 1550
+HUSBAND: Johnny Goodemote Michael 1525 WIFE: Ashley Ogaldez Marjorie 1528 
+	KIDS: John Goodemote Johnny 1551 | Bonnie Goodemote Johnny 1546 | Alejandro Goodemote Johnny 1550
+HUSBAND: Dana Goodemote Michael 1531 WIFE: Lois Cyr Beth 1536 
+	KIDS: null
+HUSBAND: Alberta Hart Michael 1526 WIFE: Jeffery Lear Thomas 1528 
+	KIDS: null
+HUSBAND: Rachel Hart Michael 1529 WIFE: Frederick Townsend Edmond 1524 
+	KIDS: null
+HUSBAND: Kenneth Sierra Donald 1529 WIFE: Heather Haecker Alayna 1529 
+	KIDS: Judith Sierra Kenneth 1551 | Aaron Sierra Kenneth 1548 | Diane Sierra Kenneth 1553 | Danny Sierra Kenneth 1556 | William Sierra Kenneth 1547
+HUSBAND: Steven Cabral Jeffrey 1515 WIFE: Patsy Miller Fernanda 1514 
+	KIDS: Sammy Cabral Steven 1535 | Ronnie Cabral Steven 1539 | Ira Cabral Steven 1536 | Jerry Cabral Steven 1541 | Jessica Cabral Steven 1537
+HUSBAND: Alma Jennings Charles 1517 WIFE: Ruben Batton Robert 1517 
+	KIDS: Robin Batton Ruben 1538
+HUSBAND: Michelle Jennings Charles 1518 WIFE: Robert Washington Jon 1518 
+	KIDS: Sam Washington Robert 1545 | Julie Washington Robert 1538 | Laura Washington Robert 1540 | Carol Washington Robert 1545 | Matthew Washington Robert 1537
+HUSBAND: Jennette Jennings Charles 1523 WIFE: Darryl Ashley James 1527 
+	KIDS: Muriel Ashley Darryl 1542 | Georgia Ashley Darryl 1550
+HUSBAND: David Jennings Charles 1521 WIFE: Elizabeth Garrison Alana 1521 
+	KIDS: null
+HUSBAND: Laura Jennings Charles 1523 WIFE: Alvin Jackson Aaron 1527 
+	KIDS: Socorro Jackson Alvin 1544
+HUSBAND: Sarah Cheek William 1522 WIFE: Emanuel Dobkins Manuel 1517 
+	KIDS: Lourdes Dobkins Emanuel 1541 | Michael Dobkins Emanuel 1544
+HUSBAND: Lydia Figueroa Craig 1525 WIFE: Dominic Vaccaro Christopher 1521 
+	KIDS: null
+HUSBAND: Art Figueroa Craig 1526 WIFE: Mona Quinn Pauline 1525 
+	KIDS: Jim Figueroa Art 1549 | Brooke Figueroa Art 1551
+HUSBAND: Bettie Price Ronald 1527 WIFE: Warren Pegues James 1529 
+	KIDS: null
+HUSBAND: Tina Price Ronald 1531 WIFE: Luke Espinoza Stephen 1535 
+	KIDS: Johnnie Espinoza Luke 1552 | Christopher Espinoza Luke 1557 | Rosie Espinoza Luke 1552 | Margaret Espinoza Luke 1557
+HUSBAND: Kathy Price Ronald 1527 WIFE: Randall Foster Joseph 1529 
+	KIDS: Jaime Foster Randall 1548 | Daniel Foster Randall 1546 | Mark Foster Randall 1546 | Penny Foster Randall 1546
+HUSBAND: Francis Price Ronald 1526 WIFE: Beth Morales Soraya 1529 
+	KIDS: Valorie Price Francis 1544 | Harry Price Francis 1547 | Jodi Price Francis 1553 | Sara Price Francis 1549 | Michael Price Francis 1551
+HUSBAND: Audrey Odom Stefan 1535 WIFE: Paul Mclamb Raymond 1534 
+	KIDS: Mary Mclamb Paul 1559 | Gwenn Mclamb Paul 1552 | Jane Mclamb Paul 1553 | Donald Mclamb Paul 1558 | David Mclamb Paul 1552
+HUSBAND: John Odom Stefan 1528 WIFE: Thelma Mowrey Sharron 1528 
+	KIDS: Arlene Odom John 1548
+HUSBAND: Joshua Odom Stefan 1527 WIFE: Claudie Harris Lou 1529 
+	KIDS: null
+HUSBAND: Edris Odom Ted 1525 WIFE: Ken Cantrell Benedict 1522 
+	KIDS: null
+HUSBAND: Curtis Odom Ted 1528 WIFE: Elaine Skillom Claudia 1526 
+	KIDS: null
+HUSBAND: Tina Odom Ted 1528 WIFE: Bret Matthews Tim 1524 
+	KIDS: Katie Matthews Bret 1549
+HUSBAND: Rita Odom Ted 1528 WIFE: Joseph Tutor David 1524 
+	KIDS: null
+HUSBAND: Debra Martin Vincent 1533 WIFE: Ignacio Robinson Mike 1538 
+	KIDS: Linda Robinson Ignacio 1560
+HUSBAND: Jessica Martin Vincent 1532 WIFE: Robert Turner Paul 1533 
+	KIDS: null
+HUSBAND: Frances Martin Vincent 1533 WIFE: Jose Alexander Earl 1536 
+	KIDS: Emily Alexander Jose 1556 | Jennifer Alexander Jose 1556 | Patricia Alexander Jose 1553 | Clinton Alexander Jose 1560
+HUSBAND: Cheri Martin Vincent 1531 WIFE: Mike Delgado Chris 1534 
+	KIDS: Salvatore Delgado Mike 1555
+HUSBAND: Mary Martin Vincent 1533 WIFE: Theodore Harms Arthur 1535 
+	KIDS: Angela Harms Theodore 1558
+HUSBAND: Michael Mack Jeffery 1522 WIFE: Melissa Harrison Crystal 1519 
+	KIDS: Susan Mack Michael 1542 | Kimber Mack Michael 1545
+HUSBAND: Dominique Mack Jeffery 1527 WIFE: Monique Hunley Sara 1526 
+	KIDS: Anne Mack Dominique 1548 | Sam Mack Dominique 1550 | Derek Mack Dominique 1552 | Esther Mack Dominique 1549
+HUSBAND: Lee Mack Jeffery 1522 WIFE: Gayle Mclean Martha 1524 
+	KIDS: Robert Mack Lee 1547 | Kimberly Mack Lee 1541 | Janet Mack Lee 1543 | Donald Mack Lee 1546
+HUSBAND: Jonathan Oshea Adam 1528 WIFE: Donna Eppler Della 1528 
+	KIDS: Marcus Oshea Jonathan 1549 | Brenda Oshea Jonathan 1549 | Jane Oshea Jonathan 1551 | Martha Oshea Jonathan 1552
+HUSBAND: Sherry Oshea Adam 1529 WIFE: Kelvin Finder Calvin 1534 
+	KIDS: Carolyn Finder Kelvin 1554 | Jose Finder Kelvin 1550 | James Finder Kelvin 1551 | Elizabeth Finder Kelvin 1554 | Joseph Finder Kelvin 1547
+HUSBAND: Frederick Oshea Adam 1533 WIFE: Kasey Glasscock Dorothy 1537 
+	KIDS: James Oshea Frederick 1556
+HUSBAND: Carol Schaefer John 1528 WIFE: David Gorham Emilio 1523 
+	KIDS: Sandra Gorham David 1550
+HUSBAND: Sarah Schaefer John 1520 WIFE: Mike Willingham George 1515 
+	KIDS: Zane Willingham Mike 1540 | Dale Willingham Mike 1542 | Alice Willingham Mike 1537
+HUSBAND: Christopher Schaefer Nicholas 1535 WIFE: Lai Martinez Joan 1533 
+	KIDS: Shari Schaefer Christopher 1555 | Louise Schaefer Christopher 1555 | Clay Schaefer Christopher 1555 | Nancy Schaefer Christopher 1551
+HUSBAND: Maria Schaefer Nicholas 1528 WIFE: William Trevino Gerry 1525 
+	KIDS: Jason Trevino William 1545 | Peter Trevino William 1551 | Kathryn Trevino William 1547 | Lisa Trevino William 1550 | Kyle Trevino William 1552
+HUSBAND: Harlan Schaefer Nicholas 1530 WIFE: Wendy English Melissa 1530 
+	KIDS: Adele Schaefer Harlan 1548
+HUSBAND: Robert Elmore Jeffrey 1524 WIFE: Wendy Lee Lena 1519 
+	KIDS: James Elmore Robert 1544 | Eric Elmore Robert 1541 | Pamela Elmore Robert 1544 | Guillermo Elmore Robert 1537 | Dennis Elmore Robert 1543
+HUSBAND: John Larson James 1533 WIFE: Ana Ornelas Margaret 1530 
+	KIDS: Mark Larson John 1550 | Dennis Larson John 1548 | Ginger Larson John 1551 | Frances Larson John 1555
+HUSBAND: Kaye Larson James 1541 WIFE: Adrian Cook George 1546 
+	KIDS: Sandra Cook Adrian 1567 | Ruth Cook Adrian 1560 | Mary Cook Adrian 1568 | Scott Cook Adrian 1559 | Judith Cook Adrian 1567
+HUSBAND: Joseph Larson Roman 1529 WIFE: Tiffany Seith Sonia 1526 
+	KIDS: Evelyn Larson Joseph 1548 | Jennifer Larson Joseph 1544 | Danielle Larson Joseph 1550 | Cindy Larson Joseph 1548 | Kim Larson Joseph 1544
+HUSBAND: Jeffrey Larson Roman 1526 WIFE: Rebecca Steward Fannie 1522 
+	KIDS: Leah Larson Jeffrey 1549 | Evelyn Larson Jeffrey 1540 | Abraham Larson Jeffrey 1541 | Albert Larson Jeffrey 1545 | Selene Larson Jeffrey 1544
+HUSBAND: Patricia Larson Roman 1524 WIFE: Richard Villanueva Donald 1522 
+	KIDS: Sarah Villanueva Richard 1545 | Angel Villanueva Richard 1544 | Timothy Villanueva Richard 1543 | Marilyn Villanueva Richard 1542 | Meridith Villanueva Richard 1541
+HUSBAND: Tommie Larson Timothy 1530 WIFE: Kristin Hallquist Shasta 1527 
+	KIDS: Rosa Larson Tommie 1547
+HUSBAND: Joyce Larson Allen 1532 WIFE: George Wood David 1529 
+	KIDS: Ronald Wood George 1556 | Alejandro Wood George 1547 | Kendall Wood George 1552 | Tommy Wood George 1556 | Donna Wood George 1552
+HUSBAND: Kelley Perkins Edgar 1531 WIFE: Andrew Brannan John 1536 
+	KIDS: Dennis Brannan Andrew 1555 | Elizabeth Brannan Andrew 1549 | Melvin Brannan Andrew 1557
+HUSBAND: Randall Perkins Edgar 1532 WIFE: Kimberly Guinn Annie 1530 
+	KIDS: Linda Perkins Randall 1551
+HUSBAND: Cyrus Perkins Edgar 1537 WIFE: Claudia Mcbean Grace 1534 
+	KIDS: Yolanda Perkins Cyrus 1561 | Alfredo Perkins Cyrus 1557 | Evan Perkins Cyrus 1558 | William Perkins Cyrus 1559 | Betty Perkins Cyrus 1561
+HUSBAND: Rhonda Perkins Edgar 1533 WIFE: Gregory Ibanez Joseph 1534 
+	KIDS: Toni Ibanez Gregory 1560 | Sarah Ibanez Gregory 1557 | Robert Ibanez Gregory 1560 | Richard Ibanez Gregory 1553
+HUSBAND: Jennifer Hughes Michael 1539 WIFE: Brad Burks Richard 1535 
+	KIDS: Rebecca Burks Brad 1553 | Connie Burks Brad 1562 | Lillian Burks Brad 1558
+HUSBAND: Jared Hughes Michael 1540 WIFE: Elizabeth Mitchell Mary 1538 
+	KIDS: null
+HUSBAND: Kenneth Hughes Michael 1533 WIFE: Andrea Perrone Dianne 1538 
+	KIDS: Jason Hughes Kenneth 1553 | Robert Hughes Kenneth 1559 | Walter Hughes Kenneth 1556
+HUSBAND: Judy Strief Gregory 1529 WIFE: Martin Benedetti Eric 1534 
+	KIDS: null
+HUSBAND: Kimberly Strief Gregory 1533 WIFE: Jack Garcia Greg 1534 
+	KIDS: Charlene Garcia Jack 1553 | Marion Garcia Jack 1560
+HUSBAND: Rosella Wiggins Lewis 1524 WIFE: Hector Castaneda Steve 1519 
+	KIDS: null
+HUSBAND: Karen Wiggins Lewis 1525 WIFE: Bradley Sammarco James 1526 
+	KIDS: Richard Sammarco Bradley 1552 | Paul Sammarco Bradley 1551 | Luanne Sammarco Bradley 1544
+HUSBAND: Danilo Wiggins Lewis 1520 WIFE: Peggy Carr Jacqueline 1517 
+	KIDS: Kevin Wiggins Danilo 1541 | Gil Wiggins Danilo 1541 | Christina Wiggins Danilo 1542
+HUSBAND: Lauren Jackson Rick 1523 WIFE: Mary Benson Pamela 1521 
+	KIDS: Lawrence Jackson Lauren 1547 | Denise Jackson Lauren 1540
+HUSBAND: Evelyn Jackson Rick 1521 WIFE: Nelson Landers Brent 1516 
+	KIDS: Leonard Landers Nelson 1538 | Jovita Landers Nelson 1535 | Lynn Landers Nelson 1537
+HUSBAND: Carolyn Jackson Rick 1519 WIFE: Clifford Sparks Herbert 1519 
+	KIDS: Genevie Sparks Clifford 1540 | Alisa Sparks Clifford 1537 | Edward Sparks Clifford 1540 | Gwendolyn Sparks Clifford 1541 | Gail Sparks Clifford 1537
+HUSBAND: Virginia Jackson Rick 1527 WIFE: Charles Dowdy William 1523 
+	KIDS: Janet Dowdy Charles 1550 | Sachiko Dowdy Charles 1545 | Dennis Dowdy Charles 1548 | Troy Dowdy Charles 1543 | John Dowdy Charles 1550
+HUSBAND: Vernon Willis Bradley 1525 WIFE: Mary Flynt Erin 1523 
+	KIDS: Robert Willis Vernon 1541 | Jose Willis Vernon 1546 | Courtney Willis Vernon 1548 | James Willis Vernon 1543 | David Willis Vernon 1541
+HUSBAND: Frances Willis Bradley 1530 WIFE: Thomas Maxon Norris 1531 
+	KIDS: Carol Maxon Thomas 1551 | Ramona Maxon Thomas 1557
+HUSBAND: Stephanie Willis Bradley 1527 WIFE: Tobias Sampere Henry 1529 
+	KIDS: Jose Sampere Tobias 1545 | Robert Sampere Tobias 1550 | Robbie Sampere Tobias 1548 | John Sampere Tobias 1552 | Brenda Sampere Tobias 1554
+HUSBAND: James Jackson John 1520 WIFE: Melissa Ellis Paulette 1523 
+	KIDS: Gail Jackson James 1545 | Mario Jackson James 1545 | Kimberley Jackson James 1545
+HUSBAND: Susan Jackson John 1523 WIFE: Paul Felten Bernie 1525 
+	KIDS: Alphonso Felten Paul 1543 | Scott Felten Paul 1547 | Patrick Felten Paul 1547 | Ann Felten Paul 1543
+HUSBAND: Theresa Jackson John 1526 WIFE: Michael Digeorgio Felix 1521 
+	KIDS: David Digeorgio Michael 1543 | Olivia Digeorgio Michael 1541 | Ralph Digeorgio Michael 1546 | Gerald Digeorgio Michael 1540 | Peggy Digeorgio Michael 1546
+HUSBAND: Ulysses Jacobs William 1527 WIFE: Tami Garrett Ellen 1530 
+	KIDS: Kai Jacobs Ulysses 1545
+HUSBAND: Scott Jacobs William 1523 WIFE: Kathryn Patterson Renee 1527 
+	KIDS: Marie Jacobs Scott 1542 | Norman Jacobs Scott 1547
+HUSBAND: Michael Jacobs William 1524 WIFE: Cynthia Nelson Josephine 1528 
+	KIDS: Ida Jacobs Michael 1543 | Gloria Jacobs Michael 1547 | Rosalie Jacobs Michael 1549 | Teresa Jacobs Michael 1543 | Judy Jacobs Michael 1546
+HUSBAND: Valerie Petty Jorge 1516 WIFE: Thomas Canas Mike 1511 
+	KIDS: null
+HUSBAND: Amanda Petty Jorge 1516 WIFE: Matthew Roman Carl 1521 
+	KIDS: Sonja Roman Matthew 1543 | John Roman Matthew 1537 | Patrick Roman Matthew 1539
+HUSBAND: Pauline Matthews Melvin 1523 WIFE: Eric Krause Jordan 1520 
+	KIDS: null
+HUSBAND: Andrea Matthews Melvin 1527 WIFE: Joe Taylor Jose 1528 
+	KIDS: Linda Taylor Joe 1551 | Dan Taylor Joe 1552 | Daniel Taylor Joe 1545 | Gladys Taylor Joe 1547
+HUSBAND: Cecil Matthews Melvin 1519 WIFE: Christine Randolph Lana 1515 
+	KIDS: William Matthews Cecil 1538 | Lillie Matthews Cecil 1541 | Mary Matthews Cecil 1539 | Frances Matthews Cecil 1539 | Annie Matthews Cecil 1535
+HUSBAND: Leroy Matthews Melvin 1523 WIFE: Martha Krause Alice 1523 
+	KIDS: Frank Matthews Leroy 1541
+HUSBAND: Stephen Matthews Melvin 1525 WIFE: Bridget Mata Magda 1528 
+	KIDS: Kevin Matthews Stephen 1548
+HUSBAND: Ronald Matthews James 1520 WIFE: Evelyn Hinde Karen 1522 
+	KIDS: Martha Matthews Ronald 1544 | Michael Matthews Ronald 1547 | Coletta Matthews Ronald 1542 | Neil Matthews Ronald 1545 | Ronda Matthews Ronald 1543
+HUSBAND: James Matthews James 1514 WIFE: Inez Paterson Susie 1511 
+	KIDS: Vickie Matthews James 1537 | James Matthews James 1536 | Ricky Matthews James 1532 | Dianne Matthews James 1533 | Mark Matthews James 1534
+HUSBAND: George Tudor John 1521 WIFE: Laura Weckhorst Theresa 1522 
+	KIDS: null
+HUSBAND: Manuela Pettaway Albert 1522 WIFE: Troy Vesco Norman 1517 
+	KIDS: Kenneth Vesco Troy 1544 | Corey Vesco Troy 1535
+HUSBAND: Sharyl Pettaway Albert 1519 WIFE: Leo Hatter Michael 1515 
+	KIDS: Henrietta Hatter Leo 1542 | Daisy Hatter Leo 1536 | Cindy Hatter Leo 1540 | Kathy Hatter Leo 1534
+HUSBAND: Robert Pettaway Albert 1516 WIFE: Julie Anderson Yvonne 1521 
+	KIDS: Michelle Pettaway Robert 1539 | Raven Pettaway Robert 1541 | Maude Pettaway Robert 1536 | Lindsey Pettaway Robert 1541
+HUSBAND: Robert Williams Richard 1520 WIFE: Heather Curry Jennifer 1523 
+	KIDS: Debra Williams Robert 1540 | Mattie Williams Robert 1544 | Peggy Williams Robert 1539 | Linda Williams Robert 1540 | Alex Williams Robert 1547
+HUSBAND: Milford Williams Richard 1519 WIFE: Kelly Watson Dixie 1518 
+	KIDS: Jeremy Williams Milford 1545
+HUSBAND: Tamara Williams Richard 1520 WIFE: Jason Wells David 1518 
+	KIDS: George Wells Jason 1541
+HUSBAND: Angela Lasala Charles 1524 WIFE: Terry Titcomb Harry 1525 
+	KIDS: Tina Titcomb Terry 1547 | Joseph Titcomb Terry 1543 | Rachel Titcomb Terry 1550
+HUSBAND: Georgia Lasala Charles 1524 WIFE: Donald Becnel Lawrence 1524 
+	KIDS: Deborah Becnel Donald 1546 | Alice Becnel Donald 1544
+HUSBAND: Darrick Lasala Charles 1524 WIFE: Maria Devito Rene 1520 
+	KIDS: Jose Lasala Darrick 1546 | Autumn Lasala Darrick 1546 | Dorothy Lasala Darrick 1540 | George Lasala Darrick 1541
+HUSBAND: Diane Lasala James 1521 WIFE: Jason Tucker Robert 1525 
+	KIDS: Liza Tucker Jason 1544 | Edith Tucker Jason 1544 | Jewel Tucker Jason 1544
+HUSBAND: Arthur Lasala James 1514 WIFE: Mildred Livingston Apolonia 1517 
+	KIDS: Donald Lasala Arthur 1537 | Kristie Lasala Arthur 1534 | Elizabeth Lasala Arthur 1540
+HUSBAND: Manuel Lasala James 1520 WIFE: Opal Balmer Tori 1522 
+	KIDS: Patricia Lasala Manuel 1540 | Victor Lasala Manuel 1547 | Adam Lasala Manuel 1538 | Samantha Lasala Manuel 1546 | Allison Lasala Manuel 1544
+HUSBAND: Barbara Terry Oscar 1515 WIFE: Greg Griffin Jason 1511 
+	KIDS: null
+HUSBAND: Donna Terry Oscar 1524 WIFE: Gregory Cruz Tommy 1528 
+	KIDS: null
+HUSBAND: John Petty William 1520 WIFE: Princess Johnson Cynthia 1524 
+	KIDS: Susan Petty John 1547 | Michael Petty John 1544
+HUSBAND: Philip Petty William 1524 WIFE: Letha Pryor Josephine 1519 
+	KIDS: Julian Petty Philip 1543 | Carole Petty Philip 1540 | Candace Petty Philip 1541 | Robert Petty Philip 1539 | Jessica Petty Philip 1544
+HUSBAND: Willie Cormier Michael 1527 WIFE: Rickie Naber Charles 1528 
+	KIDS: Donna Naber Rickie 1547 | Rhonda Naber Rickie 1546 | Terry Naber Rickie 1545
+HUSBAND: Raymon Cormier Michael 1519 WIFE: Librada Allen Miriam 1523 
+	KIDS: Rhonda Cormier Raymon 1545 | Rickey Cormier Raymon 1546 | Russell Cormier Raymon 1539
+HUSBAND: Clifford Cormier Michael 1520 WIFE: Rena Rose Doris 1515 
+	KIDS: Alena Cormier Clifford 1538
+HUSBAND: Matthew Cormier Eugene 1522 WIFE: Sherry Hoggatt Janet 1521 
+	KIDS: null
+HUSBAND: Emily Cormier Eugene 1522 WIFE: Anthony Allen Andres 1526 
+	KIDS: Marcia Allen Anthony 1544 | Robert Allen Anthony 1541 | Ricky Allen Anthony 1546 | Jacqueline Allen Anthony 1543
+HUSBAND: Gerald Cormier Eugene 1515 WIFE: Angie Helsel Tracey 1511 
+	KIDS: Mabel Cormier Gerald 1535 | Albert Cormier Gerald 1534 | Alvin Cormier Gerald 1530 | Millard Cormier Gerald 1536 | Vincent Cormier Gerald 1538
+HUSBAND: John Cormier Eugene 1514 WIFE: Paula Barth Emma 1509 
+	KIDS: Dorothy Cormier John 1530
+HUSBAND: Christopher Everett Kenneth 1527 WIFE: Mary Zhao Jeanette 1525 
+	KIDS: Joan Everett Christopher 1546
+HUSBAND: Francis Nielson Kevin 1518 WIFE: Daniel Winkles Ramon 1518 
+	KIDS: Robert Winkles Daniel 1540
+HUSBAND: Charity Mobley Stephan 1522 WIFE: William Orielly Jimmy 1523 
+	KIDS: Judith Orielly William 1549 | Tara Orielly William 1548 | Mary Orielly William 1547 | Justin Orielly William 1546 | Charles Orielly William 1545
+HUSBAND: Brenda Davis Joseph 1522 WIFE: Paul Jenkins Jess 1520 
+	KIDS: Kevin Jenkins Paul 1547 | Ronald Jenkins Paul 1547 | Harvey Jenkins Paul 1544 | Charlene Jenkins Paul 1543
+HUSBAND: Richard Davis Joseph 1528 WIFE: Beverly Gee Doris 1532 
+	KIDS: Ethel Davis Richard 1555 | James Davis Richard 1555
+HUSBAND: Tiffany Davis Joseph 1525 WIFE: Willie Kokoska Robert 1521 
+	KIDS: Raymond Kokoska Willie 1545 | Craig Kokoska Willie 1545
+HUSBAND: George Davis Joseph 1524 WIFE: Mireya Maya Janice 1528 
+	KIDS: Delores Davis George 1545
+HUSBAND: Heather Miller Tommy 1522 WIFE: Edward Ward Richard 1517 
+	KIDS: Elvia Ward Edward 1544 | Ryan Ward Edward 1544 | Jill Ward Edward 1536
+HUSBAND: Hazel Miller Tommy 1516 WIFE: Ronnie Phelps Christopher 1517 
+	KIDS: Richard Phelps Ronnie 1536 | Melissa Phelps Ronnie 1536 | Frances Phelps Ronnie 1542
+HUSBAND: Gertrude Miller Tommy 1516 WIFE: Travis Tomaszewski John 1513 
+	KIDS: Georgina Tomaszewski Travis 1536
+HUSBAND: Noah Miller Tommy 1520 WIFE: Christine Williams Tabatha 1522 
+	KIDS: James Miller Noah 1538
+HUSBAND: Timothy Miller Tommy 1523 WIFE: Jennifer Browning Susan 1528 
+	KIDS: null
+HUSBAND: Ivette Walls Fred 1522 WIFE: Jack Fernandez Chris 1523 
+	KIDS: Michael Fernandez Jack 1540 | Johnnie Fernandez Jack 1549 | Francis Fernandez Jack 1547
+HUSBAND: John Walls Fred 1523 WIFE: Shirley Werner Susan 1524 
+	KIDS: Sheryl Walls John 1544 | Patrick Walls John 1544 | Allen Walls John 1543 | Robert Walls John 1544 | David Walls John 1541
+HUSBAND: Pearl Walls Fred 1522 WIFE: Mark Chevalier Thomas 1522 
+	KIDS: Mary Chevalier Mark 1540
+HUSBAND: Anton Walls Fred 1525 WIFE: Shelley Endsley Eveline 1524 
+	KIDS: Warren Walls Anton 1544 | Rita Walls Anton 1551 | Sherry Walls Anton 1545 | Anthony Walls Anton 1546 | Edward Walls Anton 1546
+HUSBAND: Robert Walls Fred 1519 WIFE: Ruth Leaf Zenaida 1517 
+	KIDS: Carlton Walls Robert 1540 | Anita Walls Robert 1539 | Angie Walls Robert 1543 | Erica Walls Robert 1539 | Constance Walls Robert 1537
+HUSBAND: Brenda Thomas Thomas 1517 WIFE: Howard Say Sam 1515 
+	KIDS: Lori Say Howard 1539 | Jeffrey Say Howard 1534 | Theresa Say Howard 1541
+HUSBAND: William Thomas Thomas 1512 WIFE: Jane Roback Kimberly 1514 
+	KIDS: null
+HUSBAND: Tracy Thomas Thomas 1520 WIFE: Joyce Weaver Cora 1517 
+	KIDS: Jaime Thomas Tracy 1540 | Kyung Thomas Tracy 1541
+HUSBAND: Mozelle Diehl Joseph 1519 WIFE: Michael Sterling Wayne 1522 
+	KIDS: Elmer Sterling Michael 1544 | Kenneth Sterling Michael 1543 | Steven Sterling Michael 1539 | David Sterling Michael 1540
+HUSBAND: George Diehl Joseph 1517 WIFE: Lee Bennett Linda 1516 
+	KIDS: Lawrence Diehl George 1540 | Anthony Diehl George 1539 | Michael Diehl George 1536 | George Diehl George 1540 | Elizabeth Diehl George 1536
+HUSBAND: George Diehl Joseph 1513 WIFE: Amy Hamilton Erika 1509 
+	KIDS: Karen Diehl George 1528 | David Diehl George 1530 | Brian Diehl George 1530 | Martha Diehl George 1535
+HUSBAND: Patricia Diehl Joseph 1518 WIFE: Raymond Turek Phillip 1521 
+	KIDS: Adrian Turek Raymond 1538 | Eldridge Turek Raymond 1538
+HUSBAND: Paul Gent John 1521 WIFE: Teresa King Marcelina 1523 
+	KIDS: Martha Gent Paul 1539 | Ashley Gent Paul 1540 | Jeremy Gent Paul 1544 | Jeffrey Gent Paul 1539
+HUSBAND: Jacqueline Gent John 1525 WIFE: Terry Richardson Stephen 1523 
+	KIDS: null
+HUSBAND: John Gent John 1526 WIFE: Christine Barger Stacey 1531 
+	KIDS: Joshua Gent John 1552 | Willa Gent John 1553 | Laquita Gent John 1548 | Travis Gent John 1551
+HUSBAND: Duane Gent Stanley 1521 WIFE: Jessica Jones Jeannette 1521 
+	KIDS: Opal Gent Duane 1540
+HUSBAND: Alice Gent Stanley 1520 WIFE: Douglas Telep John 1518 
+	KIDS: Elias Telep Douglas 1539 | Karl Telep Douglas 1543 | Kelvin Telep Douglas 1538
+HUSBAND: Ross Gent Stanley 1517 WIFE: Erin Adams Harriet 1513 
+	KIDS: Zola Gent Ross 1534 | Kathryne Gent Ross 1531 | John Gent Ross 1531 | Erma Gent Ross 1535
+HUSBAND: Jeannine Gent Stanley 1520 WIFE: Richard Poon Paul 1525 
+	KIDS: Monica Poon Richard 1545
+HUSBAND: Tonya Gent Bob 1520 WIFE: David Pike Alex 1521 
+	KIDS: null
+HUSBAND: Tami Gent Bob 1523 WIFE: Thomas Booker John 1520 
+	KIDS: David Booker Thomas 1544 | Christa Booker Thomas 1539 | Jeannette Booker Thomas 1539
+HUSBAND: Thomas Gent Bob 1525 WIFE: Susan Hook Martha 1527 
+	KIDS: Jean Gent Thomas 1547 | Jeffrey Gent Thomas 1543
+HUSBAND: Francisco Gent Bob 1525 WIFE: Mary Gearheart Elizabeth 1524 
+	KIDS: James Gent Francisco 1551 | Courtney Gent Francisco 1550
+HUSBAND: Angelia Gent Bob 1524 WIFE: Mike Miller Michael 1519 
+	KIDS: Russell Miller Mike 1537 | Melanie Miller Mike 1539 | Ella Miller Mike 1545 | Jay Miller Mike 1539 | Michael Miller Mike 1537
+
+GENERATION 7
+
+HUSBAND: Janet Griffin Willie 1558 WIFE: Stephen Shafer Daniel 1554 
+	KIDS: John Shafer Stephen 1579 | Ashlee Shafer Stephen 1580
+HUSBAND: Wilma Griffin Willie 1556 WIFE: Donald Hamilton Donald 1560 
+	KIDS: Adam Hamilton Donald 1577
+HUSBAND: Paul Griffin Willie 1555 WIFE: Tina Curry Sandra 1559 
+	KIDS: Lois Griffin Paul 1582 | Linda Griffin Paul 1578 | Angela Griffin Paul 1580 | Jeffrey Griffin Paul 1574 | Virginia Griffin Paul 1579
+HUSBAND: Eric Gay Reginald 1546 WIFE: Melvin Anderson Wilbur 1546 
+	KIDS: Kent Anderson Melvin 1569 | Eddie Anderson Melvin 1564 | George Anderson Melvin 1567 | Betty Anderson Melvin 1567 | Marcus Anderson Melvin 1566
+HUSBAND: Douglas Wills Anthony 1547 WIFE: Cheryl Aviles Doris 1544 
+	KIDS: Jesse Wills Douglas 1569
+HUSBAND: William Wills Anthony 1547 WIFE: Keely Simeone Gladys 1551 
+	KIDS: Matthew Wills William 1569 | Lynda Wills William 1572 | David Wills William 1571 | Rebecca Wills William 1573
+HUSBAND: Rachel Wills Anthony 1554 WIFE: John Radune John 1555 
+	KIDS: Michelle Radune John 1575 | Justin Radune John 1579 | Brandy Radune John 1573 | Barbara Radune John 1573
+HUSBAND: Kevin Wills Anthony 1548 WIFE: Betty Heredia Jasmine 1552 
+	KIDS: William Wills Kevin 1570 | Eugene Wills Kevin 1574 | Wanda Wills Kevin 1573
+HUSBAND: Marilyn Wills Anthony 1556 WIFE: Nicholas Wren Roger 1558 
+	KIDS: Deborah Wren Nicholas 1576 | Ebony Wren Nicholas 1575 | Martha Wren Nicholas 1577
+HUSBAND: Amy Stiner Steven 1553 WIFE: Vincent Pace Daniel 1555 
+	KIDS: Susanne Pace Vincent 1573
+HUSBAND: Judy Stiner Steven 1552 WIFE: James Solis Robert 1551 
+	KIDS: Marguerite Solis James 1574 | Elaine Solis James 1571 | Jesse Solis James 1574
+HUSBAND: Barbara Baker Joe 1556 WIFE: Walter Bryant Raymond 1560 
+	KIDS: Eldon Bryant Walter 1579
+HUSBAND: Jonathan Kime Kevin 1563 WIFE: Elizabeth Ferrell Rebecca 1558 
+	KIDS: Billie Kime Jonathan 1580 | Richard Kime Jonathan 1584
+HUSBAND: Patricia Kime Kevin 1566 WIFE: Robert Hale Edward 1562 
+	KIDS: Peggy Hale Robert 1581 | Michelle Hale Robert 1587
+HUSBAND: Robert Kime Kevin 1569 WIFE: Maritza Buckles Thelma 1565 
+	KIDS: Steve Kime Robert 1590 | Frank Kime Robert 1587 | Katherine Kime Robert 1592
+HUSBAND: Freda Kime Kevin 1563 WIFE: Reginald Bowers Dennis 1566 
+	KIDS: Dawn Bowers Reginald 1589 | Jeannette Bowers Reginald 1584 | Kyle Bowers Reginald 1589 | Latasha Bowers Reginald 1584 | Maria Bowers Reginald 1582
+HUSBAND: Lola Helfrich Charles 1558 WIFE: Abraham Groves Mark 1555 
+	KIDS: Brian Groves Abraham 1574 | David Groves Abraham 1577 | Salvador Groves Abraham 1578 | Kenyatta Groves Abraham 1575
+HUSBAND: Lucie Baker Steven 1564 WIFE: Michael Williams George 1559 
+	KIDS: null
+HUSBAND: William Baker Steven 1560 WIFE: Kelly Gallagher Betty 1560 
+	KIDS: Beverly Baker William 1585
+HUSBAND: Brenda Baker Louis 1554 WIFE: Stevie Steedley Warren 1556 
+	KIDS: Mildred Steedley Stevie 1577 | Carmen Steedley Stevie 1578 | Charles Steedley Stevie 1572 | Pat Steedley Stevie 1572 | Tammy Steedley Stevie 1574
+HUSBAND: Bobbie Baker Louis 1559 WIFE: Nicholas Paulsen Andrew 1557 
+	KIDS: Charles Paulsen Nicholas 1575 | Dana Paulsen Nicholas 1578 | Mariam Paulsen Nicholas 1577 | Lou Paulsen Nicholas 1577
+HUSBAND: Pauline Baker Louis 1562 WIFE: John Dubois Robert 1558 
+	KIDS: Gary Dubois John 1576 | Goldie Dubois John 1584 | Rebecca Dubois John 1584 | Eric Dubois John 1579 | Michael Dubois John 1581
+HUSBAND: Troy Baker Louis 1563 WIFE: Iris Rowan Charlotte 1568 
+	KIDS: Norman Baker Troy 1585 | Louise Baker Troy 1585 | Gudrun Baker Troy 1584 | Richard Baker Troy 1588
+HUSBAND: Helena Baker Louis 1563 WIFE: Ernest Shapiro Orlando 1565 
+	KIDS: Jean Shapiro Ernest 1590 | David Shapiro Ernest 1590 | Thomas Shapiro Ernest 1585 | Steven Shapiro Ernest 1581
+HUSBAND: Judith Gutierrez Stephen 1560 WIFE: Gordon Cathey Eli 1555 
+	KIDS: null
+HUSBAND: Janice Maulden Wayne 1560 WIFE: Christopher Tyler Thomas 1559 
+	KIDS: Peter Tyler Christopher 1584 | Gabriel Tyler Christopher 1580
+HUSBAND: Edward Maulden Wayne 1559 WIFE: Diane Koehler Denise 1554 
+	KIDS: Chester Maulden Edward 1577 | Richard Maulden Edward 1577 | Juanita Maulden Edward 1575
+HUSBAND: Justin Maulden Wayne 1561 WIFE: Lula Schwipps Belinda 1559 
+	KIDS: Jennifer Maulden Justin 1580
+HUSBAND: Frances Maulden Wayne 1557 WIFE: Kenneth Reed Henry 1555 
+	KIDS: Rebecca Reed Kenneth 1575
+HUSBAND: Gregory Maulden Wayne 1564 WIFE: Maria Harbert Mary 1565 
+	KIDS: Phyllis Maulden Gregory 1583 | Theresa Maulden Gregory 1591 | James Maulden Gregory 1587 | Marlene Maulden Gregory 1585 | Randolph Maulden Gregory 1587
+HUSBAND: Joanne Manning Jose 1565 WIFE: Hugh Green Eugene 1568 
+	KIDS: Geri Green Hugh 1585
+HUSBAND: Jorge Manning Jose 1565 WIFE: Mary Chase Gina 1565 
+	KIDS: null
+HUSBAND: Karen Manning Jose 1557 WIFE: Thomas Frost Jack 1562 
+	KIDS: John Frost Thomas 1580
+HUSBAND: Denise Manning Jose 1559 WIFE: Stephen Ramos Toby 1561 
+	KIDS: Robert Ramos Stephen 1578 | Peter Ramos Stephen 1582 | Terri Ramos Stephen 1582 | Matthew Ramos Stephen 1583 | Dana Ramos Stephen 1584
+HUSBAND: Samuel Manning Jose 1557 WIFE: Diane Orleans Janet 1556 
+	KIDS: null
+HUSBAND: Steven Burleson Sammy 1560 WIFE: Cathy Alvarez Jennifer 1563 
+	KIDS: Sally Burleson Steven 1587 | Louis Burleson Steven 1579 | Diane Burleson Steven 1579 | George Burleson Steven 1585
+HUSBAND: Yvonne Burleson Sammy 1564 WIFE: Enrique Sheehan David 1560 
+	KIDS: Ronald Sheehan Enrique 1585 | Martha Sheehan Enrique 1580 | Mary Sheehan Enrique 1578 | Pat Sheehan Enrique 1583
+HUSBAND: Karen Burleson Sammy 1555 WIFE: Clinton Augustus John 1557 
+	KIDS: Richard Augustus Clinton 1574 | Victoria Augustus Clinton 1575 | Anne Augustus Clinton 1573 | Minnie Augustus Clinton 1582
+HUSBAND: Marilyn Parke Jeffery 1563 WIFE: Wesley Mattison Jose 1558 
+	KIDS: Emery Mattison Wesley 1577 | John Mattison Wesley 1578
+HUSBAND: Barbara Parke Jeffery 1558 WIFE: James Weidler William 1555 
+	KIDS: Ramonita Weidler James 1577 | Gina Weidler James 1575 | Joseph Weidler James 1573 | Jose Weidler James 1578
+HUSBAND: Charles Parke Jim 1559 WIFE: Violet Roque Catherine 1561 
+	KIDS: Howard Parke Charles 1577 | Elizabeth Parke Charles 1586
+HUSBAND: Janice Dehaven Tanner 1561 WIFE: Daniel Mckillip Ted 1561 
+	KIDS: Steve Mckillip Daniel 1585 | Chris Mckillip Daniel 1580
+HUSBAND: Caitlin Dehaven Tanner 1566 WIFE: Edwin Hess Joseph 1564 
+	KIDS: null
+HUSBAND: Shawna Dehaven Tanner 1566 WIFE: Warren Hensley Samuel 1561 
+	KIDS: Anthony Hensley Warren 1583
+HUSBAND: Thomas Dehaven Tanner 1562 WIFE: Stacie Gober Christine 1559 
+	KIDS: Teresa Dehaven Thomas 1577 | Bernard Dehaven Thomas 1578
+HUSBAND: Justin Cheek Wm 1567 WIFE: Wanda Curran Phyllis 1569 
+	KIDS: Grace Cheek Justin 1587
+HUSBAND: Kathleen Cheek Wm 1566 WIFE: John Dixon Corey 1563 
+	KIDS: Peter Dixon John 1585
+HUSBAND: Steve Cheek Wm 1562 WIFE: Samantha York Joann 1560 
+	KIDS: null
+HUSBAND: Stephanie Cheek Wm 1562 WIFE: Kerry Scott Guy 1560 
+	KIDS: Tracy Scott Kerry 1587
+HUSBAND: Eleanor Archer Jason 1557 WIFE: Ernest Lowe Charlie 1552 
+	KIDS: Anita Lowe Ernest 1575 | Alfredo Lowe Ernest 1574
+HUSBAND: Brenda Estimable Clinton 1565 WIFE: Benjamin Negrete Jeremy 1565 
+	KIDS: null
+HUSBAND: Andre Estimable Clinton 1567 WIFE: Trudie Rathbun Jennifer 1570 
+	KIDS: Willie Estimable Andre 1592 | Cindy Estimable Andre 1592 | Mary Estimable Andre 1589 | John Estimable Andre 1591 | Robert Estimable Andre 1585
+HUSBAND: Arnetta Estimable Clinton 1565 WIFE: Thomas Cory Vincent 1566 
+	KIDS: Jeffery Cory Thomas 1584 | Sylvester Cory Thomas 1590 | John Cory Thomas 1584
+HUSBAND: Robert Estimable Clinton 1572 WIFE: Shan Morgan Allie 1576 
+	KIDS: Timothy Estimable Robert 1598 | Jordan Estimable Robert 1591
+HUSBAND: Richard Estimable Clinton 1572 WIFE: Marianne Carew Susan 1571 
+	KIDS: Elmer Estimable Richard 1598 | Tiffany Estimable Richard 1598 | Mark Estimable Richard 1589
+HUSBAND: Leonardo Estimable Milton 1555 WIFE: Melissa Veal Misty 1558 
+	KIDS: Stephen Estimable Leonardo 1577
+HUSBAND: Mary Robison James 1558 WIFE: Benjamin Rudolph Johnnie 1563 
+	KIDS: Kevin Rudolph Benjamin 1581 | Ada Rudolph Benjamin 1577 | Adeline Rudolph Benjamin 1578
+HUSBAND: John Jackson William 1565 WIFE: Mary Houston Inez 1561 
+	KIDS: Mary Jackson John 1582 | Carla Jackson John 1584
+HUSBAND: Woodrow Jackson William 1561 WIFE: Jewell Martin Essie 1561 
+	KIDS: Robert Jackson Woodrow 1584
+HUSBAND: Erin Jackson William 1566 WIFE: Juan Henderson Kyle 1565 
+	KIDS: Julian Henderson Juan 1587 | Maria Henderson Juan 1587 | Robert Henderson Juan 1588 | Claudia Henderson Juan 1590 | Kenneth Henderson Juan 1585
+HUSBAND: Barbara Jackson William 1558 WIFE: Daniel Parker Robert 1558 
+	KIDS: Karen Parker Daniel 1581 | Jeannie Parker Daniel 1577
+HUSBAND: Steven Jackson William 1564 WIFE: Cecila Coffman Letha 1559 
+	KIDS: Jennifer Jackson Steven 1584 | Jarred Jackson Steven 1584 | Howard Jackson Steven 1580
+HUSBAND: Douglas Jackson Samuel 1559 WIFE: Sonya Vance Bonita 1554 
+	KIDS: Rosanne Jackson Douglas 1579 | Antoinette Jackson Douglas 1578 | Marie Jackson Douglas 1577 | Lisa Jackson Douglas 1576
+HUSBAND: Cherryl Jackson Christopher 1562 WIFE: Richard Phillips Edward 1559 
+	KIDS: Tina Phillips Richard 1586
+HUSBAND: Larry Jackson Christopher 1565 WIFE: Sheryl Lambert Becky 1562 
+	KIDS: null
+HUSBAND: Audra Jackson Christopher 1563 WIFE: Joseph Parks William 1565 
+	KIDS: Henry Parks Joseph 1588 | Gary Parks Joseph 1589 | Gloria Parks Joseph 1581 | Nancy Parks Joseph 1584
+HUSBAND: Irving Hamilton Paul 1556 WIFE: Evon Allen Mayra 1558 
+	KIDS: Kristi Hamilton Irving 1576 | Jon Hamilton Irving 1578
+HUSBAND: Mary Owens James 1577 WIFE: Steve Peterson Clyde 1578 
+	KIDS: Mary Peterson Steve 1599
+HUSBAND: Trina Owens James 1572 WIFE: David Blair Justin 1569 
+	KIDS: Desiree Blair David 1589 | Tracey Blair David 1595 | Angela Blair David 1593 | Wendy Blair David 1587
+HUSBAND: Larry Hamel Raymond 1574 WIFE: Barbara Snow Crystal 1576 
+	KIDS: Neal Hamel Larry 1597 | Eric Hamel Larry 1595 | Judith Hamel Larry 1596 | Edward Hamel Larry 1592
+HUSBAND: Donald Hamel Raymond 1578 WIFE: Carmella Laschinger Angela 1581 
+	KIDS: David Hamel Donald 1605 | Pierre Hamel Donald 1596 | Patricia Hamel Donald 1604 | Jennifer Hamel Donald 1596 | Jordan Hamel Donald 1604
+HUSBAND: Pamela Pena Harold 1573 WIFE: Jackie Elliott Alfred 1574 
+	KIDS: Katie Elliott Jackie 1596 | William Elliott Jackie 1599 | Julia Elliott Jackie 1597
+HUSBAND: Josephine Cheek Dean 1564 WIFE: Michael Gallagher Wesley 1567 
+	KIDS: John Gallagher Michael 1585
+HUSBAND: Rose Cheek Dean 1562 WIFE: Darrin Webb Richard 1567 
+	KIDS: Marion Webb Darrin 1583 | Grace Webb Darrin 1583
+HUSBAND: Kevin Cheek Dean 1566 WIFE: Willie Polaco Patrice 1568 
+	KIDS: Joshua Cheek Kevin 1589 | Bruce Cheek Kevin 1589 | Scarlet Cheek Kevin 1588 | Rodney Cheek Kevin 1588 | Ralph Cheek Kevin 1593
+HUSBAND: Gwendolyn Cheek Dean 1561 WIFE: Mickey Taylor Alfredo 1565 
+	KIDS: John Taylor Mickey 1579 | George Taylor Mickey 1583 | Karin Taylor Mickey 1582 | Roger Taylor Mickey 1587
+HUSBAND: Sara William Charles 1545 WIFE: Russell Downey Charles 1544 
+	KIDS: Jack Downey Russell 1569
+HUSBAND: Kathryn William Charles 1545 WIFE: Garland Moretz James 1542 
+	KIDS: Barbara Moretz Garland 1567 | Joseph Moretz Garland 1566 | Elmer Moretz Garland 1560 | Maggie Moretz Garland 1560
+HUSBAND: Joshua William Charles 1543 WIFE: Katie Bagby Melissa 1545 
+	KIDS: Luke William Joshua 1570 | Amber William Joshua 1563 | Bonnie William Joshua 1562 | Elizabeth William Joshua 1570
+HUSBAND: Eugene William Charles 1548 WIFE: Stacy Smith Lucia 1553 
+	KIDS: Thomas William Eugene 1574 | Bettyann William Eugene 1573
+HUSBAND: Peter William Charles 1544 WIFE: Maria Rivera Mayra 1546 
+	KIDS: Linda William Peter 1563 | Carrol William Peter 1566 | James William Peter 1569 | Mattie William Peter 1566 | Joseph William Peter 1564
+HUSBAND: Anthony Whitfield Christopher 1553 WIFE: Shawna Paul Terri 1552 
+	KIDS: Ciara Whitfield Anthony 1574 | Brooke Whitfield Anthony 1572 | Ayesha Whitfield Anthony 1576 | Aaron Whitfield Anthony 1578
+HUSBAND: Delores Whitfield Christopher 1546 WIFE: Alberto Torris Steven 1542 
+	KIDS: Charles Torris Alberto 1560 | Marie Torris Alberto 1563
+HUSBAND: David Whitfield Christopher 1554 WIFE: Bettina Frierson Julie 1550 
+	KIDS: Matthew Whitfield David 1574 | Lucille Whitfield David 1575
+HUSBAND: Joe Whitfield Christopher 1547 WIFE: Marcia Kim Eva 1550 
+	KIDS: Ernest Whitfield Joe 1565 | Ivan Whitfield Joe 1570 | Frank Whitfield Joe 1567
+HUSBAND: James Reid Alexander 1554 WIFE: Margaret Rhodes Erinn 1550 
+	KIDS: Richard Reid James 1575
+HUSBAND: Lilian Reid Daniel 1549 WIFE: James Carpenter Earl 1549 
+	KIDS: null
+HUSBAND: Ruby Reid Daniel 1553 WIFE: Scott Martin Jonathan 1550 
+	KIDS: Emily Martin Scott 1573 | Creola Martin Scott 1576
+HUSBAND: Charles Reid Daniel 1548 WIFE: Frances Norris Thresa 1553 
+	KIDS: null
+HUSBAND: Jacqueline Reid Daniel 1555 WIFE: Terry Odell Karl 1557 
+	KIDS: null
+HUSBAND: Tracey Reid Daniel 1552 WIFE: Donovan Pratt Michael 1553 
+	KIDS: Nancy Pratt Donovan 1577 | Keri Pratt Donovan 1572 | Darci Pratt Donovan 1570 | Mark Pratt Donovan 1577
+HUSBAND: John Jackson Johnny 1555 WIFE: Miriam Fowler Michelle 1554 
+	KIDS: Ron Jackson John 1572 | Patricia Jackson John 1580 | Wilton Jackson John 1581 | Rufus Jackson John 1574
+HUSBAND: Marcelino Miller Andre 1556 WIFE: Carrie Calvert Nila 1558 
+	KIDS: Victor Miller Marcelino 1579 | Jonathan Miller Marcelino 1580 | Bonnie Miller Marcelino 1578
+HUSBAND: Amy Miller Andre 1560 WIFE: Rudolph Blue Matthew 1559 
+	KIDS: Rosie Blue Rudolph 1586 | Justin Blue Rudolph 1583 | Craig Blue Rudolph 1580
+HUSBAND: Damon Miller Andre 1552 WIFE: Neely Lheureux Pamela 1553 
+	KIDS: Bruce Miller Damon 1578 | Rosario Miller Damon 1571 | Jeremiah Miller Damon 1571
+HUSBAND: Melissa Miller Andre 1560 WIFE: Albert Erickson Darrell 1561 
+	KIDS: Mary Erickson Albert 1580 | Joseph Erickson Albert 1583 | Bradley Erickson Albert 1582 | Nancy Erickson Albert 1582 | Dick Erickson Albert 1584
+HUSBAND: Jeff Miller Andre 1561 WIFE: Lenore Spencer Janet 1563 
+	KIDS: Mike Miller Jeff 1586 | Stephen Miller Jeff 1586 | Stephanie Miller Jeff 1581
+HUSBAND: Chris Cordell Steven 1555 WIFE: Harriett Ewart Norma 1552 
+	KIDS: Douglas Cordell Chris 1577 | Rodney Cordell Chris 1573
+HUSBAND: Maria Cordell Steven 1553 WIFE: Brian Bolling John 1553 
+	KIDS: Dawn Bolling Brian 1576 | Rafael Bolling Brian 1576 | Barbara Bolling Brian 1572
+HUSBAND: Jessica Cordell Steven 1554 WIFE: Randy Oconnor John 1552 
+	KIDS: Sandra Oconnor Randy 1578 | David Oconnor Randy 1579 | Annette Oconnor Randy 1577 | Arturo Oconnor Randy 1570 | Mark Oconnor Randy 1575
+HUSBAND: Casey Cordell Steven 1562 WIFE: Chad Dubois Jonathan 1562 
+	KIDS: Bernice Dubois Chad 1581 | Andrea Dubois Chad 1584
+HUSBAND: Allen Cordell Steven 1555 WIFE: Kristin Mcfadden Joyce 1553 
+	KIDS: Daniel Cordell Allen 1580
+HUSBAND: Edward Florez Thomas 1557 WIFE: Diane Buel Kimberly 1552 
+	KIDS: Justin Florez Edward 1574
+HUSBAND: Antoinette Florez Thomas 1558 WIFE: Thomas Valencia Max 1559 
+	KIDS: null
+HUSBAND: Ruth Florez Thomas 1558 WIFE: Sergio Williamson Darrell 1563 
+	KIDS: Nicolas Williamson Sergio 1583 | Judith Williamson Sergio 1583 | Benjamin Williamson Sergio 1583 | Lorene Williamson Sergio 1584
+HUSBAND: Joan Florez Thomas 1561 WIFE: Vernon Field Brian 1558 
+	KIDS: Kelly Field Vernon 1576 | Nicholas Field Vernon 1579
+HUSBAND: Gregory Florez Thomas 1557 WIFE: Debora Hill Flossie 1559 
+	KIDS: Mary Florez Gregory 1578
+HUSBAND: Sue Heras Ronald 1549 WIFE: Mark Newton Jason 1554 
+	KIDS: null
+HUSBAND: Tina Heras Ronald 1555 WIFE: Michael Dunn Jonathan 1552 
+	KIDS: Dean Dunn Michael 1576 | Nina Dunn Michael 1576 | Cindi Dunn Michael 1573 | Melissa Dunn Michael 1575 | Emilio Dunn Michael 1576
+HUSBAND: Brandon Heras Ronald 1553 WIFE: Lori Marin Jillian 1549 
+	KIDS: Maggie Heras Brandon 1573 | Darnell Heras Brandon 1573 | Jose Heras Brandon 1570
+HUSBAND: Ted Gregory Frank 1550 WIFE: Patricia Ludeker Frankie 1552 
+	KIDS: null
+HUSBAND: Lillian Gregory Frank 1543 WIFE: Roderick Andrews Antonio 1542 
+	KIDS: Bonnie Andrews Roderick 1561 | Robert Andrews Roderick 1560 | Willie Andrews Roderick 1562 | Erma Andrews Roderick 1566 | Thelma Andrews Roderick 1564
+HUSBAND: Tina Gregory Frank 1549 WIFE: Martin Moradian Bradley 1554 
+	KIDS: Edith Moradian Martin 1568
+HUSBAND: Carrie Gregory Frank 1548 WIFE: Arthur Kalman Geraldo 1547 
+	KIDS: Gordon Kalman Arthur 1571
+HUSBAND: Sharon Cheek James 1560 WIFE: Lawrence Jensen Renato 1561 
+	KIDS: Tamara Jensen Lawrence 1585 | David Jensen Lawrence 1584
+HUSBAND: Alvin Cheek James 1562 WIFE: Tracy Carlisle Cecilia 1566 
+	KIDS: Janet Cheek Alvin 1589 | Griselda Cheek Alvin 1589 | Olga Cheek Alvin 1581
+HUSBAND: Esperanza Metcalf Jimmy 1553 WIFE: Donald Rast Harry 1548 
+	KIDS: Anna Rast Donald 1575 | Micah Rast Donald 1569 | Robert Rast Donald 1569 | Jose Rast Donald 1569
+HUSBAND: Janet Cheek David 1561 WIFE: Robert Ortega Isreal 1560 
+	KIDS: Joyce Ortega Robert 1580
+HUSBAND: Roy Cheek Sam 1555 WIFE: Lynne Smith Karla 1560 
+	KIDS: null
+HUSBAND: Glen Cheek Sam 1557 WIFE: Michelle Smith Mary 1561 
+	KIDS: Arletha Cheek Glen 1579 | Jennifer Cheek Glen 1579
+HUSBAND: Isabelle Cheek Sam 1552 WIFE: Davis Stokes Michael 1553 
+	KIDS: null
+HUSBAND: Margarita Cheek Sam 1553 WIFE: Kenneth Bishop George 1549 
+	KIDS: Ruth Bishop Kenneth 1567 | Sharon Bishop Kenneth 1572 | Clint Bishop Kenneth 1568 | Megan Bishop Kenneth 1571
+HUSBAND: Gary Gural Antoine 1555 WIFE: Mary Leggett Sharon 1556 
+	KIDS: Lena Gural Gary 1574 | Fred Gural Gary 1578 | Alexandra Gural Gary 1579 | Larry Gural Gary 1575 | David Gural Gary 1582
+HUSBAND: William Gural Antoine 1557 WIFE: Ellen Starling Suzan 1558 
+	KIDS: Danny Gural William 1583 | Peter Gural William 1581 | Lloyd Gural William 1584 | Earl Gural William 1580
+HUSBAND: Lisa Gural Antoine 1554 WIFE: Richard Moore James 1552 
+	KIDS: Keith Moore Richard 1579
+HUSBAND: Julie Gural Antoine 1553 WIFE: Leon Churchwell Christopher 1553 
+	KIDS: Jeffery Churchwell Leon 1573 | Janel Churchwell Leon 1580 | Natasha Churchwell Leon 1580 | Judy Churchwell Leon 1575 | Faith Churchwell Leon 1580
+HUSBAND: Hillary Gural Antoine 1551 WIFE: Antonio Merrett Thomas 1548 
+	KIDS: null
+HUSBAND: Audrey Cheek Christopher 1559 WIFE: Jeffrey Holt Zachary 1562 
+	KIDS: null
+HUSBAND: Walter Cheek Christopher 1560 WIFE: Gia Willis Elizabeth 1562 
+	KIDS: null
+HUSBAND: Diane Cheek Christopher 1556 WIFE: Jose Boucher Cory 1556 
+	KIDS: Patrick Boucher Jose 1583
+HUSBAND: Berta Lasala Earl 1559 WIFE: John Townes Francis 1564 
+	KIDS: Richard Townes John 1577 | Miriam Townes John 1584 | Mary Townes John 1582 | Leann Townes John 1581
+HUSBAND: Mary Myers Jason 1554 WIFE: Charles Smith Craig 1553 
+	KIDS: David Smith Charles 1578
+HUSBAND: Anton Myers Jason 1562 WIFE: Margaret Davis Michelle 1563 
+	KIDS: Marcia Myers Anton 1580 | Kenneth Myers Anton 1589 | John Myers Anton 1588 | Jennifer Myers Anton 1587
+HUSBAND: Tracy Myers Jason 1559 WIFE: Mark Robinson Joseph 1562 
+	KIDS: David Robinson Mark 1582 | Michelle Robinson Mark 1581
+HUSBAND: James Myers Jason 1557 WIFE: Janna Hoefler Kimberly 1561 
+	KIDS: David Myers James 1583 | Joann Myers James 1583 | Maria Myers James 1584 | Heather Myers James 1582
+HUSBAND: Russell Myers Jason 1560 WIFE: Ina Woods Chi 1556 
+	KIDS: Ruth Myers Russell 1581 | Jaime Myers Russell 1575
+HUSBAND: Joan Charles Ronald 1559 WIFE: Gerry Gibney Roy 1558 
+	KIDS: null
+HUSBAND: Christina Charles Ronald 1558 WIFE: Juan Markey Steven 1563 
+	KIDS: Terrell Markey Juan 1585 | Betty Markey Juan 1577 | Abel Markey Juan 1583 | Pablo Markey Juan 1583 | Ian Markey Juan 1584
+HUSBAND: Domingo Charles Ronald 1558 WIFE: Carolyn Petermann Deborah 1563 
+	KIDS: Jamie Charles Domingo 1584 | Marvin Charles Domingo 1578 | Gary Charles Domingo 1581 | Richard Charles Domingo 1576
+HUSBAND: Clyde Hodges John 1559 WIFE: Ashley Bowden Jennifer 1559 
+	KIDS: Sandra Hodges Clyde 1579 | Jessie Hodges Clyde 1583 | Adina Hodges Clyde 1578
+HUSBAND: Peter Crossman Melvin 1559 WIFE: Sandra Molina Adriana 1554 
+	KIDS: John Crossman Peter 1573 | Shirley Crossman Peter 1572 | Roxann Crossman Peter 1580 | Anthony Crossman Peter 1573
+HUSBAND: Gary Crossman Melvin 1556 WIFE: Alma Yoon Melissa 1559 
+	KIDS: Alyssa Crossman Gary 1579 | George Crossman Gary 1576 | Kelli Crossman Gary 1579
+HUSBAND: Maurice Crossman Melvin 1555 WIFE: Katherine Self Denise 1551 
+	KIDS: Roberta Crossman Maurice 1573 | William Crossman Maurice 1570 | Shasta Crossman Maurice 1575 | Tina Crossman Maurice 1569
+HUSBAND: Melissa Crossman Melvin 1559 WIFE: Howard Barber Michael 1561 
+	KIDS: null
+HUSBAND: Todd Crossman Melvin 1563 WIFE: Leanna Conrad Elizabeth 1562 
+	KIDS: Zoraida Crossman Todd 1589
+HUSBAND: Karen Hookano Joe 1558 WIFE: Sonny Battles Keith 1555 
+	KIDS: Matthew Battles Sonny 1582 | Benjamin Battles Sonny 1576 | George Battles Sonny 1582 | Jared Battles Sonny 1579 | Paula Battles Sonny 1579
+HUSBAND: Eric Hookano Joe 1560 WIFE: Nicki Neely Barbara 1565 
+	KIDS: Sarah Hookano Eric 1579 | Juan Hookano Eric 1584 | Joseph Hookano Eric 1583
+HUSBAND: Harvey Hookano Joe 1557 WIFE: Mable Owens Elizabeth 1555 
+	KIDS: Maria Hookano Harvey 1575 | Juan Hookano Harvey 1582
+HUSBAND: Gary Charles Johnny 1562 WIFE: Araceli Bagwell Sarita 1559 
+	KIDS: Eric Charles Gary 1583 | Angel Charles Gary 1586 | Joseph Charles Gary 1579 | Fredricka Charles Gary 1579
+HUSBAND: Regina Charles Thomas 1551 WIFE: Robert James Charles 1548 
+	KIDS: null
+HUSBAND: Rebecca Charles Thomas 1553 WIFE: Danny Lewandowski Harrison 1553 
+	KIDS: Lee Lewandowski Danny 1575 | Tammie Lewandowski Danny 1571 | Arnold Lewandowski Danny 1578 | Cynthia Lewandowski Danny 1576
+HUSBAND: Vicky Charles Thomas 1560 WIFE: Dale Gibson Fred 1557 
+	KIDS: Randy Gibson Dale 1584
+HUSBAND: Antonio Charles Thomas 1551 WIFE: Rita Hastings Laura 1552 
+	KIDS: Tracy Charles Antonio 1572 | Emma Charles Antonio 1571 | James Charles Antonio 1571
+HUSBAND: Julia Charles Thomas 1560 WIFE: William Murtagh Brian 1559 
+	KIDS: null
+HUSBAND: Cesar Charles Christopher 1555 WIFE: Eva Tucker Pamela 1550 
+	KIDS: Deborah Charles Cesar 1568 | Lorene Charles Cesar 1568 | John Charles Cesar 1569
+HUSBAND: Diane Charles Christopher 1559 WIFE: Steven Duncan Christopher 1555 
+	KIDS: Dora Duncan Steven 1579 | Elizabeth Duncan Steven 1579
+HUSBAND: Rachel Charles Christopher 1553 WIFE: Eddie Candelario David 1550 
+	KIDS: Rosemary Candelario Eddie 1570 | Gregory Candelario Eddie 1577 | Charles Candelario Eddie 1573
+HUSBAND: Jennifer Charles Christopher 1557 WIFE: Jeff Spraggins James 1553 
+	KIDS: James Spraggins Jeff 1575 | Rufus Spraggins Jeff 1577
+HUSBAND: Joy Charles Christopher 1557 WIFE: Randy Landes Benjamin 1557 
+	KIDS: Maria Landes Randy 1579 | Charles Landes Randy 1576 | Rosemary Landes Randy 1584 | Rolf Landes Randy 1577 | Aaron Landes Randy 1575
+HUSBAND: Darrell Jackson James 1561 WIFE: Louise Cato Laurie 1562 
+	KIDS: Christopher Jackson Darrell 1586 | Angela Jackson Darrell 1582 | Robert Jackson Darrell 1581 | Richard Jackson Darrell 1580
+HUSBAND: Robert Jackson James 1562 WIFE: Mary Blaize Mary 1565 
+	KIDS: Arlene Jackson Robert 1585 | Gregory Jackson Robert 1584 | Crystal Jackson Robert 1582
+HUSBAND: Dorothy Parrales Willie 1562 WIFE: Phillip Obiesie Fred 1558 
+	KIDS: Basil Obiesie Phillip 1578 | Kate Obiesie Phillip 1576 | Marion Obiesie Phillip 1583 | Sandra Obiesie Phillip 1580
+HUSBAND: Ronald Cousin James 1555 WIFE: Tracy Randolph Paula 1560 
+	KIDS: Sandy Cousin Ronald 1574 | Luisa Cousin Ronald 1580 | Charles Cousin Ronald 1574
+HUSBAND: Rocio Cousin James 1555 WIFE: Robert Escobar Fredrick 1558 
+	KIDS: Carolyn Escobar Robert 1582 | Martha Escobar Robert 1575
+HUSBAND: George Cousin James 1553 WIFE: Mary Burnett Elizabeth 1555 
+	KIDS: Kevin Cousin George 1579 | Sara Cousin George 1571 | William Cousin George 1578 | Nubia Cousin George 1573
+HUSBAND: Everett Cousin James 1555 WIFE: Sabrina Steele Ashley 1558 
+	KIDS: Terry Cousin Everett 1575 | Charlie Cousin Everett 1575 | Natalie Cousin Everett 1577 | Gertrude Cousin Everett 1575
+HUSBAND: Tina Cousin James 1557 WIFE: Richard Robinson Thomas 1557 
+	KIDS: Janice Robinson Richard 1577 | Kristen Robinson Richard 1578
+HUSBAND: Judy Bennett Steven 1554 WIFE: Homer Sprung Shawn 1557 
+	KIDS: Michelle Sprung Homer 1574 | Danika Sprung Homer 1574 | Patricia Sprung Homer 1575 | John Sprung Homer 1574
+HUSBAND: John Charles Keith 1563 WIFE: Cathryn Rodriguez Lyndsay 1565 
+	KIDS: Norma Charles John 1586 | Jessie Charles John 1582 | Kenneth Charles John 1590 | Roger Charles John 1583
+HUSBAND: Melissa Charles William 1564 WIFE: Joel Mendez Martin 1562 
+	KIDS: Patrick Mendez Joel 1584 | Randy Mendez Joel 1580
+HUSBAND: David Groom Freddy 1566 WIFE: Colleen Schultz Milagros 1561 
+	KIDS: Gary Groom David 1582 | Ralph Groom David 1580 | Mildred Groom David 1588
+HUSBAND: Violet Groom Freddy 1563 WIFE: Robert Woodard Brad 1565 
+	KIDS: Joyce Woodard Robert 1583 | Erik Woodard Robert 1588
+HUSBAND: Monica Groom Freddy 1563 WIFE: Timothy Meadows Milton 1561 
+	KIDS: Jackie Meadows Timothy 1579
+HUSBAND: Amelia Groom Freddy 1565 WIFE: Jacob Topp Carlos 1564 
+	KIDS: Penny Topp Jacob 1586 | Rafael Topp Jacob 1583 | Grace Topp Jacob 1583 | Lynn Topp Jacob 1589
+HUSBAND: Roxann Groom Freddy 1563 WIFE: Willie Perkins Douglas 1568 
+	KIDS: Celeste Perkins Willie 1586 | Boyd Perkins Willie 1584 | Michael Perkins Willie 1589
+HUSBAND: Mildred Boyd George 1564 WIFE: Vincent Adkins Mark 1565 
+	KIDS: Cynthia Adkins Vincent 1587 | Gregory Adkins Vincent 1588 | Paul Adkins Vincent 1583 | Teresa Adkins Vincent 1586 | Gloria Adkins Vincent 1588
+HUSBAND: Clifton Boyd George 1561 WIFE: Nora Foote Judith 1557 
+	KIDS: Nancy Boyd Clifton 1575 | George Boyd Clifton 1577 | Dawn Boyd Clifton 1579 | Vincent Boyd Clifton 1577 | Roger Boyd Clifton 1584
+HUSBAND: Sally Haskins Leon 1558 WIFE: Everett Stainback Mark 1556 
+	KIDS: Richard Stainback Everett 1579
+HUSBAND: Kimberly Haskins Leon 1563 WIFE: Stuart Carroll Karl 1566 
+	KIDS: Marian Carroll Stuart 1583 | Edward Carroll Stuart 1586
+HUSBAND: Pauline Haskins Leon 1556 WIFE: Anthony Connors Dale 1561 
+	KIDS: null
+HUSBAND: Christopher Haskins Leon 1556 WIFE: Patricia Saver Shoshana 1558 
+	KIDS: Andrew Haskins Christopher 1574
+HUSBAND: Justin Peckenpaugh Frederick 1554 WIFE: Jessica George Maria 1554 
+	KIDS: Christina Peckenpaugh Justin 1575 | Cheryl Peckenpaugh Justin 1577 | James Peckenpaugh Justin 1579 | Anne Peckenpaugh Justin 1572 | George Peckenpaugh Justin 1579
+HUSBAND: Maryann Peckenpaugh Frederick 1558 WIFE: Joseph Mayo Michael 1555 
+	KIDS: Randal Mayo Joseph 1579 | Jason Mayo Joseph 1576
+HUSBAND: James Tietjen Samuel 1549 WIFE: Marie Aldrich Mary 1547 
+	KIDS: Thomas Tietjen James 1568 | Joseph Tietjen James 1573 | Michael Tietjen James 1574 | John Tietjen James 1565 | Kathryn Tietjen James 1568
+HUSBAND: Sara Tietjen Samuel 1556 WIFE: Ricky Redner Russell 1555 
+	KIDS: Beverly Redner Ricky 1582 | Brenda Redner Ricky 1575 | Adam Redner Ricky 1579 | Jimmy Redner Ricky 1573 | Carol Redner Ricky 1573
+HUSBAND: Jeremy Tietjen Samuel 1553 WIFE: Patricia Blackwell Christy 1549 
+	KIDS: Debora Tietjen Jeremy 1567
+HUSBAND: Philip Tietjen Samuel 1554 WIFE: Monique Johnson Jeanne 1551 
+	KIDS: Catherine Tietjen Philip 1575 | Thomas Tietjen Philip 1578 | Eldon Tietjen Philip 1575 | Ashley Tietjen Philip 1574
+HUSBAND: Betty Morris Kenneth 1551 WIFE: James Mcdaniel Michael 1556 
+	KIDS: Jeramy Mcdaniel James 1569 | Pauline Mcdaniel James 1576 | Julie Mcdaniel James 1572 | Doloris Mcdaniel James 1571 | Orville Mcdaniel James 1571
+HUSBAND: Sam Morris Kenneth 1557 WIFE: Gloria Goodman Melanie 1556 
+	KIDS: Richard Morris Sam 1580 | Santa Morris Sam 1576 | William Morris Sam 1576
+HUSBAND: Camille Morris Kenneth 1553 WIFE: Ryan Moore James 1557 
+	KIDS: Larry Moore Ryan 1575
+HUSBAND: Andres Morris Kenneth 1553 WIFE: Dorothy Jackson Christina 1553 
+	KIDS: Daniel Morris Andres 1575
+HUSBAND: Joshua Phillips Scott 1563 WIFE: Florence Tipton Ann 1560 
+	KIDS: Alisa Phillips Joshua 1583 | Patricia Phillips Joshua 1582 | Betty Phillips Joshua 1586 | Jerry Phillips Joshua 1584
+HUSBAND: Shirley Phillips Scott 1556 WIFE: Michael Anderson Francis 1553 
+	KIDS: Zoe Anderson Michael 1572 | Ty Anderson Michael 1577 | Allison Anderson Michael 1579
+HUSBAND: Jeffrey Phillips Ronald 1552 WIFE: Tamara Steik Mary 1547 
+	KIDS: Jordan Phillips Jeffrey 1566
+HUSBAND: Erin Phillips Ronald 1555 WIFE: James Tollerud Joseph 1560 
+	KIDS: Mario Tollerud James 1576 | Melissa Tollerud James 1578 | Grace Tollerud James 1581 | Amber Tollerud James 1573
+HUSBAND: Roger Phillips Ronald 1549 WIFE: Helen Sellers Brenda 1544 
+	KIDS: Marie Phillips Roger 1569 | Chrissy Phillips Roger 1562 | Cory Phillips Roger 1562 | Perry Phillips Roger 1563 | Paul Phillips Roger 1571
+HUSBAND: Mary Howser John 1565 WIFE: Charles Joyner Corey 1567 
+	KIDS: Gabrielle Joyner Charles 1584
+HUSBAND: Melinda Howser John 1573 WIFE: Francisco Albrekht Kenneth 1575 
+	KIDS: Michelle Albrekht Francisco 1599 | Danielle Albrekht Francisco 1595 | Margret Albrekht Francisco 1594
+HUSBAND: William Marquez Ronald 1562 WIFE: Rosemary Dammeyer Roberta 1565 
+	KIDS: null
+HUSBAND: David Murphy Raymond 1550 WIFE: Amy Helland Raquel 1550 
+	KIDS: James Murphy David 1576 | Robyn Murphy David 1569 | Jose Murphy David 1570 | Misty Murphy David 1569
+HUSBAND: William Lundquist Jamie 1563 WIFE: Adeline Hambleton Lucile 1568 
+	KIDS: Patricia Lundquist William 1585 | Dan Lundquist William 1581 | Daisy Lundquist William 1583 | Eugene Lundquist William 1589 | Joanne Lundquist William 1588
+HUSBAND: Suzanne Lundquist Jamie 1558 WIFE: Daniel Anderson Michael 1558 
+	KIDS: Margaret Anderson Daniel 1584 | Jessica Anderson Daniel 1585 | Willard Anderson Daniel 1585 | Constance Anderson Daniel 1579
+HUSBAND: William Lundquist Jamie 1559 WIFE: Katina Brunson Elsie 1557 
+	KIDS: Victoria Lundquist William 1577 | Mary Lundquist William 1578 | Richard Lundquist William 1578 | Theresa Lundquist William 1575
+HUSBAND: Lawrence Clay Paul 1551 WIFE: Mary Hennessey Dorothy 1554 
+	KIDS: William Clay Lawrence 1575 | Irena Clay Lawrence 1578 | John Clay Lawrence 1572
+HUSBAND: Judy Clay Paul 1552 WIFE: Eddie Selover John 1554 
+	KIDS: null
+HUSBAND: Harriet Clay Paul 1553 WIFE: Robert Perez Clifton 1557 
+	KIDS: Orlando Perez Robert 1574 | David Perez Robert 1580 | Mike Perez Robert 1574 | Maurice Perez Robert 1577
+HUSBAND: Marian Clay Paul 1558 WIFE: Jeffrey Leatherman Marlon 1561 
+	KIDS: Bonnie Leatherman Jeffrey 1578 | Christine Leatherman Jeffrey 1583 | Kathleen Leatherman Jeffrey 1579
+HUSBAND: Eldon Duncan Jeremy 1551 WIFE: Dolores Williams Michelle 1546 
+	KIDS: Robert Duncan Eldon 1572 | David Duncan Eldon 1568 | Linda Duncan Eldon 1565 | Timothy Duncan Eldon 1569 | Devin Duncan Eldon 1565
+HUSBAND: Catherine Duncan Jeremy 1555 WIFE: Dennis Hollifield Herbert 1553 
+	KIDS: Arthur Hollifield Dennis 1574 | Rolland Hollifield Dennis 1575 | Jacqueline Hollifield Dennis 1572
+HUSBAND: Grady Duncan Jeremy 1547 WIFE: Claire Alexis Joanne 1545 
+	KIDS: Danny Duncan Grady 1563 | George Duncan Grady 1571 | Jennifer Duncan Grady 1563
+HUSBAND: Gigi Duncan Jeremy 1552 WIFE: Kenton Mccarthy Alexander 1552 
+	KIDS: John Mccarthy Kenton 1574 | Kim Mccarthy Kenton 1578 | Robert Mccarthy Kenton 1573 | Leah Mccarthy Kenton 1571 | Rebecca Mccarthy Kenton 1578
+HUSBAND: Mary Duncan Wilbert 1561 WIFE: James Barksdale Stephen 1558 
+	KIDS: Thomas Barksdale James 1581
+HUSBAND: Fredrick Estes Ian 1555 WIFE: Kathleen Karl Kimberly 1560 
+	KIDS: Josephine Estes Fredrick 1581 | Ellen Estes Fredrick 1582 | Wayne Estes Fredrick 1574
+HUSBAND: Robert Estes Ian 1561 WIFE: Diane Sloan Rosa 1564 
+	KIDS: null
+HUSBAND: Edward Estes Ian 1557 WIFE: Jane Hunter Corina 1553 
+	KIDS: Caroline Estes Edward 1579 | Gregory Estes Edward 1576
+HUSBAND: Dianna Estes Ian 1562 WIFE: Alvin Clegg Kenneth 1564 
+	KIDS: Stephanie Clegg Alvin 1587 | Daniel Clegg Alvin 1582 | Jason Clegg Alvin 1580
+HUSBAND: Gerald Estes Victor 1545 WIFE: Beatrice Johnson Gina 1543 
+	KIDS: Dahlia Estes Gerald 1563 | John Estes Gerald 1569 | Vanessa Estes Gerald 1561 | Bridgette Estes Gerald 1565
+HUSBAND: Steven Estes Victor 1554 WIFE: Alicia Watson Carrie 1557 
+	KIDS: Paul Estes Steven 1573 | Susan Estes Steven 1578 | David Estes Steven 1581 | Michael Estes Steven 1574 | Josh Estes Steven 1577
+HUSBAND: Roland Litzenberger George 1562 WIFE: Suzanne Bennett Mary 1558 
+	KIDS: Stacia Litzenberger Roland 1577 | Roger Litzenberger Roland 1579 | Susan Litzenberger Roland 1583 | Piper Litzenberger Roland 1581
+HUSBAND: David Medina Willie 1550 WIFE: Cynthia Dunkleberger Elsie 1545 
+	KIDS: Amanda Medina David 1564 | Hanna Medina David 1563 | Garrett Medina David 1565 | Paul Medina David 1567
+HUSBAND: Timothy Medina Willie 1555 WIFE: Brandi Barley Renee 1552 
+	KIDS: Brice Medina Timothy 1571
+HUSBAND: Billy Medina Willie 1552 WIFE: Barrie Nicholas Marjorie 1547 
+	KIDS: null
+HUSBAND: Leon Medina Willie 1552 WIFE: Ann Smith Hildred 1550 
+	KIDS: Robert Medina Leon 1573 | Richard Medina Leon 1575 | Francisco Medina Leon 1574 | Debra Medina Leon 1571
+HUSBAND: Robert Medina Willie 1551 WIFE: Penny Collinsworth Dona 1553 
+	KIDS: Jeffrey Medina Robert 1577 | Lynda Medina Robert 1575 | Sarah Medina Robert 1573 | Casandra Medina Robert 1576
+HUSBAND: Mary Stancill Phillip 1561 WIFE: William Provost Ronald 1564 
+	KIDS: Sue Provost William 1586
+HUSBAND: Daniel Stancill Phillip 1557 WIFE: Beatrice Dennis Judy 1552 
+	KIDS: Joyce Stancill Daniel 1579 | Calvin Stancill Daniel 1576 | Lois Stancill Daniel 1572 | Jocelyn Stancill Daniel 1573 | Benjamin Stancill Daniel 1577
+HUSBAND: Davida Stancill Phillip 1555 WIFE: Zane Benson Jack 1551 
+	KIDS: Moises Benson Zane 1570 | Elizabeth Benson Zane 1575 | Ronald Benson Zane 1575 | Irma Benson Zane 1572
+HUSBAND: Craig Eberts Emmanuel 1560 WIFE: Cecilia Swanson Kelsey 1558 
+	KIDS: Willie Eberts Craig 1582 | Jerry Eberts Craig 1583 | Jimmy Eberts Craig 1576 | Jack Eberts Craig 1582 | Susie Eberts Craig 1585
+HUSBAND: Amy Eberts Emmanuel 1555 WIFE: Joseph Pitcher David 1558 
+	KIDS: Penelope Pitcher Joseph 1580 | Joseph Pitcher Joseph 1576 | Karl Pitcher Joseph 1576 | Eileen Pitcher Joseph 1574 | Stephen Pitcher Joseph 1574
+HUSBAND: Mary Loder Richard 1552 WIFE: Steven Martinez Lawrence 1557 
+	KIDS: Israel Martinez Steven 1571 | Jerry Martinez Steven 1572
+HUSBAND: Jack Loder Richard 1557 WIFE: Jamie Brown Rebecca 1559 
+	KIDS: Juan Loder Jack 1579
+HUSBAND: Diana Yarber Louis 1561 WIFE: Brandon Blosser Darren 1563 
+	KIDS: Richard Blosser Brandon 1582 | Megan Blosser Brandon 1579 | Darrell Blosser Brandon 1584 | Carol Blosser Brandon 1579 | Kevin Blosser Brandon 1579
+HUSBAND: Brad Yarber Louis 1566 WIFE: Joyce Wilkins Ellen 1570 
+	KIDS: Delia Yarber Brad 1587 | Sylvia Yarber Brad 1588 | Kelly Yarber Brad 1590 | Mildred Yarber Brad 1591
+HUSBAND: Tracey Yarber Louis 1559 WIFE: Miguel Suarez Edward 1555 
+	KIDS: Jon Suarez Miguel 1574 | Daniel Suarez Miguel 1574 | Angel Suarez Miguel 1576 | Lon Suarez Miguel 1578
+HUSBAND: Margarita Yarber Louis 1563 WIFE: Christopher Breaux Henry 1568 
+	KIDS: Jerry Breaux Christopher 1590 | David Breaux Christopher 1590
+HUSBAND: Mervin Yarber Louis 1567 WIFE: Anne Scannell Vicky 1566 
+	KIDS: Brian Yarber Mervin 1584 | Scott Yarber Mervin 1587 | Helen Yarber Mervin 1585 | Rayford Yarber Mervin 1585 | Christina Yarber Mervin 1586
+HUSBAND: Allan Yarber Lester 1559 WIFE: Jamie Brown Penny 1558 
+	KIDS: null
+HUSBAND: Gilbert Yarber Lester 1561 WIFE: Luisa Guest Amy 1564 
+	KIDS: Kelsie Yarber Gilbert 1588 | Mary Yarber Gilbert 1583 | Melissa Yarber Gilbert 1584
+HUSBAND: Donna Yarber Lester 1563 WIFE: Jeffrey Jones Albert 1562 
+	KIDS: Shirley Jones Jeffrey 1582 | Diane Jones Jeffrey 1587 | Gary Jones Jeffrey 1589 | Frank Jones Jeffrey 1581 | Jimmy Jones Jeffrey 1582
+HUSBAND: Debra Yarber Lester 1564 WIFE: Adam Noble Stephen 1563 
+	KIDS: null
+HUSBAND: Patsy Yarber Lester 1559 WIFE: Randall Wessells Martin 1559 
+	KIDS: null
+HUSBAND: Gregory Yarber Victor 1558 WIFE: Mary Ellinwood Lydia 1556 
+	KIDS: David Yarber Gregory 1580 | Juan Yarber Gregory 1576 | Alvina Yarber Gregory 1577 | Joseph Yarber Gregory 1574
+HUSBAND: Sam Yarber Victor 1562 WIFE: Reba Guzman Suzette 1564 
+	KIDS: Judith Yarber Sam 1582 | Daniel Yarber Sam 1589 | Susan Yarber Sam 1583
+HUSBAND: Theresa Yarber Victor 1561 WIFE: Jerry Wilson Mason 1565 
+	KIDS: Charles Wilson Jerry 1580 | John Wilson Jerry 1584 | Eric Wilson Jerry 1583 | Shannon Wilson Jerry 1586 | Lois Wilson Jerry 1588
+HUSBAND: Carmen Yarber Victor 1558 WIFE: Evangelina Miller Tracey 1553 
+	KIDS: Thomas Yarber Carmen 1575 | Brandon Yarber Carmen 1572
+HUSBAND: Scott Yarber Ronald 1561 WIFE: Mildred Echavarria Diana 1557 
+	KIDS: Edwin Yarber Scott 1578 | Maxine Yarber Scott 1584 | Paula Yarber Scott 1579
+HUSBAND: Annette Yarber Ronald 1559 WIFE: Kent Pina Robert 1557 
+	KIDS: Vonda Pina Kent 1584 | John Pina Kent 1581 | Carlos Pina Kent 1579 | Olivia Pina Kent 1583 | Nicholas Pina Kent 1584
+HUSBAND: Raymond Yarber Ronald 1560 WIFE: Corrinne Marion Carrie 1558 
+	KIDS: Kelly Yarber Raymond 1583 | Brian Yarber Raymond 1578 | Robin Yarber Raymond 1578
+HUSBAND: Frank Yarber Bruce 1556 WIFE: Beverly Smith Dorothy 1557 
+	KIDS: William Yarber Frank 1583 | Meghan Yarber Frank 1580
+HUSBAND: Andre Hager Emory 1555 WIFE: Margo Cole Leone 1559 
+	KIDS: null
+HUSBAND: Kim Hager Emory 1555 WIFE: Henry Griffin William 1550 
+	KIDS: Janie Griffin Henry 1568 | Velma Griffin Henry 1571 | Mary Griffin Henry 1570 | Torri Griffin Henry 1568 | Rebecca Griffin Henry 1571
+HUSBAND: Tommy Hager Emory 1556 WIFE: Ann Belcher Katrice 1557 
+	KIDS: Charles Hager Tommy 1577 | Brian Hager Tommy 1580 | Johnnie Hager Tommy 1580
+HUSBAND: Joseph Hager Emory 1564 WIFE: Peggy Stepro Bev 1566 
+	KIDS: Patricia Hager Joseph 1583
+HUSBAND: Terrance Hager Emory 1561 WIFE: Monica Armstrong Tiffany 1558 
+	KIDS: Brad Hager Terrance 1585 | Nicholas Hager Terrance 1585 | Jamie Hager Terrance 1580
+HUSBAND: Wilburn Hinkel James 1554 WIFE: Maria Long Elizabeth 1552 
+	KIDS: Lucy Hinkel Wilburn 1570
+HUSBAND: Robert Hinkel James 1557 WIFE: Megan Lim Carol 1557 
+	KIDS: Velma Hinkel Robert 1579
+HUSBAND: Donald Hinkel James 1557 WIFE: Peg Mclure Colleen 1558 
+	KIDS: Jerry Hinkel Donald 1582 | Regina Hinkel Donald 1583 | Carolyn Hinkel Donald 1581
+HUSBAND: Kent Hinkel James 1556 WIFE: Dolores Mccormick Sarah 1558 
+	KIDS: Chong Hinkel Kent 1577 | Martin Hinkel Kent 1580 | Mary Hinkel Kent 1583
+HUSBAND: Daniel Hinkel James 1553 WIFE: Tracy Luong Maricela 1558 
+	KIDS: Janet Hinkel Daniel 1576 | Thomas Hinkel Daniel 1571 | Sondra Hinkel Daniel 1571 | Thelma Hinkel Daniel 1573 | Julie Hinkel Daniel 1576
+HUSBAND: Evan Hinkel Aaron 1564 WIFE: Lori Mitchell Sara 1564 
+	KIDS: Richard Hinkel Evan 1588 | Susan Hinkel Evan 1590 | Darrell Hinkel Evan 1587 | Carmen Hinkel Evan 1583
+HUSBAND: Samuel Hinkel Aaron 1562 WIFE: Diana Cole Karen 1559 
+	KIDS: Gary Hinkel Samuel 1582
+HUSBAND: April Brushwood Tom 1558 WIFE: Terrence Schinkel Javier 1557 
+	KIDS: George Schinkel Terrence 1580 | Heather Schinkel Terrence 1578 | Mistie Schinkel Terrence 1579
+HUSBAND: Herbert Brushwood Tom 1561 WIFE: Amber Okane Jennifer 1566 
+	KIDS: Lois Brushwood Herbert 1583 | David Brushwood Herbert 1588 | Terry Brushwood Herbert 1585 | Deborah Brushwood Herbert 1586 | Patricia Brushwood Herbert 1588
+HUSBAND: John Brushwood Tom 1560 WIFE: Donna Sowder Yolanda 1557 
+	KIDS: Paul Brushwood John 1583 | Cindy Brushwood John 1579 | Lena Brushwood John 1578
+HUSBAND: Gloria Brushwood Tom 1564 WIFE: Andrew Lindsey Andrew 1565 
+	KIDS: Deidre Lindsey Andrew 1591
+HUSBAND: Douglas Brushwood Tom 1561 WIFE: Amy Davis Vera 1566 
+	KIDS: Francis Brushwood Douglas 1586
+HUSBAND: Michael Caldwell Tom 1568 WIFE: Nancy Zingaro Kathryn 1568 
+	KIDS: Rick Caldwell Michael 1589
+HUSBAND: Randall Caldwell Tom 1561 WIFE: Janie Ford Ashley 1565 
+	KIDS: Geraldine Caldwell Randall 1587
+HUSBAND: Jamie Sandau Dale 1554 WIFE: William Gerhart David 1555 
+	KIDS: Joseph Gerhart William 1578 | Kathryn Gerhart William 1578 | Loren Gerhart William 1578
+HUSBAND: Tammy Flanagan Richard 1545 WIFE: Raymond Sanchez Vincent 1549 
+	KIDS: Jack Sanchez Raymond 1564
+HUSBAND: Rolando Flanagan Richard 1547 WIFE: Jennifer Dickert Elaine 1542 
+	KIDS: Joann Flanagan Rolando 1561 | Anne Flanagan Rolando 1569 | Jim Flanagan Rolando 1566 | Kristen Flanagan Rolando 1567
+HUSBAND: Katherine Harr Robert 1553 WIFE: Jared Roberts Scott 1550 
+	KIDS: John Roberts Jared 1577 | Corey Roberts Jared 1574 | Matthew Roberts Jared 1568 | Ngoc Roberts Jared 1569 | Constance Roberts Jared 1573
+HUSBAND: Cristina Harr Sebastian 1557 WIFE: Sean Gutierrez Ricardo 1558 
+	KIDS: null
+HUSBAND: Ileana Harr Sebastian 1552 WIFE: Andrea Hernandez Lamar 1557 
+	KIDS: Randy Hernandez Andrea 1576 | Laura Hernandez Andrea 1571
+HUSBAND: Lola Harr Sebastian 1548 WIFE: John Milligan Timothy 1553 
+	KIDS: null
+HUSBAND: Johnny Harr Sebastian 1554 WIFE: Araceli Ibarra Chery 1554 
+	KIDS: null
+HUSBAND: Rex Harr Sebastian 1555 WIFE: Joanne Mcgregor Maureen 1550 
+	KIDS: Robert Harr Rex 1574 | Wesley Harr Rex 1570 | Michael Harr Rex 1576 | Jerry Harr Rex 1577
+HUSBAND: Ray Sheffield James 1552 WIFE: Guadalupe Gath Jennifer 1552 
+	KIDS: Victor Sheffield Ray 1574 | John Sheffield Ray 1579 | Corinna Sheffield Ray 1571 | Rachel Sheffield Ray 1575 | Jeanne Sheffield Ray 1570
+HUSBAND: Robert Sheffield James 1559 WIFE: Stella Burroughs Grace 1558 
+	KIDS: Hazel Sheffield Robert 1579 | Shonda Sheffield Robert 1583 | Thomas Sheffield Robert 1577 | Sharon Sheffield Robert 1579 | Robert Sheffield Robert 1576
+HUSBAND: Bob Sheffield James 1551 WIFE: Sue Grabau Cheryl 1549 
+	KIDS: null
+HUSBAND: Mary Sheffield James 1559 WIFE: Ariel Brown Benjamin 1561 
+	KIDS: Leslie Brown Ariel 1583 | Eileen Brown Ariel 1579 | James Brown Ariel 1585 | Phillip Brown Ariel 1582 | John Brown Ariel 1577
+HUSBAND: Frank Hart Alan 1543 WIFE: Suk Rivers Ceola 1543 
+	KIDS: Vickie Hart Frank 1569 | Hazel Hart Frank 1565 | Robert Hart Frank 1567 | Hugh Hart Frank 1570
+HUSBAND: Brian Hart Alan 1546 WIFE: Beverly Russell Rebecca 1541 
+	KIDS: Patsy Hart Brian 1564 | William Hart Brian 1559 | Stacey Hart Brian 1562 | Saundra Hart Brian 1562
+HUSBAND: Betty Hart John 1540 WIFE: Joseph Henderson Garfield 1538 
+	KIDS: Andre Henderson Joseph 1563 | Lilia Henderson Joseph 1562 | Nyla Henderson Joseph 1559
+HUSBAND: Veda Hart John 1542 WIFE: William Chavez Michael 1547 
+	KIDS: Deborah Chavez William 1567 | George Chavez William 1564
+HUSBAND: Tabitha Hart John 1540 WIFE: Grady Carlisle John 1541 
+	KIDS: Julio Carlisle Grady 1564 | Carolyn Carlisle Grady 1566
+HUSBAND: David Hart John 1544 WIFE: Laura Braziel Sharon 1544 
+	KIDS: Barry Hart David 1562 | Ashley Hart David 1567 | Paul Hart David 1570 | Richard Hart David 1568
+HUSBAND: Kimberly Hart John 1544 WIFE: Robert Hart James 1539 
+	KIDS: Marvin Hart Robert 1565 | Sonia Hart Robert 1559 | Frank Hart Robert 1558
+HUSBAND: Raymond Hart James 1553 WIFE: Alvina Johansen Rebecca 1553 
+	KIDS: Leslie Hart Raymond 1579 | Benjamin Hart Raymond 1573 | Edna Hart Raymond 1573
+HUSBAND: John Hart James 1549 WIFE: Jill Lewis Nikia 1544 
+	KIDS: Louis Hart John 1568 | Pearl Hart John 1570 | Teresa Hart John 1562 | Shannon Hart John 1562 | Lester Hart John 1569
+HUSBAND: James Hart James 1547 WIFE: Juana Sanchez Dianne 1542 
+	KIDS: Charles Hart James 1561 | Frank Hart James 1567 | Amanda Hart James 1565
+HUSBAND: Jennifer Hart James 1556 WIFE: Bobby Lhuillier Claude 1552 
+	KIDS: Ike Lhuillier Bobby 1577 | Kyle Lhuillier Bobby 1578
+HUSBAND: Steven Hart Bradley 1548 WIFE: Ashleigh Diamantopoulo Isabelle 1545 
+	KIDS: Spencer Hart Steven 1569 | Virginia Hart Steven 1566 | Shawn Hart Steven 1569 | Mary Hart Steven 1572
+HUSBAND: Lavonne Hart Brian 1554 WIFE: Isaac Wilson Vernon 1558 
+	KIDS: Charles Wilson Isaac 1573 | Emma Wilson Isaac 1574
+HUSBAND: Karen Hart Brian 1554 WIFE: Hubert Shannon James 1558 
+	KIDS: George Shannon Hubert 1580 | Trevor Shannon Hubert 1573 | Lydia Shannon Hubert 1576
+HUSBAND: Teresa Hart Brian 1553 WIFE: Peter Manning Eugene 1556 
+	KIDS: Margy Manning Peter 1571 | Jacqueline Manning Peter 1578 | Kelvin Manning Peter 1578 | Beryl Manning Peter 1579 | James Manning Peter 1573
+HUSBAND: Patricia Hart Brian 1550 WIFE: Michael Johnson Floyd 1553 
+	KIDS: Kelly Johnson Michael 1571 | Jaclyn Johnson Michael 1575 | Valerie Johnson Michael 1573 | Amos Johnson Michael 1570 | Anthony Johnson Michael 1571
+HUSBAND: Elma Hart Brian 1550 WIFE: Pedro Hall Wayne 1551 
+	KIDS: null
+HUSBAND: John Goodemote Johnny 1551 WIFE: Lynne Bishop Mary 1548 
+	KIDS: Virginia Goodemote John 1567 | Lance Goodemote John 1566
+HUSBAND: Bonnie Goodemote Johnny 1546 WIFE: Daniel Lines Horacio 1544 
+	KIDS: Samantha Lines Daniel 1564 | James Lines Daniel 1564
+HUSBAND: Alejandro Goodemote Johnny 1550 WIFE: Roxanne Davis Sarah 1545 
+	KIDS: Helen Goodemote Alejandro 1563 | Fredrick Goodemote Alejandro 1570
+HUSBAND: Judith Sierra Kenneth 1551 WIFE: Henry Bingham Matthew 1554 
+	KIDS: Eric Bingham Henry 1570 | Melba Bingham Henry 1569 | Daniel Bingham Henry 1578 | Thomas Bingham Henry 1575
+HUSBAND: Aaron Sierra Kenneth 1548 WIFE: Annie Aller Lillian 1546 
+	KIDS: Kendra Sierra Aaron 1565 | Robin Sierra Aaron 1569
+HUSBAND: Diane Sierra Kenneth 1553 WIFE: Wilbur Martel Troy 1558 
+	KIDS: Mary Martel Wilbur 1575 | Angel Martel Wilbur 1579 | Thomas Martel Wilbur 1578
+HUSBAND: Danny Sierra Kenneth 1556 WIFE: Annette Aguilar Jacqueline 1555 
+	KIDS: null
+HUSBAND: William Sierra Kenneth 1547 WIFE: Ruby Petrowski Cierra 1542 
+	KIDS: Carlos Sierra William 1566 | Margie Sierra William 1565 | Michelle Sierra William 1561 | Lela Sierra William 1567
+HUSBAND: Sammy Cabral Steven 1535 WIFE: Jaclyn White Carmen 1533 
+	KIDS: Albert Cabral Sammy 1551 | Taisha Cabral Sammy 1560 | Tony Cabral Sammy 1555
+HUSBAND: Ronnie Cabral Steven 1539 WIFE: Eileen Conyer Carol 1535 
+	KIDS: Waldo Cabral Ronnie 1556 | Nickole Cabral Ronnie 1553 | Keisha Cabral Ronnie 1559 | Angelica Cabral Ronnie 1557
+HUSBAND: Ira Cabral Steven 1536 WIFE: Cassie Bennett Debra 1540 
+	KIDS: Ernestine Cabral Ira 1562 | Shane Cabral Ira 1563 | Geraldine Cabral Ira 1558
+HUSBAND: Jerry Cabral Steven 1541 WIFE: Elisa Rayburn Shanna 1545 
+	KIDS: null
+HUSBAND: Jessica Cabral Steven 1537 WIFE: Brian Nikolic Joe 1540 
+	KIDS: null
+HUSBAND: Robin Batton Ruben 1538 WIFE: Kristopher Cummins Arthur 1538 
+	KIDS: Jack Cummins Kristopher 1563
+HUSBAND: Sam Washington Robert 1545 WIFE: Linda Thompson Katie 1541 
+	KIDS: Ashley Washington Sam 1565
+HUSBAND: Julie Washington Robert 1538 WIFE: Jeremy Bird Erik 1537 
+	KIDS: Paul Bird Jeremy 1561 | Donna Bird Jeremy 1555
+HUSBAND: Laura Washington Robert 1540 WIFE: Freddie Martinez Leonard 1544 
+	KIDS: Richard Martinez Freddie 1566 | Therese Martinez Freddie 1558 | Virginia Martinez Freddie 1561 | Alison Martinez Freddie 1566
+HUSBAND: Carol Washington Robert 1545 WIFE: William Vallien George 1541 
+	KIDS: Randolph Vallien William 1566 | Billie Vallien William 1565
+HUSBAND: Matthew Washington Robert 1537 WIFE: Wanda Rodriguez Janet 1534 
+	KIDS: Roberta Washington Matthew 1560 | Edwin Washington Matthew 1556 | Mark Washington Matthew 1555 | Vivian Washington Matthew 1558
+HUSBAND: Muriel Ashley Darryl 1542 WIFE: David Jones Willie 1541 
+	KIDS: Raymond Jones David 1561 | Olive Jones David 1561
+HUSBAND: Georgia Ashley Darryl 1550 WIFE: Robert Bettencourt Raymond 1550 
+	KIDS: Willie Bettencourt Robert 1570
+HUSBAND: Socorro Jackson Alvin 1544 WIFE: Eric Allard James 1543 
+	KIDS: Holly Allard Eric 1561
+HUSBAND: Lourdes Dobkins Emanuel 1541 WIFE: Wallace Thacker Rolando 1538 
+	KIDS: Columbus Thacker Wallace 1562 | William Thacker Wallace 1562 | Deborah Thacker Wallace 1559 | Blake Thacker Wallace 1558
+HUSBAND: Michael Dobkins Emanuel 1544 WIFE: Andrea Parker Desiree 1539 
+	KIDS: Clarence Dobkins Michael 1562 | Susan Dobkins Michael 1559 | Anthony Dobkins Michael 1558 | Raymond Dobkins Michael 1559 | Michael Dobkins Michael 1562
+HUSBAND: Jim Figueroa Art 1549 WIFE: Trisha Reiser Lillian 1549 
+	KIDS: Joshua Figueroa Jim 1572
+HUSBAND: Brooke Figueroa Art 1551 WIFE: Gary Khensovan Jacob 1548 
+	KIDS: Jasper Khensovan Gary 1575 | Scott Khensovan Gary 1570 | Marcelina Khensovan Gary 1571
+HUSBAND: Johnnie Espinoza Luke 1552 WIFE: Arnold Parker Bryan 1550 
+	KIDS: Anna Parker Arnold 1573 | Jeffrey Parker Arnold 1573 | Barbara Parker Arnold 1572 | Terri Parker Arnold 1575 | Doris Parker Arnold 1570
+HUSBAND: Christopher Espinoza Luke 1557 WIFE: Mae Salinas Catherine 1554 
+	KIDS: Laura Espinoza Christopher 1575 | Teresa Espinoza Christopher 1577 | Anna Espinoza Christopher 1578 | Joann Espinoza Christopher 1578 | Frank Espinoza Christopher 1573
+HUSBAND: Rosie Espinoza Luke 1552 WIFE: Fredrick Adamson Quinton 1547 
+	KIDS: Pete Adamson Fredrick 1568 | Joan Adamson Fredrick 1571
+HUSBAND: Margaret Espinoza Luke 1557 WIFE: Ryan Dunmore Jim 1553 
+	KIDS: Robert Dunmore Ryan 1578 | Samuel Dunmore Ryan 1571
+HUSBAND: Jaime Foster Randall 1548 WIFE: Kristen Bennett Brenda 1545 
+	KIDS: James Foster Jaime 1567 | Martha Foster Jaime 1566 | Jack Foster Jaime 1567 | Milagros Foster Jaime 1565 | Russell Foster Jaime 1571
+HUSBAND: Daniel Foster Randall 1546 WIFE: Lydia Williamson Cheryl 1545 
+	KIDS: David Foster Daniel 1563
+HUSBAND: Mark Foster Randall 1546 WIFE: Mary Smith Diane 1545 
+	KIDS: Roger Foster Mark 1565 | Larry Foster Mark 1565 | John Foster Mark 1571 | Aiko Foster Mark 1571 | Laura Foster Mark 1568
+HUSBAND: Penny Foster Randall 1546 WIFE: Nathan Kremen Jeff 1546 
+	KIDS: Antone Kremen Nathan 1570
+HUSBAND: Valorie Price Francis 1544 WIFE: David Thorne Austin 1543 
+	KIDS: Eunice Thorne David 1568
+HUSBAND: Harry Price Francis 1547 WIFE: Delma Leet Bernice 1542 
+	KIDS: Johnny Price Harry 1563 | Curtis Price Harry 1568 | Christia Price Harry 1568
+HUSBAND: Jodi Price Francis 1553 WIFE: Tyler Ferman George 1548 
+	KIDS: Humberto Ferman Tyler 1573 | Sandra Ferman Tyler 1567 | Tyrone Ferman Tyler 1575
+HUSBAND: Sara Price Francis 1549 WIFE: Dean Johnson Michael 1551 
+	KIDS: Sheila Johnson Dean 1576 | Lena Johnson Dean 1567 | Jacqueline Johnson Dean 1571
+HUSBAND: Michael Price Francis 1551 WIFE: Angela Brick Laureen 1550 
+	KIDS: null
+HUSBAND: Mary Mclamb Paul 1559 WIFE: Maynard Lewis Stan 1562 
+	KIDS: Margaret Lewis Maynard 1580 | Wm Lewis Maynard 1584 | Travis Lewis Maynard 1583 | Erika Lewis Maynard 1585
+HUSBAND: Gwenn Mclamb Paul 1552 WIFE: David Espino Cary 1556 
+	KIDS: Jacqueline Espino David 1573 | Robert Espino David 1579 | Orville Espino David 1576
+HUSBAND: Jane Mclamb Paul 1553 WIFE: Vaughn Yetter Milton 1557 
+	KIDS: James Yetter Vaughn 1571 | Andre Yetter Vaughn 1571 | Jake Yetter Vaughn 1580 | Quincy Yetter Vaughn 1578
+HUSBAND: Donald Mclamb Paul 1558 WIFE: Amber Burke Edith 1558 
+	KIDS: Margaret Mclamb Donald 1576 | Gregory Mclamb Donald 1584 | Christopher Mclamb Donald 1585
+HUSBAND: David Mclamb Paul 1552 WIFE: Susanne Marshall Rhonda 1547 
+	KIDS: Bob Mclamb David 1572 | Thomas Mclamb David 1566
+HUSBAND: Arlene Odom John 1548 WIFE: Rudolph Merrick Anthony 1551 
+	KIDS: Dana Merrick Rudolph 1566 | Donald Merrick Rudolph 1575
+HUSBAND: Katie Matthews Bret 1549 WIFE: Luis Rodriguez Scott 1551 
+	KIDS: null
+HUSBAND: Linda Robinson Ignacio 1560 WIFE: Jason Turnbull Joshua 1559 
+	KIDS: Gregory Turnbull Jason 1581 | Willie Turnbull Jason 1581 | Tonya Turnbull Jason 1579 | Samuel Turnbull Jason 1578 | Kevin Turnbull Jason 1578
+HUSBAND: Emily Alexander Jose 1556 WIFE: Allen Johnson John 1556 
+	KIDS: Robert Johnson Allen 1575 | Wendy Johnson Allen 1579 | Julie Johnson Allen 1581 | Anna Johnson Allen 1582 | Catherine Johnson Allen 1579
+HUSBAND: Jennifer Alexander Jose 1556 WIFE: Andrew Hamilton Luis 1555 
+	KIDS: null
+HUSBAND: Patricia Alexander Jose 1553 WIFE: Brian Spiller Joe 1555 
+	KIDS: Sanford Spiller Brian 1571 | John Spiller Brian 1573 | Vernon Spiller Brian 1576 | Deirdre Spiller Brian 1575 | Dwayne Spiller Brian 1573
+HUSBAND: Clinton Alexander Jose 1560 WIFE: Anette Hewitt Isabella 1557 
+	KIDS: null
+HUSBAND: Salvatore Delgado Mike 1555 WIFE: Amy Alexander Marti 1557 
+	KIDS: Kevin Delgado Salvatore 1573 | David Delgado Salvatore 1580 | Thomas Delgado Salvatore 1573
+HUSBAND: Angela Harms Theodore 1558 WIFE: Ralph Gutierrez Steven 1557 
+	KIDS: Glenn Gutierrez Ralph 1579
+HUSBAND: Susan Mack Michael 1542 WIFE: Joshua Rackham Greg 1542 
+	KIDS: Edward Rackham Joshua 1569 | Alicia Rackham Joshua 1569 | Frances Rackham Joshua 1567
+HUSBAND: Kimber Mack Michael 1545 WIFE: Robert Day Jerry 1548 
+	KIDS: Mary Day Robert 1566 | Joseph Day Robert 1572 | Doyle Day Robert 1564 | Melissa Day Robert 1569 | James Day Robert 1571
+HUSBAND: Anne Mack Dominique 1548 WIFE: Alvin Cheek Allan 1552 
+	KIDS: James Cheek Alvin 1572 | Griselda Cheek Alvin 1567
+HUSBAND: Sam Mack Dominique 1550 WIFE: Lucinda Kelley Nellie 1549 
+	KIDS: John Mack Sam 1570 | Sherry Mack Sam 1571 | Frances Mack Sam 1573
+HUSBAND: Derek Mack Dominique 1552 WIFE: Denise Revilla Marie 1552 
+	KIDS: null
+HUSBAND: Esther Mack Dominique 1549 WIFE: Roy Melton Robert 1548 
+	KIDS: null
+HUSBAND: Robert Mack Lee 1547 WIFE: Deborah Donnelson Amanda 1552 
+	KIDS: Marcus Mack Robert 1567 | John Mack Robert 1568 | Earl Mack Robert 1572 | William Mack Robert 1570 | Robert Mack Robert 1568
+HUSBAND: Kimberly Mack Lee 1541 WIFE: Brian Egersdorf Edward 1544 
+	KIDS: Helen Egersdorf Brian 1559 | Donald Egersdorf Brian 1568 | Michael Egersdorf Brian 1562 | Connie Egersdorf Brian 1565 | Mary Egersdorf Brian 1567
+HUSBAND: Janet Mack Lee 1543 WIFE: Marco Seipp Mark 1545 
+	KIDS: Allen Seipp Marco 1566 | Margaret Seipp Marco 1565 | Matthew Seipp Marco 1566
+HUSBAND: Donald Mack Lee 1546 WIFE: Judy Church Melba 1541 
+	KIDS: William Mack Donald 1567 | Robin Mack Donald 1567
+HUSBAND: Marcus Oshea Jonathan 1549 WIFE: Johnnie Hayes Marlene 1548 
+	KIDS: Elaine Oshea Marcus 1574 | Glenn Oshea Marcus 1574
+HUSBAND: Brenda Oshea Jonathan 1549 WIFE: Jamison Miller Patrick 1552 
+	KIDS: null
+HUSBAND: Jane Oshea Jonathan 1551 WIFE: Kevin Kilcrease Mark 1548 
+	KIDS: Gerald Kilcrease Kevin 1575 | Denise Kilcrease Kevin 1567 | Patricia Kilcrease Kevin 1572
+HUSBAND: Martha Oshea Jonathan 1552 WIFE: David Mittendorf Devin 1555 
+	KIDS: Gregory Mittendorf David 1572 | Josephine Mittendorf David 1578
+HUSBAND: Carolyn Finder Kelvin 1554 WIFE: Jimmy Burns Nathan 1554 
+	KIDS: Aaron Burns Jimmy 1572 | Charles Burns Jimmy 1578
+HUSBAND: Jose Finder Kelvin 1550 WIFE: Patricia Campbell Patricia 1549 
+	KIDS: Duane Finder Jose 1568 | William Finder Jose 1570 | Michael Finder Jose 1570 | Bennie Finder Jose 1573 | Michael Finder Jose 1567
+HUSBAND: James Finder Kelvin 1551 WIFE: Dawn Rayburn Joyce 1553 
+	KIDS: Virginia Finder James 1571 | Pamela Finder James 1569 | James Finder James 1577 | Annette Finder James 1577 | Jane Finder James 1575
+HUSBAND: Elizabeth Finder Kelvin 1554 WIFE: Dennis Stewart Clarence 1550 
+	KIDS: Ruth Stewart Dennis 1576 | Edward Stewart Dennis 1577
+HUSBAND: Joseph Finder Kelvin 1547 WIFE: Jennifer Kendrick Ruth 1545 
+	KIDS: Susan Finder Joseph 1571 | John Finder Joseph 1572 | Pearl Finder Joseph 1567 | Derrick Finder Joseph 1567 | Jerry Finder Joseph 1565
+HUSBAND: James Oshea Frederick 1556 WIFE: Teresa Schultz Barbara 1559 
+	KIDS: Stephen Oshea James 1575 | Deborah Oshea James 1579
+HUSBAND: Sandra Gorham David 1550 WIFE: Charles Moniz Charles 1550 
+	KIDS: Peter Moniz Charles 1577 | Michael Moniz Charles 1570 | Arthur Moniz Charles 1572 | Chad Moniz Charles 1575
+HUSBAND: Zane Willingham Mike 1540 WIFE: Jennifer Giuffrida Linda 1539 
+	KIDS: Mary Willingham Zane 1564 | Frank Willingham Zane 1563 | Joseph Willingham Zane 1564 | Stephanie Willingham Zane 1559
+HUSBAND: Dale Willingham Mike 1542 WIFE: Barbara Buchanan Stacey 1545 
+	KIDS: Susan Willingham Dale 1567 | Patrick Willingham Dale 1565 | Jim Willingham Dale 1562
+HUSBAND: Alice Willingham Mike 1537 WIFE: Douglas Manuelito Christopher 1536 
+	KIDS: Angela Manuelito Douglas 1563
+HUSBAND: Shari Schaefer Christopher 1555 WIFE: William Geiger Sergio 1555 
+	KIDS: Bruce Geiger William 1581 | Sandra Geiger William 1574 | Joanne Geiger William 1581 | John Geiger William 1578
+HUSBAND: Louise Schaefer Christopher 1555 WIFE: James Gonzales Mark 1551 
+	KIDS: Roberto Gonzales James 1571 | Dina Gonzales James 1575 | Barbara Gonzales James 1573 | Gabriel Gonzales James 1570
+HUSBAND: Clay Schaefer Christopher 1555 WIFE: Sarah Halbert Somer 1552 
+	KIDS: John Schaefer Clay 1571 | Barbara Schaefer Clay 1575 | Geraldine Schaefer Clay 1574 | Kenneth Schaefer Clay 1570 | Jay Schaefer Clay 1578
+HUSBAND: Nancy Schaefer Christopher 1551 WIFE: Stephen Moore Raul 1550 
+	KIDS: null
+HUSBAND: Jason Trevino William 1545 WIFE: Miranda Kearse Destiny 1542 
+	KIDS: Cheryl Trevino Jason 1560
+HUSBAND: Peter Trevino William 1551 WIFE: Margaret Seaton Lisa 1549 
+	KIDS: Betty Trevino Peter 1568 | Chester Trevino Peter 1574 | Debra Trevino Peter 1568 | Henry Trevino Peter 1568 | Edna Trevino Peter 1570
+HUSBAND: Kathryn Trevino William 1547 WIFE: Orval Pruett Jesus 1548 
+	KIDS: Irene Pruett Orval 1573 | Michelle Pruett Orval 1566 | Viola Pruett Orval 1566 | Tommie Pruett Orval 1566 | Diane Pruett Orval 1570
+HUSBAND: Lisa Trevino William 1550 WIFE: Boyd Floyd Larry 1545 
+	KIDS: Freddie Floyd Boyd 1570 | Heather Floyd Boyd 1564 | David Floyd Boyd 1567 | Lawrence Floyd Boyd 1563
+HUSBAND: Kyle Trevino William 1552 WIFE: Dorthy Sims Michelle 1557 
+	KIDS: Jeremy Trevino Kyle 1579 | Rosemary Trevino Kyle 1570 | Karen Trevino Kyle 1572 | Rosemarie Trevino Kyle 1576 | Michael Trevino Kyle 1575
+HUSBAND: Adele Schaefer Harlan 1548 WIFE: Jose Walbridge Dominic 1547 
+	KIDS: Michele Walbridge Jose 1570 | Debbie Walbridge Jose 1565 | Mary Walbridge Jose 1574 | Monica Walbridge Jose 1571
+HUSBAND: James Elmore Robert 1544 WIFE: Pamela Kellum Sara 1545 
+	KIDS: Cheryl Elmore James 1564 | Rita Elmore James 1571 | John Elmore James 1565 | Robert Elmore James 1565 | Chad Elmore James 1564
+HUSBAND: Eric Elmore Robert 1541 WIFE: Janet Thompson Rene 1541 
+	KIDS: Brant Elmore Eric 1564 | Wayne Elmore Eric 1561 | Ivan Elmore Eric 1561 | Patricia Elmore Eric 1566 | Anthony Elmore Eric 1563
+HUSBAND: Pamela Elmore Robert 1544 WIFE: Timothy Leggitt Ricardo 1547 
+	KIDS: Donald Leggitt Timothy 1564 | David Leggitt Timothy 1564 | Margaret Leggitt Timothy 1570
+HUSBAND: Guillermo Elmore Robert 1537 WIFE: Harriet Mills Ellen 1537 
+	KIDS: Greg Elmore Guillermo 1561 | Marie Elmore Guillermo 1562 | Dawn Elmore Guillermo 1557
+HUSBAND: Dennis Elmore Robert 1543 WIFE: Anita Zimmerebner Nora 1546 
+	KIDS: Jennifer Elmore Dennis 1561 | Nancy Elmore Dennis 1563 | Philip Elmore Dennis 1569 | Julius Elmore Dennis 1563 | Sarah Elmore Dennis 1569
+HUSBAND: Mark Larson John 1550 WIFE: Karen Goss Pamela 1547 
+	KIDS: Elbert Larson Mark 1571
+HUSBAND: Dennis Larson John 1548 WIFE: Vickie Sawyer Nell 1544 
+	KIDS: Roger Larson Dennis 1569 | Francis Larson Dennis 1566 | Donnell Larson Dennis 1564 | Sandy Larson Dennis 1571
+HUSBAND: Ginger Larson John 1551 WIFE: William Friedman Raymond 1546 
+	KIDS: null
+HUSBAND: Frances Larson John 1555 WIFE: Louis Pioske Renaldo 1557 
+	KIDS: Maria Pioske Louis 1573 | Harry Pioske Louis 1578
+HUSBAND: Sandra Cook Adrian 1567 WIFE: William Deroche Wilfredo 1565 
+	KIDS: Wilma Deroche William 1586
+HUSBAND: Ruth Cook Adrian 1560 WIFE: Herbert Abelman Roberto 1560 
+	KIDS: John Abelman Herbert 1579
+HUSBAND: Mary Cook Adrian 1568 WIFE: Ronald Greenwood Robert 1567 
+	KIDS: null
+HUSBAND: Scott Cook Adrian 1559 WIFE: Sarah Douglas Mary 1561 
+	KIDS: null
+HUSBAND: Judith Cook Adrian 1567 WIFE: Victor Pfeil Jonathan 1572 
+	KIDS: Sheila Pfeil Victor 1591 | Terri Pfeil Victor 1591
+HUSBAND: Evelyn Larson Joseph 1548 WIFE: Thomas Ford Antonio 1553 
+	KIDS: null
+HUSBAND: Jennifer Larson Joseph 1544 WIFE: David White Steven 1549 
+	KIDS: null
+HUSBAND: Danielle Larson Joseph 1550 WIFE: Jeffrey Hartman Mike 1552 
+	KIDS: null
+HUSBAND: Cindy Larson Joseph 1548 WIFE: John Levinthal Walter 1544 
+	KIDS: Karen Levinthal John 1569
+HUSBAND: Kim Larson Joseph 1544 WIFE: David Fields Edgar 1547 
+	KIDS: Patricia Fields David 1566 | Mary Fields David 1567 | Josefa Fields David 1568 | Pamela Fields David 1564
+HUSBAND: Leah Larson Jeffrey 1549 WIFE: Joseph Lee Jimmy 1547 
+	KIDS: Randi Lee Joseph 1566 | Gerald Lee Joseph 1570 | Patrick Lee Joseph 1565 | Riva Lee Joseph 1568
+HUSBAND: Evelyn Larson Jeffrey 1540 WIFE: Carl Treleven Jaime 1544 
+	KIDS: George Treleven Carl 1567 | Crystal Treleven Carl 1563
+HUSBAND: Abraham Larson Jeffrey 1541 WIFE: Thelma Tina Andrea 1537 
+	KIDS: Martha Larson Abraham 1559 | Bret Larson Abraham 1560 | Yolanda Larson Abraham 1557 | George Larson Abraham 1556
+HUSBAND: Albert Larson Jeffrey 1545 WIFE: Kathleen Gibson Ellie 1543 
+	KIDS: Donald Larson Albert 1569 | Carol Larson Albert 1570 | Harry Larson Albert 1565
+HUSBAND: Selene Larson Jeffrey 1544 WIFE: Everett Hewlett Brian 1548 
+	KIDS: Craig Hewlett Everett 1570
+HUSBAND: Sarah Villanueva Richard 1545 WIFE: Edgar Rose Cornelius 1544 
+	KIDS: Mary Rose Edgar 1570 | Jeffery Rose Edgar 1563 | Jessica Rose Edgar 1566 | Janice Rose Edgar 1571
+HUSBAND: Angel Villanueva Richard 1544 WIFE: Rachel Watkins Martha 1546 
+	KIDS: Brian Villanueva Angel 1565
+HUSBAND: Timothy Villanueva Richard 1543 WIFE: Elizabeth Marquez Lillian 1546 
+	KIDS: Brock Villanueva Timothy 1564 | Angela Villanueva Timothy 1568 | Loyd Villanueva Timothy 1568 | Timothy Villanueva Timothy 1565 | Helen Villanueva Timothy 1570
+HUSBAND: Marilyn Villanueva Richard 1542 WIFE: Henry Crosley Harrison 1545 
+	KIDS: Roger Crosley Henry 1565
+HUSBAND: Meridith Villanueva Richard 1541 WIFE: Leroy Numbers Don 1546 
+	KIDS: null
+HUSBAND: Rosa Larson Tommie 1547 WIFE: Alejandro Kmiotek Harry 1552 
+	KIDS: James Kmiotek Alejandro 1571
+HUSBAND: Ronald Wood George 1556 WIFE: Susan Bell Juanita 1555 
+	KIDS: null
+HUSBAND: Alejandro Wood George 1547 WIFE: Laurie Mcdonald Katherine 1542 
+	KIDS: Scott Wood Alejandro 1565 | Rod Wood Alejandro 1568 | David Wood Alejandro 1564 | Stephen Wood Alejandro 1562 | Dean Wood Alejandro 1562
+HUSBAND: Kendall Wood George 1552 WIFE: Toni Davenport Lorraine 1551 
+	KIDS: Dan Wood Kendall 1573 | Judy Wood Kendall 1571 | Dorothy Wood Kendall 1570 | Laura Wood Kendall 1576
+HUSBAND: Tommy Wood George 1556 WIFE: Scott Skees Ferdinand 1552 
+	KIDS: Margaretta Skees Scott 1579 | Ann Skees Scott 1577 | James Skees Scott 1579
+HUSBAND: Donna Wood George 1552 WIFE: James Ackerman David 1549 
+	KIDS: Cedric Ackerman James 1570 | Morris Ackerman James 1569 | Jason Ackerman James 1571
+HUSBAND: Dennis Brannan Andrew 1555 WIFE: Janice Schroeder Barbara 1553 
+	KIDS: Frank Brannan Dennis 1578 | Carlos Brannan Dennis 1572 | William Brannan Dennis 1580
+HUSBAND: Elizabeth Brannan Andrew 1549 WIFE: Michael Bishop Eric 1549 
+	KIDS: Mary Bishop Michael 1568 | Nicole Bishop Michael 1570 | David Bishop Michael 1571
+HUSBAND: Melvin Brannan Andrew 1557 WIFE: Marion Ortiz Lucille 1558 
+	KIDS: Daphne Brannan Melvin 1583 | Krista Brannan Melvin 1583 | Peter Brannan Melvin 1579
+HUSBAND: Linda Perkins Randall 1551 WIFE: Lamont Seiter Jose 1556 
+	KIDS: Irene Seiter Lamont 1578 | Richard Seiter Lamont 1574 | Daphne Seiter Lamont 1577 | Douglas Seiter Lamont 1576
+HUSBAND: Yolanda Perkins Cyrus 1561 WIFE: Nicholas Dukes Mathew 1560 
+	KIDS: Lindsay Dukes Nicholas 1578 | Marvin Dukes Nicholas 1586 | Billy Dukes Nicholas 1585
+HUSBAND: Alfredo Perkins Cyrus 1557 WIFE: Sarah Brandt Juanita 1558 
+	KIDS: Brenda Perkins Alfredo 1584 | Antonio Perkins Alfredo 1578 | Erlinda Perkins Alfredo 1575 | Luis Perkins Alfredo 1577
+HUSBAND: Evan Perkins Cyrus 1558 WIFE: Carol Beverly Mildred 1556 
+	KIDS: Antoinette Perkins Evan 1576 | Jeffrey Perkins Evan 1578 | Ethel Perkins Evan 1581 | Kenneth Perkins Evan 1579 | Leonard Perkins Evan 1583
+HUSBAND: William Perkins Cyrus 1559 WIFE: Florence Armstrong Anne 1564 
+	KIDS: Ida Perkins William 1578
+HUSBAND: Betty Perkins Cyrus 1561 WIFE: Brandon Aguiar Wade 1560 
+	KIDS: null
+HUSBAND: Toni Ibanez Gregory 1560 WIFE: Michael Myers John 1562 
+	KIDS: Luis Myers Michael 1580 | Hulda Myers Michael 1578 | Joseph Myers Michael 1586 | Jason Myers Michael 1579 | Howard Myers Michael 1581
+HUSBAND: Sarah Ibanez Gregory 1557 WIFE: Matthew Riston Andre 1558 
+	KIDS: Anne Riston Matthew 1575 | Michael Riston Matthew 1584 | Jackie Riston Matthew 1576 | Steven Riston Matthew 1575 | Wilma Riston Matthew 1575
+HUSBAND: Robert Ibanez Gregory 1560 WIFE: Maryann Lee Louise 1556 
+	KIDS: Linda Ibanez Robert 1581 | Max Ibanez Robert 1575 | Stephen Ibanez Robert 1578
+HUSBAND: Richard Ibanez Gregory 1553 WIFE: Judith Lowry Kathleen 1558 
+	KIDS: Kenneth Ibanez Richard 1573 | Mary Ibanez Richard 1575
+HUSBAND: Rebecca Burks Brad 1553 WIFE: Mike Vazquez Robert 1553 
+	KIDS: Laura Vazquez Mike 1579
+HUSBAND: Connie Burks Brad 1562 WIFE: Curtis Struble David 1567 
+	KIDS: Stephen Struble Curtis 1583 | Brenda Struble Curtis 1589 | John Struble Curtis 1588 | Laverna Struble Curtis 1589
+HUSBAND: Lillian Burks Brad 1558 WIFE: Jeremiah Butler Lance 1555 
+	KIDS: Owen Butler Jeremiah 1582 | Chelsie Butler Jeremiah 1579 | Patrick Butler Jeremiah 1578 | Carolyn Butler Jeremiah 1577 | Larry Butler Jeremiah 1573
+HUSBAND: Jason Hughes Kenneth 1553 WIFE: Sara Witt Hazel 1548 
+	KIDS: Barry Hughes Jason 1572 | Crystal Hughes Jason 1572 | Wayne Hughes Jason 1566 | Katherine Hughes Jason 1571
+HUSBAND: Robert Hughes Kenneth 1559 WIFE: Ellen Yann Jacqueline 1555 
+	KIDS: Donald Hughes Robert 1582 | Marcelino Hughes Robert 1577
+HUSBAND: Walter Hughes Kenneth 1556 WIFE: Jacqueline Dolezal Renee 1553 
+	KIDS: Andrea Hughes Walter 1579 | Nicholas Hughes Walter 1575
+HUSBAND: Charlene Garcia Jack 1553 WIFE: David Myers Nicholas 1552 
+	KIDS: null
+HUSBAND: Marion Garcia Jack 1560 WIFE: Jacob Lentz Donald 1565 
+	KIDS: Lawrence Lentz Jacob 1583 | Michael Lentz Jacob 1582
+HUSBAND: Richard Sammarco Bradley 1552 WIFE: Kim Jordon Demetra 1556 
+	KIDS: Richard Sammarco Richard 1571 | Jason Sammarco Richard 1579 | Domingo Sammarco Richard 1572 | Ronald Sammarco Richard 1570 | Audrey Sammarco Richard 1572
+HUSBAND: Paul Sammarco Bradley 1551 WIFE: Cheryl Cain Socorro 1547 
+	KIDS: Rodney Sammarco Paul 1572
+HUSBAND: Luanne Sammarco Bradley 1544 WIFE: Donald Hallaway Bobby 1543 
+	KIDS: Joan Hallaway Donald 1565
+HUSBAND: Kevin Wiggins Danilo 1541 WIFE: Patricia Williams Sharon 1538 
+	KIDS: Susan Wiggins Kevin 1556 | Carlos Wiggins Kevin 1556 | Jessica Wiggins Kevin 1558 | Emily Wiggins Kevin 1557
+HUSBAND: Gil Wiggins Danilo 1541 WIFE: Kathryn Gibbs Rosemary 1544 
+	KIDS: null
+HUSBAND: Christina Wiggins Danilo 1542 WIFE: Roger Burton Hans 1540 
+	KIDS: null
+HUSBAND: Lawrence Jackson Lauren 1547 WIFE: Judith Fernandez Karen 1548 
+	KIDS: null
+HUSBAND: Denise Jackson Lauren 1540 WIFE: Thomas Edwards Brian 1542 
+	KIDS: James Edwards Thomas 1564 | Keith Edwards Thomas 1559 | Mary Edwards Thomas 1566
+HUSBAND: Leonard Landers Nelson 1538 WIFE: Kristi Curran Joanna 1539 
+	KIDS: Shirley Landers Leonard 1558 | Elaine Landers Leonard 1562
+HUSBAND: Jovita Landers Nelson 1535 WIFE: Henry Saxton Samuel 1533 
+	KIDS: Fredric Saxton Henry 1559 | Danielle Saxton Henry 1553
+HUSBAND: Lynn Landers Nelson 1537 WIFE: Andrew Gunderson Leon 1540 
+	KIDS: Denise Gunderson Andrew 1561 | David Gunderson Andrew 1563 | Mary Gunderson Andrew 1555 | Sally Gunderson Andrew 1559 | Shante Gunderson Andrew 1557
+HUSBAND: Genevie Sparks Clifford 1540 WIFE: David Northern David 1536 
+	KIDS: null
+HUSBAND: Alisa Sparks Clifford 1537 WIFE: Nathaniel Schaeffer John 1537 
+	KIDS: Mercedes Schaeffer Nathaniel 1559
+HUSBAND: Edward Sparks Clifford 1540 WIFE: Margaret Johnson Mary 1544 
+	KIDS: Kathleen Sparks Edward 1563 | Bettie Sparks Edward 1559 | Maxine Sparks Edward 1561
+HUSBAND: Gwendolyn Sparks Clifford 1541 WIFE: Andrew Arnold Todd 1539 
+	KIDS: Charles Arnold Andrew 1557 | Jessika Arnold Andrew 1564 | Robert Arnold Andrew 1560
+HUSBAND: Gail Sparks Clifford 1537 WIFE: Clarence Roberson Eric 1534 
+	KIDS: Johnnie Roberson Clarence 1557 | Wendy Roberson Clarence 1554
+HUSBAND: Janet Dowdy Charles 1550 WIFE: James Terrano Damian 1548 
+	KIDS: Jerry Terrano James 1571 | Robin Terrano James 1566
+HUSBAND: Sachiko Dowdy Charles 1545 WIFE: Russell Meyer Anthony 1544 
+	KIDS: Josephine Meyer Russell 1569 | Robert Meyer Russell 1568
+HUSBAND: Dennis Dowdy Charles 1548 WIFE: Malissa Perez Kathleen 1548 
+	KIDS: Curtis Dowdy Dennis 1573 | Julia Dowdy Dennis 1575 | David Dowdy Dennis 1566 | Robert Dowdy Dennis 1570 | Eric Dowdy Dennis 1568
+HUSBAND: Troy Dowdy Charles 1543 WIFE: Roslyn Cruz Sandra 1538 
+	KIDS: Kathryn Dowdy Troy 1563 | Norma Dowdy Troy 1560 | Adela Dowdy Troy 1561 | Eugenie Dowdy Troy 1563
+HUSBAND: John Dowdy Charles 1550 WIFE: Anna Styles Trudy 1555 
+	KIDS: null
+HUSBAND: Robert Willis Vernon 1541 WIFE: Arline Shipman Angela 1546 
+	KIDS: Martin Willis Robert 1564 | Ashley Willis Robert 1567 | Karla Willis Robert 1566 | James Willis Robert 1567
+HUSBAND: Jose Willis Vernon 1546 WIFE: Blanca Craig Geralyn 1549 
+	KIDS: null
+HUSBAND: Courtney Willis Vernon 1548 WIFE: Franklin Kahrs Anthony 1551 
+	KIDS: Glenn Kahrs Franklin 1568 | Iris Kahrs Franklin 1569 | William Kahrs Franklin 1569
+HUSBAND: James Willis Vernon 1543 WIFE: Stefani Epson Verna 1539 
+	KIDS: Nellie Willis James 1563 | Merrill Willis James 1558
+HUSBAND: David Willis Vernon 1541 WIFE: Leah Mccarthy Jennifer 1541 
+	KIDS: Tammy Willis David 1565 | Louise Willis David 1563
+HUSBAND: Carol Maxon Thomas 1551 WIFE: Larry Howerton Jeremy 1555 
+	KIDS: Jesus Howerton Larry 1577 | Shirley Howerton Larry 1575 | Benjamin Howerton Larry 1576 | Gregory Howerton Larry 1574
+HUSBAND: Ramona Maxon Thomas 1557 WIFE: Carl Martinez Jaime 1554 
+	KIDS: Adrian Martinez Carl 1578 | Aida Martinez Carl 1581
+HUSBAND: Jose Sampere Tobias 1545 WIFE: Micheal Canady Kathryn 1543 
+	KIDS: Alicia Sampere Jose 1565 | Alyssa Sampere Jose 1568 | Florence Sampere Jose 1567
+HUSBAND: Robert Sampere Tobias 1550 WIFE: Cornelia Carlson Donna 1553 
+	KIDS: Larry Sampere Robert 1571 | Constance Sampere Robert 1572 | Shirley Sampere Robert 1572 | John Sampere Robert 1570 | Diane Sampere Robert 1569
+HUSBAND: Robbie Sampere Tobias 1548 WIFE: Markus Emerson Michael 1546 
+	KIDS: Joseph Emerson Markus 1573 | Angela Emerson Markus 1571
+HUSBAND: John Sampere Tobias 1552 WIFE: Jennifer Petersen Rosemary 1549 
+	KIDS: Damon Sampere John 1575 | Robert Sampere John 1576 | Elena Sampere John 1576 | Mary Sampere John 1568
+HUSBAND: Brenda Sampere Tobias 1554 WIFE: James Little Jerry 1552 
+	KIDS: Marco Little James 1571 | Kathleen Little James 1574
+HUSBAND: Gail Jackson James 1545 WIFE: Roger Saddler William 1545 
+	KIDS: Georgia Saddler Roger 1571 | Ervin Saddler Roger 1565 | Victoria Saddler Roger 1570 | Robert Saddler Roger 1568 | Priscilla Saddler Roger 1567
+HUSBAND: Mario Jackson James 1545 WIFE: Susan Tucker Sheila 1541 
+	KIDS: Gary Jackson Mario 1564 | Earl Jackson Mario 1568 | Helena Jackson Mario 1563 | Jack Jackson Mario 1566 | Susan Jackson Mario 1568
+HUSBAND: Kimberley Jackson James 1545 WIFE: Michael Hardy Gerald 1549 
+	KIDS: Adela Hardy Michael 1572 | Francis Hardy Michael 1571 | Sylvia Hardy Michael 1569 | Tony Hardy Michael 1564 | Nick Hardy Michael 1572
+HUSBAND: Alphonso Felten Paul 1543 WIFE: Patricia Cervantes Bertha 1540 
+	KIDS: Virgil Felten Alphonso 1567 | Jean Felten Alphonso 1559 | Tyler Felten Alphonso 1562
+HUSBAND: Scott Felten Paul 1547 WIFE: Erin Ellis April 1543 
+	KIDS: Willie Felten Scott 1569
+HUSBAND: Patrick Felten Paul 1547 WIFE: Albina Siddiqui Lula 1548 
+	KIDS: Allison Felten Patrick 1566 | Charles Felten Patrick 1573 | Vivian Felten Patrick 1566 | Michael Felten Patrick 1569
+HUSBAND: Ann Felten Paul 1543 WIFE: Curtis Lamb Humberto 1542 
+	KIDS: Robert Lamb Curtis 1561 | Marcella Lamb Curtis 1563 | Andrew Lamb Curtis 1563 | Kathleen Lamb Curtis 1568 | Arthur Lamb Curtis 1569
+HUSBAND: David Digeorgio Michael 1543 WIFE: Florence Griffith Lynda 1548 
+	KIDS: null
+HUSBAND: Olivia Digeorgio Michael 1541 WIFE: James Chiang Clayton 1546 
+	KIDS: Judy Chiang James 1568 | David Chiang James 1559
+HUSBAND: Ralph Digeorgio Michael 1546 WIFE: Rosalinda Brown Rebecca 1548 
+	KIDS: Jo Digeorgio Ralph 1567 | Harry Digeorgio Ralph 1571 | Melvin Digeorgio Ralph 1570
+HUSBAND: Gerald Digeorgio Michael 1540 WIFE: Sandra Pinkowski Maryanne 1537 
+	KIDS: Robert Digeorgio Gerald 1561
+HUSBAND: Peggy Digeorgio Michael 1546 WIFE: Michael Snoddy Craig 1549 
+	KIDS: Timothy Snoddy Michael 1570 | Luis Snoddy Michael 1570
+HUSBAND: Kai Jacobs Ulysses 1545 WIFE: Clinton Mcdonald Bobby 1544 
+	KIDS: Elizabeth Mcdonald Clinton 1569 | Paula Mcdonald Clinton 1571 | Dawn Mcdonald Clinton 1566 | Jeffery Mcdonald Clinton 1565 | Alice Mcdonald Clinton 1567
+HUSBAND: Marie Jacobs Scott 1542 WIFE: Ronald Bordner Keith 1541 
+	KIDS: Mark Bordner Ronald 1562
+HUSBAND: Norman Jacobs Scott 1547 WIFE: Eleanor Hanson Judith 1552 
+	KIDS: Dan Jacobs Norman 1574 | Bettye Jacobs Norman 1569 | Harry Jacobs Norman 1566
+HUSBAND: Ida Jacobs Michael 1543 WIFE: Joseph Jordan Paul 1544 
+	KIDS: Pamela Jordan Joseph 1568 | Donald Jordan Joseph 1566
+HUSBAND: Gloria Jacobs Michael 1547 WIFE: Thomas Miller James 1550 
+	KIDS: Jennifer Miller Thomas 1569 | Brian Miller Thomas 1567 | Ruth Miller Thomas 1568
+HUSBAND: Rosalie Jacobs Michael 1549 WIFE: Anthony Bass Jose 1551 
+	KIDS: Benny Bass Anthony 1567 | David Bass Anthony 1568 | Anthony Bass Anthony 1568 | Robert Bass Anthony 1573 | Edmond Bass Anthony 1575
+HUSBAND: Teresa Jacobs Michael 1543 WIFE: Earl Givens Anthony 1542 
+	KIDS: James Givens Earl 1562 | Mark Givens Earl 1563 | Nettie Givens Earl 1560 | Raul Givens Earl 1566 | Annemarie Givens Earl 1561
+HUSBAND: Judy Jacobs Michael 1546 WIFE: Lionel Onisick Melvin 1549 
+	KIDS: Jose Onisick Lionel 1568 | Dewayne Onisick Lionel 1566 | Victor Onisick Lionel 1564 | Eric Onisick Lionel 1568
+HUSBAND: Sonja Roman Matthew 1543 WIFE: Clarence Mendoza Charles 1542 
+	KIDS: Curtis Mendoza Clarence 1560 | Hazel Mendoza Clarence 1568
+HUSBAND: John Roman Matthew 1537 WIFE: Joyce Beckham Janet 1538 
+	KIDS: Nicolas Roman John 1556 | Arthur Roman John 1555 | Pamela Roman John 1557
+HUSBAND: Patrick Roman Matthew 1539 WIFE: Tammy Fluitt Nelly 1534 
+	KIDS: Walter Roman Patrick 1554 | Ana Roman Patrick 1559 | Todd Roman Patrick 1558 | Mary Roman Patrick 1554 | David Roman Patrick 1560
+HUSBAND: Linda Taylor Joe 1551 WIFE: Darrell Rogalski Gerald 1554 
+	KIDS: null
+HUSBAND: Dan Taylor Joe 1552 WIFE: Charlotte Devine Olga 1547 
+	KIDS: Debra Taylor Dan 1572
+HUSBAND: Daniel Taylor Joe 1545 WIFE: Heather Winfield Suzanne 1549 
+	KIDS: Thomas Taylor Daniel 1571 | Holly Taylor Daniel 1571 | Mark Taylor Daniel 1563
+HUSBAND: Gladys Taylor Joe 1547 WIFE: Chad Cox Michael 1546 
+	KIDS: Clifton Cox Chad 1571
+HUSBAND: William Matthews Cecil 1538 WIFE: Wendy Archer Lupe 1540 
+	KIDS: Refugio Matthews William 1561 | Ann Matthews William 1556 | Rebecca Matthews William 1559
+HUSBAND: Lillie Matthews Cecil 1541 WIFE: Edward Buckner Kenneth 1543 
+	KIDS: Sean Buckner Edward 1564 | Frank Buckner Edward 1568 | Melinda Buckner Edward 1565 | Karen Buckner Edward 1566 | James Buckner Edward 1566
+HUSBAND: Mary Matthews Cecil 1539 WIFE: Lowell Baird Prince 1541 
+	KIDS: Elizabeth Baird Lowell 1559 | William Baird Lowell 1558 | Mabel Baird Lowell 1561
+HUSBAND: Frances Matthews Cecil 1539 WIFE: Michael Falco Clarence 1541 
+	KIDS: Emily Falco Michael 1557 | Richard Falco Michael 1558
+HUSBAND: Annie Matthews Cecil 1535 WIFE: Steven Kyser Lawrence 1537 
+	KIDS: Connie Kyser Steven 1555
+HUSBAND: Frank Matthews Leroy 1541 WIFE: Dorthy Juarez Michelle 1539 
+	KIDS: Esmeralda Matthews Frank 1565 | Linda Matthews Frank 1563 | Tennille Matthews Frank 1566 | Daniel Matthews Frank 1560 | Claire Matthews Frank 1564
+HUSBAND: Kevin Matthews Stephen 1548 WIFE: Christie Villalobos Stella 1550 
+	KIDS: Duane Matthews Kevin 1566 | Maggie Matthews Kevin 1575
+HUSBAND: Martha Matthews Ronald 1544 WIFE: Glenn Greene Michael 1547 
+	KIDS: Fermina Greene Glenn 1563 | Raymond Greene Glenn 1565 | Leroy Greene Glenn 1568 | Dee Greene Glenn 1569
+HUSBAND: Michael Matthews Ronald 1547 WIFE: Ellen Anderson Mary 1547 
+	KIDS: Claudia Matthews Michael 1565 | Laurie Matthews Michael 1572
+HUSBAND: Coletta Matthews Ronald 1542 WIFE: Michael Hooker Travis 1545 
+	KIDS: Joseph Hooker Michael 1565
+HUSBAND: Neil Matthews Ronald 1545 WIFE: Juli Hollowell Karin 1548 
+	KIDS: Shawn Matthews Neil 1572 | Martin Matthews Neil 1563 | Casey Matthews Neil 1564
+HUSBAND: Ronda Matthews Ronald 1543 WIFE: Jerald Magnie Brian 1545 
+	KIDS: Darren Magnie Jerald 1562 | Amy Magnie Jerald 1568 | Kirk Magnie Jerald 1561 | Gary Magnie Jerald 1565 | Pamela Magnie Jerald 1562
+HUSBAND: Vickie Matthews James 1537 WIFE: Larry Mclean John 1534 
+	KIDS: Kathie Mclean Larry 1561
+HUSBAND: James Matthews James 1536 WIFE: Dorothy Black Irene 1541 
+	KIDS: null
+HUSBAND: Ricky Matthews James 1532 WIFE: Joy Boulerice Kate 1531 
+	KIDS: Don Matthews Ricky 1551 | Tommie Matthews Ricky 1551 | Margaret Matthews Ricky 1552 | Laura Matthews Ricky 1555
+HUSBAND: Dianne Matthews James 1533 WIFE: John Evans James 1532 
+	KIDS: John Evans John 1551 | Jill Evans John 1557 | Elke Evans John 1558 | Cheryle Evans John 1552 | Mary Evans John 1559
+HUSBAND: Mark Matthews James 1534 WIFE: Elva Stjean Annice 1533 
+	KIDS: Walter Matthews Mark 1559 | Antonio Matthews Mark 1554 | Chris Matthews Mark 1557 | Kim Matthews Mark 1553
+HUSBAND: Kenneth Vesco Troy 1544 WIFE: Sandra Thomas Yvonne 1546 
+	KIDS: Roy Vesco Kenneth 1564 | Elizabeth Vesco Kenneth 1570 | Lena Vesco Kenneth 1562 | Alfred Vesco Kenneth 1571
+HUSBAND: Corey Vesco Troy 1535 WIFE: Fumiko King Tonya 1532 
+	KIDS: Deborah Vesco Corey 1556 | Kurt Vesco Corey 1550 | Stephen Vesco Corey 1551 | Lise Vesco Corey 1558
+HUSBAND: Henrietta Hatter Leo 1542 WIFE: Carl Olson Scott 1543 
+	KIDS: Kelli Olson Carl 1564 | Debra Olson Carl 1560
+HUSBAND: Daisy Hatter Leo 1536 WIFE: Daniel Barnett Charles 1533 
+	KIDS: Tyler Barnett Daniel 1559 | Valerie Barnett Daniel 1554 | Nathan Barnett Daniel 1552 | June Barnett Daniel 1559 | Rebecca Barnett Daniel 1555
+HUSBAND: Cindy Hatter Leo 1540 WIFE: James Grissom James 1542 
+	KIDS: Jackie Grissom James 1566 | Raul Grissom James 1558 | John Grissom James 1563 | Julius Grissom James 1559 | Rosalinda Grissom James 1560
+HUSBAND: Kathy Hatter Leo 1534 WIFE: Jorge Hudson Michael 1539 
+	KIDS: Jacqueline Hudson Jorge 1554 | Betty Hudson Jorge 1553 | Jerry Hudson Jorge 1559
+HUSBAND: Michelle Pettaway Robert 1539 WIFE: Raymond Crump Gordon 1534 
+	KIDS: Isidro Crump Raymond 1559 | Viola Crump Raymond 1560 | John Crump Raymond 1555
+HUSBAND: Raven Pettaway Robert 1541 WIFE: Edward Horton James 1543 
+	KIDS: Antonio Horton Edward 1562 | William Horton Edward 1566 | Anita Horton Edward 1568 | Brad Horton Edward 1562 | Mary Horton Edward 1564
+HUSBAND: Maude Pettaway Robert 1536 WIFE: Ken Baker William 1538 
+	KIDS: null
+HUSBAND: Lindsey Pettaway Robert 1541 WIFE: Harry Lajoie Robert 1540 
+	KIDS: null
+HUSBAND: Debra Williams Robert 1540 WIFE: Andrew Ham William 1537 
+	KIDS: Rosalind Ham Andrew 1562 | Elisha Ham Andrew 1560 | Erika Ham Andrew 1561 | Marcus Ham Andrew 1555
+HUSBAND: Mattie Williams Robert 1544 WIFE: Scott Timms Patrick 1546 
+	KIDS: Maria Timms Scott 1566 | Bradley Timms Scott 1565 | Claire Timms Scott 1563 | Mildred Timms Scott 1566
+HUSBAND: Peggy Williams Robert 1539 WIFE: Calvin Friddle Allen 1537 
+	KIDS: Ruby Friddle Calvin 1557 | Clyde Friddle Calvin 1557 | Frances Friddle Calvin 1563 | Maxine Friddle Calvin 1557 | Ellen Friddle Calvin 1558
+HUSBAND: Linda Williams Robert 1540 WIFE: Aaron Zink Jonathan 1541 
+	KIDS: Fred Zink Aaron 1565 | Teresa Zink Aaron 1566 | Michael Zink Aaron 1564 | Christopher Zink Aaron 1565 | Peggy Zink Aaron 1558
+HUSBAND: Alex Williams Robert 1547 WIFE: Marguerite Matos Laverne 1550 
+	KIDS: null
+HUSBAND: Jeremy Williams Milford 1545 WIFE: Alicia Gass Helen 1548 
+	KIDS: Erin Williams Jeremy 1570 | Robert Williams Jeremy 1566 | Glenn Williams Jeremy 1563
+HUSBAND: George Wells Jason 1541 WIFE: Amelia Heaton Ethel 1539 
+	KIDS: Larry Wells George 1565 | Henry Wells George 1560 | Louise Wells George 1560
+HUSBAND: Tina Titcomb Terry 1547 WIFE: Bruce Mccain Ronald 1549 
+	KIDS: null
+HUSBAND: Joseph Titcomb Terry 1543 WIFE: Guadalupe Wolf Robin 1538 
+	KIDS: Allegra Titcomb Joseph 1563
+HUSBAND: Rachel Titcomb Terry 1550 WIFE: Daniel Duncan Jeffrey 1551 
+	KIDS: Carolyn Duncan Daniel 1577 | Hector Duncan Daniel 1575 | Joy Duncan Daniel 1569 | Mabel Duncan Daniel 1571 | Paul Duncan Daniel 1572
+HUSBAND: Deborah Becnel Donald 1546 WIFE: Ernest Fabrizio Chad 1544 
+	KIDS: Robert Fabrizio Ernest 1563 | Jerry Fabrizio Ernest 1568 | Andrew Fabrizio Ernest 1566 | Robert Fabrizio Ernest 1568 | Alexander Fabrizio Ernest 1569
+HUSBAND: Alice Becnel Donald 1544 WIFE: Christopher Skidmore Donald 1540 
+	KIDS: Filomena Skidmore Christopher 1564 | Lloyd Skidmore Christopher 1566
+HUSBAND: Jose Lasala Darrick 1546 WIFE: Nicole Ragsdale Virginia 1547 
+	KIDS: Theresa Lasala Jose 1570 | Terri Lasala Jose 1566 | Sandra Lasala Jose 1570 | Richard Lasala Jose 1568 | Beverly Lasala Jose 1569
+HUSBAND: Autumn Lasala Darrick 1546 WIFE: Joshua Mccartt Gerald 1550 
+	KIDS: Pamela Mccartt Joshua 1570 | Frank Mccartt Joshua 1566 | Deanna Mccartt Joshua 1571
+HUSBAND: Dorothy Lasala Darrick 1540 WIFE: Pedro Mcclaren John 1545 
+	KIDS: Maria Mcclaren Pedro 1564
+HUSBAND: George Lasala Darrick 1541 WIFE: Katharina Bergeron Nancy 1537 
+	KIDS: Jose Lasala George 1558 | Sara Lasala George 1556 | James Lasala George 1556 | Alisha Lasala George 1560 | Andrew Lasala George 1564
+HUSBAND: Liza Tucker Jason 1544 WIFE: Rodney Norman Joshua 1539 
+	KIDS: null
+HUSBAND: Edith Tucker Jason 1544 WIFE: Paul Williams Robert 1549 
+	KIDS: Mary Williams Paul 1570 | Cesar Williams Paul 1567
+HUSBAND: Jewel Tucker Jason 1544 WIFE: David Roberts Clayton 1539 
+	KIDS: Latoya Roberts David 1557 | Russell Roberts David 1563 | Jacqueline Roberts David 1564 | Angela Roberts David 1559 | Mary Roberts David 1559
+HUSBAND: Donald Lasala Arthur 1537 WIFE: Linda Martinez Bobbi 1536 
+	KIDS: Patti Lasala Donald 1555 | Angeline Lasala Donald 1559
+HUSBAND: Kristie Lasala Arthur 1534 WIFE: Ryan Ringstaff Arthur 1535 
+	KIDS: null
+HUSBAND: Elizabeth Lasala Arthur 1540 WIFE: John Hays Randell 1536 
+	KIDS: Melissa Hays John 1556 | Mary Hays John 1559 | Roderick Hays John 1554 | Barton Hays John 1554
+HUSBAND: Patricia Lasala Manuel 1540 WIFE: Troy Davenport Ryan 1543 
+	KIDS: George Davenport Troy 1563 | Ernest Davenport Troy 1559 | Luis Davenport Troy 1563 | Penny Davenport Troy 1567 | Patricia Davenport Troy 1565
+HUSBAND: Victor Lasala Manuel 1547 WIFE: Jeana Birdsong Janet 1543 
+	KIDS: Kimberly Lasala Victor 1563 | Robert Lasala Victor 1567 | Walton Lasala Victor 1564 | George Lasala Victor 1565
+HUSBAND: Adam Lasala Manuel 1538 WIFE: Diane Adler Linda 1537 
+	KIDS: Gregory Lasala Adam 1564 | George Lasala Adam 1561 | Sharon Lasala Adam 1558
+HUSBAND: Samantha Lasala Manuel 1546 WIFE: Robert Bagley Gerardo 1545 
+	KIDS: Erna Bagley Robert 1564 | Enrique Bagley Robert 1563
+HUSBAND: Allison Lasala Manuel 1544 WIFE: Russell Franco Evan 1539 
+	KIDS: Sharon Franco Russell 1563 | Maria Franco Russell 1566 | Tim Franco Russell 1564 | Melinda Franco Russell 1562
+HUSBAND: Susan Petty John 1547 WIFE: Daniel Padron Fernando 1543 
+	KIDS: Frank Padron Daniel 1566 | Sandy Padron Daniel 1567 | Dora Padron Daniel 1563 | Pamela Padron Daniel 1563
+HUSBAND: Michael Petty John 1544 WIFE: Christina Wilson Thelma 1547 
+	KIDS: Robert Petty Michael 1568 | Mercedes Petty Michael 1568
+HUSBAND: Julian Petty Philip 1543 WIFE: Tabetha Mathew Jackie 1538 
+	KIDS: null
+HUSBAND: Carole Petty Philip 1540 WIFE: Larry Miller Buddy 1544 
+	KIDS: Erma Miller Larry 1560 | Gina Miller Larry 1562 | Lorenzo Miller Larry 1565 | Jeremy Miller Larry 1567
+HUSBAND: Candace Petty Philip 1541 WIFE: Dennis Williams William 1537 
+	KIDS: Margarita Williams Dennis 1560 | Donna Williams Dennis 1563 | Carol Williams Dennis 1557 | Mark Williams Dennis 1563
+HUSBAND: Robert Petty Philip 1539 WIFE: Irene Shaw Phyllis 1535 
+	KIDS: Sammie Petty Robert 1559 | Noriko Petty Robert 1554 | William Petty Robert 1560 | Francis Petty Robert 1553 | Jaime Petty Robert 1558
+HUSBAND: Jessica Petty Philip 1544 WIFE: George Doherty Joseph 1546 
+	KIDS: Stephen Doherty George 1565 | Teresa Doherty George 1562 | Roxanne Doherty George 1571 | Margaret Doherty George 1567 | Isiah Doherty George 1571
+HUSBAND: Donna Naber Rickie 1547 WIFE: Rodolfo Roberson Greg 1552 
+	KIDS: Robert Roberson Rodolfo 1569 | Daniel Roberson Rodolfo 1571
+HUSBAND: Rhonda Naber Rickie 1546 WIFE: Jesse Reyes Robert 1541 
+	KIDS: Michael Reyes Jesse 1559 | Earnest Reyes Jesse 1567 | Kara Reyes Jesse 1565
+HUSBAND: Terry Naber Rickie 1545 WIFE: Linda Soto Jody 1540 
+	KIDS: Wanda Naber Terry 1562 | Misty Naber Terry 1566 | Clarence Naber Terry 1558 | Beatrice Naber Terry 1560
+HUSBAND: Rhonda Cormier Raymon 1545 WIFE: Jesse Shuster Paul 1547 
+	KIDS: null
+HUSBAND: Rickey Cormier Raymon 1546 WIFE: Edna Siegfried Melanie 1551 
+	KIDS: Paul Cormier Rickey 1564 | Dominic Cormier Rickey 1571 | Bernard Cormier Rickey 1565
+HUSBAND: Russell Cormier Raymon 1539 WIFE: Juanita Viruet Barbara 1541 
+	KIDS: Danny Cormier Russell 1566
+HUSBAND: Alena Cormier Clifford 1538 WIFE: Matt Murphy Jeffrey 1533 
+	KIDS: null
+HUSBAND: Marcia Allen Anthony 1544 WIFE: Armando Strickland Charles 1542 
+	KIDS: Steven Strickland Armando 1566
+HUSBAND: Robert Allen Anthony 1541 WIFE: Stephine Rivera Viola 1536 
+	KIDS: Betty Allen Robert 1555 | Stephanie Allen Robert 1558 | Daniel Allen Robert 1563
+HUSBAND: Ricky Allen Anthony 1546 WIFE: Marina Thomas Carmen 1541 
+	KIDS: Rebecca Allen Ricky 1560 | Paul Allen Ricky 1559 | Robert Allen Ricky 1564 | Gina Allen Ricky 1564
+HUSBAND: Jacqueline Allen Anthony 1543 WIFE: Joseph Laforce Arthur 1546 
+	KIDS: Lori Laforce Joseph 1562 | Sam Laforce Joseph 1563 | David Laforce Joseph 1569
+HUSBAND: Mabel Cormier Gerald 1535 WIFE: Gregory Dabney Ray 1538 
+	KIDS: Marcia Dabney Gregory 1553
+HUSBAND: Albert Cormier Gerald 1534 WIFE: Janet Robinson Muriel 1533 
+	KIDS: Eric Cormier Albert 1558 | Holly Cormier Albert 1558 | Norman Cormier Albert 1558 | Charles Cormier Albert 1552
+HUSBAND: Alvin Cormier Gerald 1530 WIFE: Naomi Lund Beverly 1533 
+	KIDS: Beatrice Cormier Alvin 1557
+HUSBAND: Millard Cormier Gerald 1536 WIFE: Karla Blackman Mary 1536 
+	KIDS: Greg Cormier Millard 1556 | William Cormier Millard 1554 | Mary Cormier Millard 1559 | Glenda Cormier Millard 1561 | Michael Cormier Millard 1556
+HUSBAND: Vincent Cormier Gerald 1538 WIFE: Cheryl Scott Ruthie 1533 
+	KIDS: Alma Cormier Vincent 1559 | Marcus Cormier Vincent 1560 | Les Cormier Vincent 1557 | Sara Cormier Vincent 1554 | Darlene Cormier Vincent 1557
+HUSBAND: Dorothy Cormier John 1530 WIFE: Marvin Fullmer Daryl 1533 
+	KIDS: Julia Fullmer Marvin 1549 | Matthew Fullmer Marvin 1553 | Ryan Fullmer Marvin 1549 | Joseph Fullmer Marvin 1553 | Hans Fullmer Marvin 1550
+HUSBAND: Joan Everett Christopher 1546 WIFE: John Perez Robert 1550 
+	KIDS: Thomas Perez John 1569 | Brenda Perez John 1570 | Carlos Perez John 1567 | Brian Perez John 1569 | Troy Perez John 1566
+HUSBAND: Robert Winkles Daniel 1540 WIFE: Shirley Shelvey Donna 1545 
+	KIDS: Bradford Winkles Robert 1567 | Lisa Winkles Robert 1566
+HUSBAND: Judith Orielly William 1549 WIFE: John Samber Anthony 1546 
+	KIDS: Alberta Samber John 1566 | Marvin Samber John 1564 | Linda Samber John 1565 | Billy Samber John 1572 | Julio Samber John 1573
+HUSBAND: Tara Orielly William 1548 WIFE: Gregory Gross Brendan 1547 
+	KIDS: Joshua Gross Gregory 1569 | Rose Gross Gregory 1570 | Rafael Gross Gregory 1573 | Judy Gross Gregory 1565
+HUSBAND: Mary Orielly William 1547 WIFE: Darren Ingram Thomas 1545 
+	KIDS: James Ingram Darren 1568 | Williams Ingram Darren 1571 | Margaret Ingram Darren 1565 | Mary Ingram Darren 1565
+HUSBAND: Justin Orielly William 1546 WIFE: Mary Edwards Karen 1544 
+	KIDS: null
+HUSBAND: Charles Orielly William 1545 WIFE: Susan Duckworth Catina 1546 
+	KIDS: Ryan Orielly Charles 1569
+HUSBAND: Kevin Jenkins Paul 1547 WIFE: Annette Harris Polly 1542 
+	KIDS: Jeff Jenkins Kevin 1564 | Dick Jenkins Kevin 1561
+HUSBAND: Ronald Jenkins Paul 1547 WIFE: Linda Johnson Gail 1550 
+	KIDS: Jason Jenkins Ronald 1571 | Latricia Jenkins Ronald 1570 | Marvin Jenkins Ronald 1568 | Michael Jenkins Ronald 1566 | Rudy Jenkins Ronald 1573
+HUSBAND: Harvey Jenkins Paul 1544 WIFE: Sandra Brown Crystal 1549 
+	KIDS: null
+HUSBAND: Charlene Jenkins Paul 1543 WIFE: William Mitchell Virgil 1545 
+	KIDS: Florence Mitchell William 1561 | Stephen Mitchell William 1569 | Edwina Mitchell William 1565 | Joe Mitchell William 1569
+HUSBAND: Ethel Davis Richard 1555 WIFE: Robert Hochmuth Travis 1559 
+	KIDS: Jane Hochmuth Robert 1573 | Harvey Hochmuth Robert 1579 | Janelle Hochmuth Robert 1580
+HUSBAND: James Davis Richard 1555 WIFE: Jodi Daly Alice 1551 
+	KIDS: Kathleen Davis James 1574 | Juan Davis James 1576
+HUSBAND: Raymond Kokoska Willie 1545 WIFE: Cleo Lukow Melba 1548 
+	KIDS: Joseph Kokoska Raymond 1568
+HUSBAND: Craig Kokoska Willie 1545 WIFE: Dorothy Montgomery Michelle 1549 
+	KIDS: Matthew Kokoska Craig 1565 | Marie Kokoska Craig 1563 | Kayla Kokoska Craig 1568 | Patricia Kokoska Craig 1564
+HUSBAND: Delores Davis George 1545 WIFE: Chris Stile Marco 1544 
+	KIDS: Benjamin Stile Chris 1568 | Lynne Stile Chris 1571 | Rona Stile Chris 1562 | Eileen Stile Chris 1569
+HUSBAND: Elvia Ward Edward 1544 WIFE: Vincent Dunlap Clay 1542 
+	KIDS: Ronald Dunlap Vincent 1561 | Kathy Dunlap Vincent 1569 | Virginia Dunlap Vincent 1560 | Mary Dunlap Vincent 1563
+HUSBAND: Ryan Ward Edward 1544 WIFE: Betty Kisner Janna 1540 
+	KIDS: Robert Ward Ryan 1559 | Ruben Ward Ryan 1567 | Mary Ward Ryan 1566
+HUSBAND: Jill Ward Edward 1536 WIFE: Michael Smyth Robert 1533 
+	KIDS: null
+HUSBAND: Richard Phelps Ronnie 1536 WIFE: Evelyn Banks Angela 1535 
+	KIDS: Angel Phelps Richard 1555
+HUSBAND: Melissa Phelps Ronnie 1536 WIFE: Jeremy Pelton David 1535 
+	KIDS: null
+HUSBAND: Frances Phelps Ronnie 1542 WIFE: Robert Alexander James 1539 
+	KIDS: Salina Alexander Robert 1565 | Frances Alexander Robert 1563 | Julie Alexander Robert 1563 | Krystal Alexander Robert 1565
+HUSBAND: Georgina Tomaszewski Travis 1536 WIFE: James Hight Russell 1536 
+	KIDS: Alfonso Hight James 1560 | Elton Hight James 1558 | Kelly Hight James 1556
+HUSBAND: James Miller Noah 1538 WIFE: Marielle Pascual Tammy 1535 
+	KIDS: Gwendolyn Miller James 1561 | Charles Miller James 1557 | Elizabeth Miller James 1557 | Samantha Miller James 1553 | Helen Miller James 1556
+HUSBAND: Michael Fernandez Jack 1540 WIFE: Jamie Wilson Erin 1537 
+	KIDS: David Fernandez Michael 1560 | Misty Fernandez Michael 1563 | Kerri Fernandez Michael 1560
+HUSBAND: Johnnie Fernandez Jack 1549 WIFE: Kristin Parks Ruby 1544 
+	KIDS: Nancy Fernandez Johnnie 1567 | Dorothy Fernandez Johnnie 1566 | Mildred Fernandez Johnnie 1564 | Maurice Fernandez Johnnie 1569 | Charles Fernandez Johnnie 1569
+HUSBAND: Francis Fernandez Jack 1547 WIFE: Ollie Lippert Tiffany 1543 
+	KIDS: null
+HUSBAND: Sheryl Walls John 1544 WIFE: Marvin Marshall Duane 1545 
+	KIDS: Anna Marshall Marvin 1566 | Frank Marshall Marvin 1568 | Manuel Marshall Marvin 1568
+HUSBAND: Patrick Walls John 1544 WIFE: Susan Barile Doris 1542 
+	KIDS: null
+HUSBAND: Allen Walls John 1543 WIFE: Linda Anderson Edna 1542 
+	KIDS: null
+HUSBAND: Robert Walls John 1544 WIFE: Valerie Martinez Svetlana 1544 
+	KIDS: Justin Walls Robert 1563 | Douglas Walls Robert 1565 | Richard Walls Robert 1563 | Roger Walls Robert 1565
+HUSBAND: David Walls John 1541 WIFE: Regina Haley Helen 1541 
+	KIDS: George Walls David 1561 | David Walls David 1566 | Angela Walls David 1566 | Michelle Walls David 1560 | Martin Walls David 1561
+HUSBAND: Mary Chevalier Mark 1540 WIFE: Michael Woodson Chad 1540 
+	KIDS: Heather Woodson Michael 1567 | Roy Woodson Michael 1561 | Iris Woodson Michael 1561 | George Woodson Michael 1560
+HUSBAND: Warren Walls Anton 1544 WIFE: Debra Gray Hazel 1549 
+	KIDS: Sharron Walls Warren 1564 | George Walls Warren 1565 | Paul Walls Warren 1566
+HUSBAND: Rita Walls Anton 1551 WIFE: Cody Myers Timmy 1551 
+	KIDS: null
+HUSBAND: Sherry Walls Anton 1545 WIFE: Robert Covington Jan 1548 
+	KIDS: Kenneth Covington Robert 1568 | Lawrence Covington Robert 1563
+HUSBAND: Anthony Walls Anton 1546 WIFE: Marci Rogers Ella 1547 
+	KIDS: Marguerite Walls Anthony 1565 | Stephen Walls Anthony 1567 | Leslie Walls Anthony 1568 | Tara Walls Anthony 1573
+HUSBAND: Edward Walls Anton 1546 WIFE: Ellen Larkin Judy 1541 
+	KIDS: null
+HUSBAND: Carlton Walls Robert 1540 WIFE: Margaret Cruz Sylvia 1545 
+	KIDS: Lee Walls Carlton 1560 | Matthew Walls Carlton 1559 | Edward Walls Carlton 1561 | Robert Walls Carlton 1558
+HUSBAND: Anita Walls Robert 1539 WIFE: Cary Rich Thomas 1539 
+	KIDS: Jessie Rich Cary 1561 | Eric Rich Cary 1561
+HUSBAND: Angie Walls Robert 1543 WIFE: Michael Shuck Mark 1548 
+	KIDS: David Shuck Michael 1569 | Greg Shuck Michael 1566 | Bert Shuck Michael 1565 | Monica Shuck Michael 1570
+HUSBAND: Erica Walls Robert 1539 WIFE: Mark Wagner Melvin 1536 
+	KIDS: Karen Wagner Mark 1557 | John Wagner Mark 1563 | Roger Wagner Mark 1555 | Velma Wagner Mark 1562
+HUSBAND: Constance Walls Robert 1537 WIFE: Thomas Parris Jose 1535 
+	KIDS: Lesia Parris Thomas 1556
+HUSBAND: Lori Say Howard 1539 WIFE: Robert Partee Sean 1536 
+	KIDS: Dina Partee Robert 1561 | Virginia Partee Robert 1555 | Evelyn Partee Robert 1563
+HUSBAND: Jeffrey Say Howard 1534 WIFE: Eula Hood Glenda 1538 
+	KIDS: Fred Say Jeffrey 1561 | Manuel Say Jeffrey 1556
+HUSBAND: Theresa Say Howard 1541 WIFE: Larry Ward Harry 1546 
+	KIDS: Brian Ward Larry 1566 | Nicole Ward Larry 1564 | Jerry Ward Larry 1567 | Deborah Ward Larry 1566
+HUSBAND: Jaime Thomas Tracy 1540 WIFE: Jill Nicholls Leana 1545 
+	KIDS: Kenneth Thomas Jaime 1563 | Richard Thomas Jaime 1564 | Douglas Thomas Jaime 1560 | Tim Thomas Jaime 1566
+HUSBAND: Kyung Thomas Tracy 1541 WIFE: Dewayne Smith Keith 1546 
+	KIDS: Reginald Smith Dewayne 1562 | David Smith Dewayne 1563 | Lois Smith Dewayne 1560 | Jenny Smith Dewayne 1561
+HUSBAND: Elmer Sterling Michael 1544 WIFE: Amy Denton Nancy 1546 
+	KIDS: Sally Sterling Elmer 1564
+HUSBAND: Kenneth Sterling Michael 1543 WIFE: Elizebeth Stepp Tracy 1541 
+	KIDS: Elizabeth Sterling Kenneth 1563 | Shawn Sterling Kenneth 1560 | Joel Sterling Kenneth 1559 | Patricia Sterling Kenneth 1565
+HUSBAND: Steven Sterling Michael 1539 WIFE: Virginia Saballos Pamela 1540 
+	KIDS: Cynthia Sterling Steven 1563 | Shannon Sterling Steven 1564 | Carla Sterling Steven 1564
+HUSBAND: David Sterling Michael 1540 WIFE: Tammy Upton Lois 1535 
+	KIDS: Carolyn Sterling David 1559 | Nicholas Sterling David 1553 | Joseph Sterling David 1559 | Gail Sterling David 1558
+HUSBAND: Lawrence Diehl George 1540 WIFE: Elma Fleck Debra 1540 
+	KIDS: Albert Diehl Lawrence 1558 | Wendy Diehl Lawrence 1559
+HUSBAND: Anthony Diehl George 1539 WIFE: Laura Grant Mary 1534 
+	KIDS: Nicholas Diehl Anthony 1561 | Michael Diehl Anthony 1554 | Amy Diehl Anthony 1557 | Wanda Diehl Anthony 1553
+HUSBAND: Michael Diehl George 1536 WIFE: Teresa Mends Joyce 1540 
+	KIDS: Jack Diehl Michael 1563
+HUSBAND: George Diehl George 1540 WIFE: Jessica Sperrey Aurora 1539 
+	KIDS: Marcus Diehl George 1562 | Matthew Diehl George 1565 | Michael Diehl George 1565
+HUSBAND: Elizabeth Diehl George 1536 WIFE: David Heineman Louis 1533 
+	KIDS: Caroline Heineman David 1557 | Sheri Heineman David 1551 | Danette Heineman David 1551
+HUSBAND: Karen Diehl George 1528 WIFE: William Carr Keenan 1533 
+	KIDS: Granville Carr William 1555 | Victor Carr William 1555 | Mary Carr William 1553 | Timothy Carr William 1547
+HUSBAND: David Diehl George 1530 WIFE: Annalisa Sorrells Marie 1533 
+	KIDS: Bethany Diehl David 1553 | Victoria Diehl David 1555 | Darrell Diehl David 1552 | Hazel Diehl David 1549
+HUSBAND: Brian Diehl George 1530 WIFE: Pamela Vega Kristen 1531 
+	KIDS: Sara Diehl Brian 1550 | Raul Diehl Brian 1552 | Jack Diehl Brian 1552 | Mario Diehl Brian 1548 | Robert Diehl Brian 1554
+HUSBAND: Martha Diehl George 1535 WIFE: David Saul Antonio 1532 
+	KIDS: Don Saul David 1556 | Christine Saul David 1551
+HUSBAND: Adrian Turek Raymond 1538 WIFE: Melissa Keeth Eva 1542 
+	KIDS: null
+HUSBAND: Eldridge Turek Raymond 1538 WIFE: Diane Miller Mabel 1542 
+	KIDS: null
+HUSBAND: Martha Gent Paul 1539 WIFE: David Miller Tommy 1539 
+	KIDS: Regina Miller David 1557 | Guillermo Miller David 1559 | Carl Miller David 1565 | Lonny Miller David 1561 | Tommie Miller David 1557
+HUSBAND: Ashley Gent Paul 1540 WIFE: Everett Contreras Richard 1540 
+	KIDS: Nancy Contreras Everett 1562 | Margaret Contreras Everett 1567 | Dean Contreras Everett 1563
+HUSBAND: Jeremy Gent Paul 1544 WIFE: Julie Romanowski Samantha 1543 
+	KIDS: null
+HUSBAND: Jeffrey Gent Paul 1539 WIFE: Patsy Wilkins Maria 1538 
+	KIDS: null
+HUSBAND: Joshua Gent John 1552 WIFE: Nancy Scott Priscilla 1548 
+	KIDS: null
+HUSBAND: Willa Gent John 1553 WIFE: Joshua Polanco Milton 1556 
+	KIDS: Carroll Polanco Joshua 1578
+HUSBAND: Laquita Gent John 1548 WIFE: Raymond Ferguson Christopher 1547 
+	KIDS: William Ferguson Raymond 1568 | Sandra Ferguson Raymond 1569
+HUSBAND: Travis Gent John 1551 WIFE: Genevieve Zuleger Barbara 1550 
+	KIDS: Mildred Gent Travis 1568 | Joyce Gent Travis 1569 | Thomas Gent Travis 1568 | Katherine Gent Travis 1569
+HUSBAND: Opal Gent Duane 1540 WIFE: Roy Ivan Gregory 1539 
+	KIDS: Carl Ivan Roy 1559
+HUSBAND: Elias Telep Douglas 1539 WIFE: Rebecca Trost Jamie 1539 
+	KIDS: Jimmy Telep Elias 1560 | Erma Telep Elias 1557 | Ken Telep Elias 1557
+HUSBAND: Karl Telep Douglas 1543 WIFE: Anita Caldwell Laurette 1547 
+	KIDS: Joseph Telep Karl 1566 | Tyree Telep Karl 1561
+HUSBAND: Kelvin Telep Douglas 1538 WIFE: Mary Depue Ruth 1541 
+	KIDS: Jennifer Telep Kelvin 1560
+HUSBAND: Zola Gent Ross 1534 WIFE: Albert Gale Michael 1529 
+	KIDS: Ruby Gale Albert 1553 | Yvette Gale Albert 1549 | Rachel Gale Albert 1555
+HUSBAND: Kathryne Gent Ross 1531 WIFE: Brett Morales Timothy 1531 
+	KIDS: null
+HUSBAND: John Gent Ross 1531 WIFE: Tonya Vang Mae 1531 
+	KIDS: Eric Gent John 1555 | Leslie Gent John 1558
+HUSBAND: Erma Gent Ross 1535 WIFE: Michael Quarry Jason 1531 
+	KIDS: Judith Quarry Michael 1551
+HUSBAND: Monica Poon Richard 1545 WIFE: Jimmy Griggs Michael 1548 
+	KIDS: Bonnie Griggs Jimmy 1567 | Dawn Griggs Jimmy 1566 | Loretta Griggs Jimmy 1565
+HUSBAND: David Booker Thomas 1544 WIFE: Mary Law Roberta 1547 
+	KIDS: null
+HUSBAND: Christa Booker Thomas 1539 WIFE: Scott Shinn James 1535 
+	KIDS: Buddy Shinn Scott 1561 | Lael Shinn Scott 1561 | Linda Shinn Scott 1559
+HUSBAND: Jeannette Booker Thomas 1539 WIFE: Jamie Searfoss Matthew 1538 
+	KIDS: null
+HUSBAND: Jean Gent Thomas 1547 WIFE: Brian Bruce William 1547 
+	KIDS: Dorothy Bruce Brian 1568 | Melissa Bruce Brian 1573 | Luis Bruce Brian 1574
+HUSBAND: Jeffrey Gent Thomas 1543 WIFE: Kimberley Morris Susan 1541 
+	KIDS: Kenneth Gent Jeffrey 1567
+HUSBAND: James Gent Francisco 1551 WIFE: Violet Patton Angel 1553 
+	KIDS: John Gent James 1570 | Asia Gent James 1571 | Matthew Gent James 1570
+HUSBAND: Courtney Gent Francisco 1550 WIFE: Maurice Ragan Derek 1545 
+	KIDS: Jerry Ragan Maurice 1571 | William Ragan Maurice 1567 | Maranda Ragan Maurice 1564
+HUSBAND: Russell Miller Mike 1537 WIFE: Charlotte Macri Robyn 1542 
+	KIDS: Magdalena Miller Russell 1562 | Nadia Miller Russell 1563 | Annita Miller Russell 1560 | Jonathan Miller Russell 1559
+HUSBAND: Melanie Miller Mike 1539 WIFE: Steven Mcclure Richard 1537 
+	KIDS: Douglas Mcclure Steven 1556 | Robert Mcclure Steven 1559 | Peggy Mcclure Steven 1559 | Ralph Mcclure Steven 1563
+HUSBAND: Ella Miller Mike 1545 WIFE: Edward Mcdowell Kyle 1547 
+	KIDS: Sally Mcdowell Edward 1568 | Briana Mcdowell Edward 1568 | David Mcdowell Edward 1572 | John Mcdowell Edward 1568
+HUSBAND: Jay Miller Mike 1539 WIFE: Rhonda Dorow Sarah 1544 
+	KIDS: null
+HUSBAND: Michael Miller Mike 1537 WIFE: Norma Wheaton Gabriela 1535 
+	KIDS: null

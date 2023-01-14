@@ -31,4 +31,10 @@ class Family:
         return inherits or 'null'
 
     def __str__(self):
-        return f'{self.husband} + {self.wife} = {self._children()}'
+        return f'HUSBAND: {self.husband} WIFE: {self.wife} \n\tKIDS: {self._children()}'
+
+    def __repr__(self):
+        return f'''
+        Family({self.husband}, {self.wife})
+        Kids: {self._children()}
+        '''
