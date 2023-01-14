@@ -3,6 +3,21 @@
 {% block head %}
 {{ super() }}
 {% endblock %}
+
+{% block cpu%}
+{% if cpu %}
+<form name="cpus" action="/index" method="get">
+    {% for item in cpu %}
+    <input class="mega__item" type="checkbox" name="cpu-item" id="{{ item }}" value="{{ item }}"/>
+    <label class="mega__label" for="{{ item }}">
+        {{ item }}
+    </label>
+    {% endfor %}
+    <input class="mega__submit" type="submit" value="Done">
+</form>
+{% endif %}
+{% endblock %}
+
 {% block content %}
 
 <div class="main__header">
@@ -11,27 +26,28 @@
 
 
 {% if laptops %}
-    <div class="cards">
-        {% for laptop in laptops %}
-            <div class="card">
-                <div class="card__image">
-                    <img class="card__image__img" src="{{url_for('static', filename='img/'+laptop.image )}}" alt="{{ laptop.product_name }}">
-                </div>
-                <div class="card__content">
-                    <h3 class="card__content__header">
-                        {{ laptop.product_name }}
-                    </h3>
-                    <p class="card__content__text">{{ laptop.cpu }}</p>
-                    <p class="card__content__text">{{ laptop.ram }}GB</p>
-                    <p class="card__content__text">{{ laptop.storage }}GB</p>
-                    <p class="card__content__text">{{ laptop.screen }}-inches </p>
-                    <p class="card__content__text">{{ laptop.get_screen_property() }}</p>
-                    <p class="card__content__price">${{ laptop.price }}</p>
-                </div>
-            </div>
-
-        {% endfor %}
+<div class="cards">
+    {% for laptop in laptops %}
+    <div class="card">
+        <div class="card__image">
+            <img class="card__image__img" src="{{url_for('static', filename='img/'+laptop.image )}}"
+                 alt="{{ laptop.product_name }}">
+        </div>
+        <div class="card__content">
+            <h3 class="card__content__header">
+                {{ laptop.product_name }}
+            </h3>
+            <p class="card__content__text">{{ laptop.cpu }}</p>
+            <p class="card__content__text">{{ laptop.ram }}GB</p>
+            <p class="card__content__text">{{ laptop.storage }}GB</p>
+            <p class="card__content__text">{{ laptop.screen }}-inches </p>
+            <p class="card__content__text">{{ laptop.get_screen_property() }}</p>
+            <p class="card__content__price">${{ laptop.price }}</p>
+        </div>
     </div>
+
+    {% endfor %}
+</div>
 {% endif %}
 
 {% endblock %}

@@ -11,7 +11,7 @@ class LaptopsCollection:
         self.price = set()
         self.screen = set()
         self.ram = set()
-        self._cpu = set()
+        self.cpu = set()
         self.storage = set()
 
     def add(self, other: Laptop):
@@ -21,7 +21,7 @@ class LaptopsCollection:
         self.laptops.add(other)
 
         self.price.add(other.price)
-        self._cpu.add(other.cpu)
+        self.cpu.add(other.cpu)
         self.ram.add(other.ram)
         self.storage.add(other.storage)
         self.screen.add(other.screen)

@@ -19,7 +19,9 @@ def index():
     new_laptops = load_db()
     laptops = new_laptops.laptops
     print(laptops)
-    return render_template('index.html', laptops=laptops)
+    filtered = request.form.get('cpus')
+    print(f'{filtered = }')
+    return render_template('index.html', laptops=laptops, cpu=new_laptops.cpu)
 
 
 @app.route('/add', methods=['GET', 'POST'])
@@ -64,8 +66,8 @@ def upload_page():
 @app.route('/cpu')
 @app.route('/cpu.html')
 def filter_cpu():
-    laptops = load_db().filter('cpu')
-    return render_template('index.html', laptops=laptops)
+    laptops = load_db()
+    return render_template('index.html', laptops=laptops.filter('cpu'), cpu=laptops.cpu)
 
 
 @app.route('/ram')

@@ -49,7 +49,6 @@ $dark_font: rgb(40, 40, 40);
   &__item:hover {
     background-color: $dark-font;
     color: lightgrey;
-
   }
 }
 
@@ -154,4 +153,51 @@ $dark_font: rgb(40, 40, 40);
 }
 #submit {
   padding: 5px 40px;
+}
+input[type="checkbox"] {
+
+}
+.mega {
+  &-box {
+    display: none;
+    position: absolute;
+    gap: 5px;
+    background-color: #f2f2f2;
+    padding: 15px;
+
+  }
+  &__opener {
+    position: relative;
+  }
+  &__opener:checked~&-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  &__label {
+    display: block;
+    text-transform: uppercase;
+    color: $dark_font;
+    font-size: 0.8rem;
+    border: 1px solid $dark_font;
+    border-radius: 5px;
+    padding: 5px;
+    &:last-of-type {
+      margin-bottom: 15px;
+    }
+  }
+  &__item {
+    appearance: none;
+  }
+  &__item:checked+&__label{
+    background-color: $dark_font;
+    color: #f2f2f2;
+  }
+
+  &__submit {
+    display: block;
+    margin: 0 auto;
+    padding: 5px;
+    text-transform: capitalize;
+  }
 }

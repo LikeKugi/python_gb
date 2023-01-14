@@ -41,14 +41,14 @@
         <messageID>540</messageID>
         <time>27-11-2022 13:34:50</time>
         <question>When will we watch the game of thrones?</question>
-        <answer />
+        <answer/>
     </article>
     <article>
         <fromUser>184365065</fromUser>
         <messageID>543</messageID>
         <time>27-11-2022 13:35:04</time>
         <question>Why is my bottle empty?</question>
-        <answer />
+        <answer/>
     </article>
     <article>
         <fromUser>178035235</fromUser>
@@ -71,4 +71,18 @@
         <question>были два козла. один серый, другой черный. Сколько?</question>
         <answer>Жак Фреско, залогиньтесь!</answer>
     </article>
-<article><fromUser>178035235</fromUser><messageID>729</messageID><time>22-12-2022 14:45:38</time><question>были два козла. один серый, другой черный. сколько?</question><answer>жак фреско, залогиньтесь!</answer></article><article><fromUser>178035235</fromUser><messageID>752</messageID><time>22-12-2022 14:46:27</time><question>ну так сколько?</question><answer /></article></questions>
+    <article>
+        <fromUser>178035235</fromUser>
+        <messageID>729</messageID>
+        <time>22-12-2022 14:45:38</time>
+        <question>были два козла. один серый, другой черный. сколько?</question>
+        <answer>жак фреско, залогиньтесь!</answer>
+    </article>
+    <article>
+        <fromUser>178035235</fromUser>
+        <messageID>752</messageID>
+        <time>22-12-2022 14:46:27</time>
+        <question>ну так сколько?</question>
+        <answer/>
+    </article>
+</questions>

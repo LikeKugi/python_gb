@@ -20,12 +20,13 @@ def main():
         print(person.kids)
 
 
-class Human(Protocol[_T_co]):
+class Human:
     def __init__(self, name: str, surname: str, patronymic: str, age: int) -> None:
         self.name = name.capitalize()
         self.surname = surname.capitalize()
         self.patronymic = patronymic.capitalize()
         self.age = age
+        print(self)
 
     def marriage(self, pair: Generic[_T_co]):
         raise NotImplemented

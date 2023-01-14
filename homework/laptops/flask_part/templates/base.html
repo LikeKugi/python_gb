@@ -8,7 +8,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
 
     <title>Laptops | {% block title %}{% endblock %}</title>
     {% endblock %}
@@ -21,6 +21,19 @@
             <div class="nav-wrapper">
                 <a href="index" class="nav-wrapper__item">Laptops</a>
                 <a href="cpu" class="nav-wrapper__item">CPU</a>
+                <div class="nav-wrapper__item">
+                    <label for="cpu">
+                        CPU
+                        <input class="mega__opener" type="checkbox" name="cpu" id="cpu" />
+
+                        <div class="mega-box">
+                            {% block cpu %} {% endblock %}
+                        </div>
+                    </label>
+
+
+
+                </div>
                 <a href="ram" class="nav-wrapper__item">RAM</a>
                 <a href="storage" class="nav-wrapper__item">Storage</a>
                 <a href="inches" class="nav-wrapper__item">inches</a>
