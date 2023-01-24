@@ -19,8 +19,10 @@ def index():
     new_laptops = load_db()
     laptops = new_laptops.laptops
     print(laptops)
-    filtered = request.form.get('cpus')
-    print(f'{filtered = }')
+    if request.method == 'GET':
+        print(request.form)
+        filtered = request.form.get('cpu')
+        print(f'{filtered = }')
     return render_template('index.html', laptops=laptops, cpu=new_laptops.cpu)
 
 
@@ -63,9 +65,13 @@ def upload_page():
     return render_template('add.html', form=form)
 
 
-@app.route('/cpu')
-@app.route('/cpu.html')
+@app.route('/cpu', methods=['GET', 'POST'])
+@app.route('/cpu.html', methods=['GET', 'POST'])
 def filter_cpu():
+    filtered = request.form.getlist('cpu')
+    print(f'{filtered = }')
+    filtered = request.data
+    print(f'{filtered = }')
     laptops = load_db()
     return render_template('index.html', laptops=laptops.filter('cpu'), cpu=laptops.cpu)
 

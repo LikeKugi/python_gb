@@ -6,14 +6,15 @@
 
 {% block cpu%}
 {% if cpu %}
-<form name="cpus" action="/index" method="get">
+<!-- {{ url_for('filter_cpu') }}  -->
+<form action="" method="get">
     {% for item in cpu %}
-    <input class="mega__item" type="checkbox" name="cpu-item" id="{{ item }}" value="{{ item }}"/>
+    <input class="mega__item" type="checkbox" name="cpu" id="{{ item }}" value="{{ item }}"/>
     <label class="mega__label" for="{{ item }}">
         {{ item }}
     </label>
     {% endfor %}
-    <input class="mega__submit" type="submit" value="Done">
+    <input class="mega__submit" type="submit" value="Filter">
 </form>
 {% endif %}
 {% endblock %}
