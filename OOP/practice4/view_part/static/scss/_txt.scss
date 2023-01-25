@@ -1,7 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
 
-body {
+body, button, input {
   font-family: 'Lato', sans-serif;
   font-size: 14px;
   font-weight: 400;
+  letter-spacing: .1rem;
+  line-height: 18px;
+}
+
+@mixin txt-norm($fs) {
+  font-weight: 400;
+  font-size: $fs;
+  line-height: $fs * 1.25;
+}
+
+@mixin txt-thin($fs) {
+  font-weight: 300;
+  font-size: $fs;
+  line-height: $fs * 1.25;
+}
+
+.link {
+  text-decoration: none;
+  color: $light-gray;
+  @include txt-thin(1.2rem);
+
+  &:hover {
+    text-decoration: none;
+    color: $white;
+  }
+
+  &:active {
+    outline: 2px solid $blue;
+  }
 }

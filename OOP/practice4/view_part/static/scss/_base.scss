@@ -1,5 +1,10 @@
 *, *::before, *::after {
   box-sizing: border-box;
+  transition: all .2s;
+}
+
+body {
+  background-color: $dark-color;
 }
 
 .page {
@@ -10,5 +15,26 @@
   }
   &-main {
     flex-grow: 1;
+  }
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 23px;
+  text-transform: uppercase;
+  cursor: pointer;
+  &:hover {
+    background-color: $gray;
+    color: $white;
+    outline: 1px solid $blue-dark;
+  }
+  &:active {
+    outline: 1px solid $blue;
   }
 }

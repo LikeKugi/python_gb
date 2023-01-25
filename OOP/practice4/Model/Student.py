@@ -10,7 +10,7 @@ if TYPE_CHECKING:
 
 class Student(User):
     _year: int
-    _klass: Klass
+    _klass: Klass | None = None
 
     def __init__(self, *, id: int, name: str, year: int, lessons: list[str] | None = None):
         super().__init__(id, name)

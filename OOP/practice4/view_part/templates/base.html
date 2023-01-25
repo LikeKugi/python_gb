@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 
 <head>
     {% block head %}
@@ -8,14 +8,28 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/reset.css') }}" />
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
 
+    <script defer src="{{ url_for('static', filename='js/script.js') }}"></script>
     <title>Lessons | {% block title %}{% endblock %}</title>
     {% endblock %}
 </head>
 
 <body>
 <div class="page-content">
+    <div class="header">
+        <div class="container">
+            <div class="header__box">
+                <div class="header__box-links">
+                    <a href="students.html" class="link header__link">Ученики</a>
+                    <a href="klasses.html" class="link header__link">Классы</a>
+                </div>
+                {% block login %}
+                {% endblock %}
+            </div>
+        </div>
+    </div>
 
 
     <div class="page-main">
@@ -30,7 +44,7 @@
     <div class="footer">
         <div class="container footer__content">
             {% block footer %}
-            &copy; NoCopyright by <a class="footer__link" href="index.html">Lessons</a>.
+            <p class="footer__text">&copy; NoCopyright by <a class="link footer__link" href="index.html">OOP Lessons</a></p>.
             {% endblock %}
         </div>
     </div>

@@ -9,16 +9,16 @@ class Klass:
 
     def __init__(self, year):
         self.year = year
-        self.students: list[Student] = []
+        self.students: list['Student'] = []
         self.lessons: dict[str, Teacher] = {}
         self.teachers: list[Teacher] = []
 
-    def create_lesson(self, lesson, teacher: Teacher) -> None:
+    def create_lesson(self, lesson, teacher: 'Teacher') -> None:
         if self.check_for_str(lesson):
             self.lessons.setdefault(lesson, teacher)
         self.teachers.append(teacher)
 
-    def append(self, unit: Student) -> None:
+    def append(self, unit: 'Student') -> None:
         self.students.append(unit)
 
     @staticmethod
