@@ -1,0 +1,32 @@
+.box-students {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.student {
+  width: 100%;
+  max-width: 375px;
+  padding: 10px;
+
+  background-color: $light-gray;
+  border: 1px solid $dark-gray;
+  border-radius: 10px;
+
+  color: $dark-color;
+
+  .save-btn {
+    display: block;
+    margin: 10px auto;
+    padding: 5px 10px;
+  }
+
+  label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px dotted $gray;
+  }
+  &>*>* {
+    margin-bottom: 5px;
+  }
+}

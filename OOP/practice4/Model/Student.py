@@ -38,10 +38,7 @@ class Student(User):
 
     @klass.setter
     def klass(self, value):
-        if type(value) == Klass:
-            self._klass = value
-        else:
-            raise TypeError(f'{value} should be type of Klass')
+        self._klass = value
 
     def add_lesson(self, value):
         if self.check_for_str(value):
@@ -49,7 +46,7 @@ class Student(User):
 
     def get_grade(self, lesson: str, grade: int):
         if self.check_for_str(lesson) and isinstance(grade, int) and 0 <= grade <= 5:
-            self.grades.setdefault(lesson, grade)
+            self.grades[lesson] = grade
         else:
             raise TypeError(f'{grade} should be instance of int and 0 <= {grade} <= 5')
 
@@ -66,10 +63,3 @@ class Student(User):
 
     def __repr__(self) -> str:
         return f'{self.__class__.__name__}({self.id}, {self.name}, {self.year}, {self.grades})'
-
-
-if __name__ == '__main__':
-    student = Student(id=0, name='John', year=1975)
-
-    print(student)
-    print(datetime.today().year)

@@ -1,15 +1,17 @@
 const loginBtn = document.querySelector("#login");
-const contentList = document.querySelector("#content")
+const saveBtn = document.querySelectorAll('.save-btn');
 
-loginBtn.addEventListener("click", fname);
+const gradesInp = document.querySelectorAll('.grade');
+const namesInp = document.querySelectorAll('.sname');
+const tested = document.querySelector('#test-info')
 
 loginBtn.addEventListener("click", changeStateNext);
 
 const users = {
-    current: 0,
-    0:'Admin',
+    current: 3,
+    0:'Student',
     1:'Teacher',
-    2:'Student',
+    2:'Admin',
     3:'Login',
     currentNext() {
         this.current = (this.current + 1) % 4;
@@ -21,17 +23,36 @@ const users = {
     },
 };
 
-function fname() {
-    console.log('works');
-    contentList.innerHTML += '<li>works</li>';
-}
-
 function changeStateNext(e) {
     if (e.ctrlKey) {
         loginBtn.textContent = users[users.currentPrev()];
+        permissions();
     } else {
-
         loginBtn.textContent = users[users.currentNext()];
+        permissions();
     }
+}
 
+function permissions() {
+    switch (users.current) {
+        case 0:
+        case 3:
+            namesInp.forEach( element => element.disabled = true);
+            gradesInp.forEach( element => element.disabled = true);
+            saveBtn.forEach( element => element.disabled = true);
+            console.log(users.current)
+            break;
+        case 1:
+            namesInp.forEach( element => element.disabled = true);
+            gradesInp.forEach( element => element.disabled = false);
+            saveBtn.forEach( element => element.disabled = false);
+            console.log(users.current)
+            break
+        case 2:
+            namesInp.forEach( element => element.disabled = false);
+            gradesInp.forEach( element => element.disabled = false);
+            saveBtn.forEach( element => element.disabled = false);
+            console.log(users.current)
+            break
+    }
 }

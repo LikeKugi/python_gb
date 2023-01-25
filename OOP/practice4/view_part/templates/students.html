@@ -7,3 +7,58 @@
 {% block login %}
     <button class="btn" id="login">login</button>
 {% endblock %}
+
+{% block content %}
+
+
+{% if klass %}
+
+<div class="title-box">
+    <h2 class="title">{{ klass.year }}</h2>
+</div>
+
+<p id="test-info">
+    test
+</p>
+
+<div class="box-students">
+    {% for s_id, student in klass.students.items() %}
+    <div class="student">
+
+        <form method="post">
+
+            <h3 class="student__name">ID: {{ s_id }}</h3>
+            <div class="student__year">YEAR: {{ student.year }}</div>
+
+            <div class="student__id">
+                <label for="{{ student.name }}">
+                    <span class="label-text">NAME:</span>
+                    <input class="sname" type="text" name="name" id="{{ student.name }}" value="{{ student.name }}" disabled>
+                </label>
+
+            </div>
+
+            <ul class="student__lessons">
+                {% for lesson, mark in student.grades.items() %}
+                    <li class="student__lesson">
+
+                        <label for="{{ lesson }}">
+                            <span class="label-text">LESSON: {{ lesson }}:</span>
+                            <input class="grade" type="number" name="{{ lesson }}" id="{{ lesson }}" min="0" max="5" value="{{ mark }}" disabled>
+                        </label>
+                    </li>
+                {% endfor %}
+            </ul>
+            <input type="hidden" name="id" value="{{ student.id }}">
+            <input class="save-btn" type="submit" value="СОХРАНИТЬ" disabled>
+
+        </form>
+
+    </div>
+    {% endfor %}
+</div>
+
+{% endif %}
+
+
+{% endblock %}

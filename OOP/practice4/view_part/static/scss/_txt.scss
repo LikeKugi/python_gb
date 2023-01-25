@@ -34,3 +34,13 @@ body, button, input {
     outline: 2px solid $blue;
   }
 }
+
+.title {
+  &-box {
+    padding: 25px 0;
+  }
+  @include txt-thin(1.5rem);
+  text-transform: uppercase;
+  text-align: center;
+  color: $white;
+}

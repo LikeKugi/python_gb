@@ -5,9 +5,30 @@
 {% endblock %}
 
 {% block login %}
-    <button class="btn" id="login">login</button>
+<button class="btn" id="login">login</button>
 {% endblock %}
 
 {% block content %}
-    <ul id="content"></ul>
+{% if klass %}
+
+    <div class="title-box">
+        <h2 class="title">{{ klass.year }}</h2>
+    </div>
+
+    <div class="box-students">
+        {% for s_id, student in klass.students.items() %}
+        <div class="student">
+            <h3 class="student__name">NAME: {{ student.name }}</h3>
+            <p class="student__id">ID: {{ s_id }}</p>
+            <p class="student__year">YEAR: {{ student.year }}</p>
+            <ul class="student__lessons">
+                {% for lesson, mark in student.grades.items() %}
+                <li class="student__lesson">LESSON: {{ lesson }} <span class="student__grade">{{ mark }}</span></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+    </div>
+
+{% endif %}
 {% endblock %}
