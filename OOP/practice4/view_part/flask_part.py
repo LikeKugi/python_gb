@@ -53,7 +53,6 @@ def students():
 @app.route('/klasses.html', methods=['GET', 'POST'])
 def klasses():
     klasses = read_file(path='storage/klasses.bin')
-    print(klasses)
     return render_template('klasses.html', klass=klasses)
 
 @app.route('/opportunities', methods=['GET', 'POST'])
@@ -62,7 +61,6 @@ def opportunities():
     klasses = read_file(path='storage/klasses.bin')
     if request.method == "POST":
         req_option = request.form['options']
-        print(req_option)
         match req_option:
             case 'add':
                 student = create_student()
@@ -71,7 +69,6 @@ def opportunities():
                 create_json(klasses.students)
             case 'del':
                 req_del = request.form['student']
-                print(f'{req_del = }')
                 del_student(int(req_del))
             case _:
                 print('smth wrong')

@@ -36,7 +36,6 @@ def create_student(*, path=PATH_KLASSES, id: int | None = None, name=None, year=
             id = list(students.keys())[-1] + 1
         else:
             id = 0
-    print(f'{id = }; {id = }')
     _student = _create_new_student(id=id, name=name, year=year, lessons=lessons)
 
     return _student

@@ -12,7 +12,6 @@ def create_teacher(*, id: int = 0, name: str | None = None, lesson='Math'):
     if not name:
         name = names.get_first_name(gender='male')
     joe = Teacher(id=id, name=name, lesson=lesson)
-    print(joe)
     return joe
 
 

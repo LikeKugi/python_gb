@@ -12,7 +12,6 @@ def update_student(student: dict):
 
     current = klass.students.get(res_id)
 
-    print(f'{current = }')
 
     if student.get('name'):
         current.name = student.get('name')
@@ -20,8 +19,6 @@ def update_student(student: dict):
     for lesson, grade in res_grades.items():
         print(lesson, grade, type(grade))
         current.get_grade(lesson, int(grade))
-
-    print(f'AFTER: {current = }')
 
     klass.append(current)
     create_file(klass, path=PATH_KLASSES)

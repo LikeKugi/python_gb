@@ -24,7 +24,6 @@ def create_random_klass(*, year=YEAR, lessons=LESSONS):
         else:
             _id = 0
         student = create_student(id=_id, year=year, lessons=LESSONS)
-        print(student)
         klass.append(student)
 
     teachers = []
@@ -38,7 +37,7 @@ def create_random_klass(*, year=YEAR, lessons=LESSONS):
     klass.study()
 
     create_klass_list(klass=klass)
-    print(klass)
+
 
 
 def create_klass_list(klass: Klass, path=PATH_KLASSES):

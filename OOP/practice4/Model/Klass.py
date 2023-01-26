@@ -28,7 +28,6 @@ class Klass:
     def study(self):
         for index, student in self.students.items():
             self.add_student_lessons(student)
-            print(student.grades)
 
     def add_student_lessons(self, unit: 'Student'):
         for lesson in self.lessons:
