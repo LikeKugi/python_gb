@@ -43,3 +43,21 @@ a {
     outline: 1px solid $blue;
   }
 }
+.global {
+  padding: 20px 0;
+  margin-bottom: 20px;
+  color: $white;
+  border-bottom: 2px solid $gray;
+  &__title {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 2rem;
+    text-transform: uppercase;
+  }
+  &__list {
+    padding-left: 15px;
+    li {
+      margin-bottom: 10px;
+    }
+  }
+}

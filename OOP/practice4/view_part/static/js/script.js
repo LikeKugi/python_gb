@@ -3,7 +3,8 @@ const saveBtn = document.querySelectorAll('.save-btn');
 
 const gradesInp = document.querySelectorAll('.grade');
 const namesInp = document.querySelectorAll('.sname');
-const tested = document.querySelector('#test-info')
+const greeting = document.querySelector('#g-title');
+const variants = document.querySelector('#g-list');
 
 loginBtn.addEventListener("click", changeStateNext);
 
@@ -23,6 +24,19 @@ const users = {
     },
 };
 
+const availableVariants = {
+    0: '<li>Посмотреть оценки</li>',
+    1: '<li>Посмотреть оценки</li><li>Редактировать оценки</li>',
+    2: '<li>Посмотреть оценки</li><li>Редактировать оценки</li><li>Редактировать студентов</li>',
+    3: '<li>LOGIN</li>',
+}
+const availableGreetings = {
+    0:'Привет, студент',
+    1:'Привет, учитель',
+    2:'Привет, администратор',
+    3:'Привет, незнакомец',
+}
+
 function changeStateNext(e) {
     if (e.ctrlKey) {
         loginBtn.textContent = users[users.currentPrev()];
@@ -31,6 +45,9 @@ function changeStateNext(e) {
         loginBtn.textContent = users[users.currentNext()];
         permissions();
     }
+    loginBtn.value = users.current;
+    greeting.innerHTML = availableGreetings[users.current];
+    variants.innerHTML = availableVariants[users.current];
 }
 
 function permissions() {

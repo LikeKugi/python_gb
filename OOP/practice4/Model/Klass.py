@@ -22,12 +22,17 @@ class Klass:
     def append(self, unit: 'Student') -> None:
         self.students.update({unit.id: unit})
         unit.klass = self
+        if self.lessons:
+            self.add_student_lessons(unit)
 
     def study(self):
         for index, student in self.students.items():
-            for lesson in self.lessons:
-                student.add_lesson(lesson)
+            self.add_student_lessons(student)
             print(student.grades)
+
+    def add_student_lessons(self, unit: 'Student'):
+        for lesson in self.lessons:
+            unit.add_lesson(lesson)
 
     @staticmethod
     def check_for_str(value) -> bool:

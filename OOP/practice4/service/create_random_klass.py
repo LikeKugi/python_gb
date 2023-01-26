@@ -1,6 +1,6 @@
 from typing import TYPE_CHECKING
 
-from .create_students import create_student, create_student_list
+from .create_students import create_student
 from .create_teachers import create_teacher, create_teacher_list
 
 from Model import Klass
@@ -18,10 +18,13 @@ PATH_KLASSES = 'storage/klasses.bin'
 def create_random_klass(*, year=YEAR, lessons=LESSONS):
     klass = Klass(year)
 
-    students = []
     for i in range(15):
-        student = create_student(year=year, lessons=LESSONS)
-        students.append(student)
+        if klass.students:
+            _id = list(klass.students.keys())[-1] + 1
+        else:
+            _id = 0
+        student = create_student(id=_id, year=year, lessons=LESSONS)
+        print(student)
         klass.append(student)
 
     teachers = []

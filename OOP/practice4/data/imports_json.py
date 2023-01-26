@@ -13,8 +13,15 @@ def open_json(path=PATH) -> json:
 
 
 def create_json(new_data: dict, path=PATH):
-    data = open_json(path)
-    data.append(new_data)
-
+    jsoned = {i: s.toJSON() for i, s in new_data.items()}
     with open(path, 'w') as ouf:
-        json.dump(data, ouf)
+        json.dump(jsoned, ouf)
+
+
+def update_json(new_data: dict, path=PATH):
+    try:
+        data = open_json(path)
+    except FileNotFoundError:
+        data = {}
+    data.update(new_data)
+    create_json(data)

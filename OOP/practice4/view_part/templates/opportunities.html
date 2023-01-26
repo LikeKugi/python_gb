@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}main{% endblock %}
+{% block head %}
+{{ super() }}
+<script defer src="{{ url_for('static', filename='js/options.js') }}"></script>
+{% endblock %}
+
+{% block login %}
+<button class="btn" id="login">login</button>
+{% endblock %}
+
+{% block content %}
+<form class="options" action="opportunities.html" method="post">
+
+    <div class="option__box">
+        <label class="option__label" for="export">
+            <input class="option__radio opt-inp" type="radio" name="options" id="export" value="export">
+            EXPORT STUDENTS
+        </label>
+    </div>
+
+    <div class="option__box">
+        <label class="option__label" for="add_student">
+            <input class="option__radio opt-inp" type="radio" name="options" id="add_student" value="add" disabled>
+            ADD STUDENT
+        </label>
+    </div>
+
+    <div class="option__box">
+        <label class="option__label" for="del_student">
+            <input class="option__radio opt-inp" type="radio" name="options" id="del_student" value="del" disabled>
+            DEL STUDENT
+        </label>
+    </div>
+
+    {% if klass %}
+    <div class="option__box select-box">
+        <label class="option__select-label" for="delete">
+            Выберите студента, чтобы удалить
+        </label>
+        <select class="option__select opt-inp" name="student" id="delete" disabled>
+            <option value="-1" selected>Выберите студента</option>
+            {% for s_id, student in klass.students.items() %}
+            <option value="{{ s_id }}">ID: {{ s_id }} NAME: {{ student.name }}</option>
+            {% endfor %}
+        </select>
+    </div>
+    {% endif %}
+    <input type="hidden" name="options">
+    <input class="option__submit" type="submit" value="Сделать">
+</form>
+{% endblock %}

@@ -50,6 +50,14 @@ class Student(User):
         else:
             raise TypeError(f'{grade} should be instance of int and 0 <= {grade} <= 5')
 
+    def toJSON(self):
+        return {
+            'id': self.id,
+            'name': self.name,
+            'year': self.year,
+            'grades': self.grades
+        }
+
     def __eq__(self, other: Student) -> bool:
         if type(other) == Student:
             return (self.id == other.id and self.name == other.name

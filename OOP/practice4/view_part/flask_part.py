@@ -1,7 +1,7 @@
 from flask import Flask, render_template, redirect, url_for, request
 from werkzeug.datastructures import ImmutableMultiDict
-from service import create_student, create_teacher, update_student
-from data import read_file
+from service import create_student, create_teacher, update_student, add_student_to_klass, del_student
+from data import read_file, create_json
 
 # ------------------------------------------------------------------------
 # app config
@@ -45,7 +45,7 @@ def students():
         if res_name:
             result.update({'name': res_name})
         update_student(result)
-
+    klasses = read_file(path='storage/klasses.bin')
     return render_template('students.html', klass=klasses)
 
 
@@ -55,3 +55,25 @@ def klasses():
     klasses = read_file(path='storage/klasses.bin')
     print(klasses)
     return render_template('klasses.html', klass=klasses)
+
+@app.route('/opportunities', methods=['GET', 'POST'])
+@app.route('/opportunities.html', methods=['GET', 'POST'])
+def opportunities():
+    klasses = read_file(path='storage/klasses.bin')
+    if request.method == "POST":
+        req_option = request.form['options']
+        print(req_option)
+        match req_option:
+            case 'add':
+                student = create_student()
+                add_student_to_klass(student)
+            case 'export':
+                create_json(klasses.students)
+            case 'del':
+                req_del = request.form['student']
+                print(f'{req_del = }')
+                del_student(int(req_del))
+            case _:
+                print('smth wrong')
+    klasses = read_file(path='storage/klasses.bin')
+    return render_template('opportunities.html', klass=klasses)

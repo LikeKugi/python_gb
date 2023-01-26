@@ -1,0 +1,42 @@
+.option {
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
+
+  &__box {
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: $light-gray;
+    border: 1px solid $dark-gray;
+  }
+
+  &__label {
+    display: block;
+    padding: 7px;
+    cursor: pointer;
+
+    &:hover {
+      outline: 1px solid $blue;
+    }
+  }
+
+  &__submit {
+    display: block;
+    margin: 10px auto;
+    padding: 5px 15px;
+    text-transform: uppercase;
+  }
+
+  &__select {
+    width: 100%;
+
+    &-label {
+      display: block;
+      margin: 0 auto 10px;
+    }
+  }
+}
+
+.select-box {
+  padding: 5px 10px;
+}

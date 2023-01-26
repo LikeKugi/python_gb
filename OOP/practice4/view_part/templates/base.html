@@ -25,6 +25,7 @@
                     <a href="index.html" class="link header__link">Главная</a>
                     <a href="students.html" class="link header__link">Ученики</a>
                     <a href="klasses.html" class="link header__link">Классы</a>
+                    <a href="opportunities.html" class="link header__link">Действия</a>
                 </div>
                 {% block login %}
                 {% endblock %}
@@ -36,6 +37,12 @@
     <div class="page-main">
         <div class="main">
             <div class="container">
+                <div class="global">
+                    <h1 class="global__title" id="g-title">Привет, незнакомец</h1>
+                    <ul class="global__list" id="g-list">
+                        <li>LOGIN</li>
+                    </ul>
+                </div>
                 {% block content %}{% endblock %}
             </div>
         </div>
