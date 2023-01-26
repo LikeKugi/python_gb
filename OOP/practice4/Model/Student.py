@@ -62,12 +62,12 @@ class Student(User):
         if type(other) == Student:
             return (self.id == other.id and self.name == other.name
                     and self.year == other.name and self.grades == other.grades)
-        raise NotImplemented
+        return NotImplemented
 
     def __lt__(self, other: Student) -> bool:
         if type(other) == Student:
             return (self.grades < other.grades) and (self.name != other.name)
-        raise NotImplemented
+        return NotImplemented
 
     def __repr__(self) -> str:
         return f'{self.__class__.__name__}({self.id}, {self.name}, {self.year}, {self.grades})'

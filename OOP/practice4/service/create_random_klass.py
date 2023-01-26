@@ -39,6 +39,5 @@ def create_random_klass(*, year=YEAR, lessons=LESSONS):
     create_klass_list(klass=klass)
 
 
-
 def create_klass_list(klass: Klass, path=PATH_KLASSES):
     create_file(klass, path=path)

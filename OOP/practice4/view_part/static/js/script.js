@@ -29,13 +29,13 @@ const availableVariants = {
     1: '<li>Посмотреть оценки</li><li>Редактировать оценки</li>',
     2: '<li>Посмотреть оценки</li><li>Редактировать оценки</li><li>Редактировать студентов</li>',
     3: '<li>LOGIN</li>',
-}
+};
 const availableGreetings = {
     0:'Привет, студент',
     1:'Привет, учитель',
     2:'Привет, администратор',
     3:'Привет, незнакомец',
-}
+};
 
 function changeStateNext(e) {
     if (e.ctrlKey) {
@@ -64,12 +64,12 @@ function permissions() {
             gradesInp.forEach( element => element.disabled = false);
             saveBtn.forEach( element => element.disabled = false);
             console.log(users.current)
-            break
+            break;
         case 2:
             namesInp.forEach( element => element.disabled = false);
             gradesInp.forEach( element => element.disabled = false);
             saveBtn.forEach( element => element.disabled = false);
             console.log(users.current)
-            break
+            break;
     }
 }

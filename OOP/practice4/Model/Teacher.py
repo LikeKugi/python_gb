@@ -21,12 +21,12 @@ class Teacher(User):
         if type(other) == Teacher:
             return (self.id == other.id and self.name == other.name
                     and self.lesson == other.lesson and self.klasses == other.klasses)
-        raise NotImplemented
+        return NotImplemented
 
     def __lt__(self, other: Teacher) -> bool:
         if type(other) == Teacher:
             return (self.id < other.id) and (self.name != other.name) and (self.klasses != other.klasses)
-        raise NotImplemented
+        return NotImplemented
 
     def __repr__(self) -> str:
         return f'{self.__class__.__name__}({self.id}, {self.name}, {self.lesson})'

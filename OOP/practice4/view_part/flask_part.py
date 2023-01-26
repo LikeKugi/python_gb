@@ -1,5 +1,4 @@
-from flask import Flask, render_template, redirect, url_for, request
-from werkzeug.datastructures import ImmutableMultiDict
+from flask import Flask, render_template, request
 from service import create_student, create_teacher, update_student, add_student_to_klass, del_student
 from data import read_file, create_json
 
@@ -17,9 +16,9 @@ PATH_STUDENTS = 'storage/students.bin'
 PATH_KLASSES = 'storage/klasses.bin'
 
 
-@app.route('/', methods=['GET', 'POST'])
-@app.route('/index', methods=['GET', 'POST'])
-@app.route('/index.html', methods=['GET', 'POST'])
+@app.route('/', methods=['GET'])
+@app.route('/index', methods=['GET'])
+@app.route('/index.html', methods=['GET'])
 def index():
     return render_template('index.html')
 
@@ -27,7 +26,6 @@ def index():
 @app.route('/students', methods=['GET', 'POST'])
 @app.route('/students.html', methods=['GET', 'POST'])
 def students():
-    klasses = read_file(path='storage/klasses.bin')
 
     if request.method == "POST":
         res_id = request.form['id']
@@ -54,6 +52,7 @@ def students():
 def klasses():
     klasses = read_file(path='storage/klasses.bin')
     return render_template('klasses.html', klass=klasses)
+
 
 @app.route('/opportunities', methods=['GET', 'POST'])
 @app.route('/opportunities.html', methods=['GET', 'POST'])
