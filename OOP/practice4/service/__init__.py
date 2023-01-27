@@ -4,3 +4,4 @@ from .create_random_klass import create_random_klass
 from .update_student import update_student
 from .add_student_to_klass import add_student_to_klass
 from .del_student import del_student
+from .add_teacher_to_klass import add_teacher_to_klass

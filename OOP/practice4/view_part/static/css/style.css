@@ -74,8 +74,8 @@ body, button, input {
   text-decoration: none;
   color: #a2a2a2;
   font-weight: 300;
-  font-size: 1.2rem;
-  line-height: 1.5rem;
+  font-size: 1rem;
+  line-height: 1.25rem;
 }
 .link:hover {
   text-decoration: none;
@@ -208,6 +208,25 @@ body, button, input {
 
 .select-box {
   padding: 5px 10px;
+}
+
+.box-teachers {
+  padding: 15px 0;
+}
+
+.teacher {
+  padding: 20px 40px;
+  margin-bottom: 15px;
+  background-color: #a2a2a2;
+  border: 1px solid #2f2f2f;
+  border-radius: 5px;
+}
+.teacher__name {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+.teacher__name span {
+  text-align: right;
 }
 
 /*# sourceMappingURL=style.css.map */

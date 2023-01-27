@@ -33,6 +33,12 @@ class Klass:
         for lesson in self.lessons:
             unit.add_lesson(lesson)
 
+    def add_teacher(self, unit: 'Teacher'):
+        self.teachers.append(unit)
+        self.lessons.update({unit.lesson: unit})
+        for student in self.students.values():
+            student.add_lesson(unit.lesson)
+
     @staticmethod
     def check_for_str(value) -> bool:
         if isinstance(value, str):

@@ -23,7 +23,7 @@ body, button, input {
 .link {
   text-decoration: none;
   color: $light-gray;
-  @include txt-thin(1.2rem);
+  @include txt-thin(1rem);
 
   &:hover {
     text-decoration: none;

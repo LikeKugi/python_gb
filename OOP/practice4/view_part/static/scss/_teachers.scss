@@ -1,0 +1,22 @@
+.box-teachers {
+  padding: 15px 0;
+}
+.teacher{
+  padding: 20px 40px;
+  margin-bottom: 15px;
+
+  background-color: $light-gray;
+  border: 1px solid $dark-gray;
+  border-radius: 5px;
+  &__name {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    span {
+      text-align: right;
+    }
+  }
+  &__lesson {
+
+  }
+
+}

@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
-from service import create_student, create_teacher, update_student, add_student_to_klass, del_student
+from service import create_student, create_teacher, update_student, add_student_to_klass, del_student, \
+    add_teacher_to_klass
 from data import read_file, create_json
 
 # ------------------------------------------------------------------------
@@ -26,7 +27,6 @@ def index():
 @app.route('/students', methods=['GET', 'POST'])
 @app.route('/students.html', methods=['GET', 'POST'])
 def students():
-
     if request.method == "POST":
         res_id = request.form['id']
         res_grades = {}
@@ -54,6 +54,21 @@ def klasses():
     return render_template('klasses.html', klass=klasses)
 
 
+@app.route('/teachers', methods=['GET', 'POST'])
+@app.route('/teachers.html', methods=['GET', 'POST'])
+def teachers():
+    klasses = read_file(path='storage/klasses.bin')
+    return render_template('teachers.html', klass=klasses)
+
+
+@app.route('/performance', methods=['GET', 'POST'])
+@app.route('/performance.html', methods=['GET', 'POST'])
+def performance():
+    klasses = read_file(path='storage/klasses.bin')
+    students = sorted(klasses.students.values(), key=lambda x: sum([el or 0 for el in x.grades.values()] ) / len(x.grades.values()) ,reverse=True)
+    return render_template('performance.html', students=students)
+
+
 @app.route('/opportunities', methods=['GET', 'POST'])
 @app.route('/opportunities.html', methods=['GET', 'POST'])
 def opportunities():
@@ -64,6 +79,10 @@ def opportunities():
             case 'add':
                 student = create_student()
                 add_student_to_klass(student)
+            case 'teacher':
+                req_lesson = request.form['new_lesson']
+                teacher = create_teacher(lesson=req_lesson)
+                add_teacher_to_klass(teacher)
             case 'export':
                 create_json(klasses.students)
             case 'del':

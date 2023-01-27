@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Учителя{% endblock %}
+{% block head %}
+{{ super() }}
+{% endblock %}
+
+{% block login %}
+<button class="btn" id="login">login</button>
+{% endblock %}
+
+{% block content %}
+{% if klass %}
+
+<div class="title-box">
+  <h2 class="title">{{ klass.year }}</h2>
+</div>
+
+<div class="box-teachers">
+  {% for teacher in klass.teachers %}
+  <div class="teacher">
+    <h3 class="teacher__name">NAME: <span>{{ teacher.name }}</span></h3>
+    <p class="teacher__lesson">LESSON: <span>{{ teacher.lesson }}</span></p>
+  </div>
+  {% endfor %}
+</div>
+
+{% endif %}
+{% endblock %}
