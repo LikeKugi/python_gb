@@ -1,0 +1,82 @@
+.main {
+  margin-bottom: 2rem;
+  &__title {
+    padding: 20px 0;
+    font-size: 1.4rem;
+  }
+  &__box {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 675px;
+    padding: 20px 15px;
+    border: 1px solid $gray-dark;
+    background-color: $gray-light;
+    border-radius: 15px;
+
+    -webkit-box-shadow: 0 0 18px 12px $background-shadow;
+    -moz-box-shadow: 0 0 18px 12px $background-shadow;
+    box-shadow: 0 0 18px 12px $background-shadow;
+  }
+}
+.calc {
+  &__expression {
+    margin-bottom: 20px;
+    padding: 10px 0;
+    border-bottom: 1px dotted $gray-dark;
+  }
+  &__box-input{
+    margin-bottom: 30px;
+  }
+  &__input{
+    &-label {
+      margin-bottom: 5px;
+    }
+    &-area {
+      display: block;
+      width: 100%;
+      padding: 0.5rem 1rem;
+      outline: 1px solid $black;
+      background-color: $white;
+      font-size: 2.5rem;
+      line-height: 2.5rem;
+      font-family: 'JetBrains Mono', monospace;
+      text-align: right;
+    }
+  }
+
+  &__controls {
+    margin-bottom: 30px;
+  }
+
+  &__numbers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+    gap: 10px;
+  }
+  &__operators {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  &__btn {
+    width: calc(33% - 20px);
+  }
+}
+#expression {
+  font-size: 1.5rem;
+  font-family: 'JetBrains Mono', monospace;
+  text-align: right;
+}
+#out-expression {
+  margin-bottom: 20px;
+  padding: 5px;
+  width: 100%;
+  text-align: right;
+  background-color: $white;
+  border: 1px solid $gray-dark;
+  border-radius: 5px;
+}

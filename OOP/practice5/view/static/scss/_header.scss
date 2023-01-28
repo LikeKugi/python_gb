@@ -1,0 +1,12 @@
+.header {
+  padding: 15px 0;
+  margin-bottom: 20px;
+
+  background-color: $gray;
+  &__title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    color: $black;
+  }
+}

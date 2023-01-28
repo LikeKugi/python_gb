@@ -1,0 +1,17 @@
+.history {
+  margin-bottom: 2rem;
+
+  &__title {
+    padding: 20px 0;
+    font-size: 1.4rem;
+  }
+  &__list {
+    padding-left: 2rem;
+  }
+  &__item {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+    line-height: 1.1rem;
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
