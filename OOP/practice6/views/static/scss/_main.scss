@@ -1,0 +1,9 @@
+.main {
+  padding: 2rem 0;
+  &__title {
+    text-align: center;
+    text-transform: uppercase;
+    @include txt-title(2.5rem);
+    color: $dark-color;
+  }
+}

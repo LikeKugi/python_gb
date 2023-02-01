@@ -1,0 +1,48 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $gray-light;
+}
+
+.page {
+  &-content {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  &-main {
+    flex-grow: 1;
+    padding-bottom: 50px;
+  }
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.box {
+  padding: 1.5rem 2rem;
+  background-color: $white;
+  border: 1px solid $gray-dark;
+  border-radius: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 23px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all .2s;
+  &:hover {
+    background-color: $gray;
+    color: $white;
+    outline: 1px solid $blue-dark;
+  }
+  &:active {
+    outline: 1px solid $blue;
+  }
+}

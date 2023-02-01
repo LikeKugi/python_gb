@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap');
+
+body, input, button {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+@mixin txt-title($fz) {
+  font-size: $fz;
+  line-height: $fz * 1.2;
+  font-weight: 700;
+}
+
+@mixin txt-thin($fz) {
+  font-size: $fz;
+  line-height: $fz * 1.5;
+  font-weight: 300;
+}
