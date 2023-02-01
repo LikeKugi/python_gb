@@ -18,3 +18,9 @@ body, input, button {
   line-height: $fz * 1.5;
   font-weight: 300;
 }
+
+@mixin txt-norm($fz) {
+  font-size: $fz;
+  line-height: $fz * 1.5;
+  font-weight: 400;
+}

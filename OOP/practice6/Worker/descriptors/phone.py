@@ -7,7 +7,7 @@ class PhoneDesc:
         return value
 
     def __set__(self, instance, value):
-        if type(value) == int and 100 < value < 1_000_000_000_000:
+        if type(value) == int and 0 < value < 1_000_000_000_000:
             setattr(instance, self.private_name, value)
         else:
             setattr(instance, self.private_name, 0)

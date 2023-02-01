@@ -1,0 +1,31 @@
+.manage {
+  &__box {
+    &-input {
+      margin: .5rem auto;
+      max-width: 675px;
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px dotted $blue-dark;
+    }
+  }
+
+  &__input {
+    &-label {
+      @include txt-thin(1rem);
+    }
+    &-field {
+      width: 60%;
+      padding: .2rem;
+      @include txt-thin(1.1rem);
+    }
+  }
+  &__title {
+    margin-bottom: 1.5rem;
+    text-align: center;
+    @include txt-norm(1.7rem);
+    text-transform: uppercase;
+  }
+}
+input[type="number"] {
+  text-align: right;
+}

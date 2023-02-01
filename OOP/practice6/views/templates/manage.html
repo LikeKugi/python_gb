@@ -2,13 +2,49 @@
 {% block title %}Главная{% endblock %}
 {% block head %}
 {{ super() }}
+<script defer src="{{ url_for('static', filename='js/adding.js') }}"></script>
 {% endblock %}
 
 {% block content %}
 
+<div class="manage">
 
-<input type="text" name="name" id="name">
-<button id="btnForm">Отправить</button>
+    <h2 class="manage__title">Добавить рабочего</h2>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="name">Введите имя:</label>
+        <input class="manage__input-field" type="text" name="name" id="name" autocomplete="off">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="last_name">Введите фамилию:</label>
+        <input class="manage__input-field" type="text" name="name" id="last_name" autocomplete="off">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="passport">Введите паспорт:</label>
+        <input class="manage__input-field" type="number" name="name" id="passport" autocomplete="off" min="0">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="phone">Введите телефон:</label>
+        <input class="manage__input-field" type="number" name="name" id="phone" autocomplete="off" min="0">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="salary">Введите зарплату:</label>
+        <input class="manage__input-field" type="number" name="name" id="salary" autocomplete="off" min="0">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="cabinet">Введите кабинет:</label>
+        <input class="manage__input-field" type="number" name="name" id="cabinet" autocomplete="off" min="0">
+    </div>
+
+</div>
+
+
+<button id="btnAdd">Отправить</button>
 
 
 <button id="getWorkers">Рабочие</button>

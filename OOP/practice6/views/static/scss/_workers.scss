@@ -1,0 +1,44 @@
+.employee {
+  padding: 1.5rem 2rem;
+  &-box {
+    display: flex;
+    border-top: 0.5rem solid $green;
+    border-bottom: 0.5rem solid $green;
+    padding: 0.5rem;
+    &:not(:last-of-type) {
+      margin-bottom: 1rem;
+    }
+
+  }
+  &__title {
+    margin-bottom: 1.5rem;
+    text-align: center;
+    @include txt-norm(1.7rem);
+    text-transform: uppercase;
+  }
+  &__description {
+    padding: 0.5rem;
+  }
+  &__text {
+    @include txt-thin(0.9rem);
+    color: $gray-dark;
+  }
+  &__value {
+    @include txt-norm(0.9rem);
+    color: $dark-color;
+    text-transform: capitalize;
+  }
+  &__box {
+    &-pic {
+      margin-top: -1rem;
+      min-width: 10rem;
+      background-color: $blue-dark;
+      border: .5rem solid $blue;
+      border-bottom: 2rem solid $blue;
+      margin-right: 2rem;
+    }
+  }
+  &__controls {
+    margin-left:auto;
+  }
+}
