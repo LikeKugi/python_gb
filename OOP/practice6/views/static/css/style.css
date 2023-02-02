@@ -1,0 +1,243 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&display=swap");
+body, input, button {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #dcdcdc;
+}
+
+.page-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.page-main {
+  flex-grow: 1;
+  padding-bottom: 50px;
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.box {
+  padding: 1.5rem 2rem;
+  background-color: #fefefe;
+  border: 1px solid #2f2f2f;
+  border-radius: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 23px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.btn:hover {
+  background-color: #595959;
+  color: #fefefe;
+  outline: 1px solid #052742;
+}
+.btn:active {
+  outline: 1px solid #8ac6fc;
+}
+
+.header {
+  height: 4rem;
+  background-color: #052742;
+}
+.header__box {
+  padding: 0.5rem 0;
+}
+.header__box-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav__link {
+  display: inline-block;
+  padding: 0.4rem;
+  color: #fefefe;
+  border: 1px solid #595959;
+  text-decoration: none;
+  font-size: 1.1rem;
+  line-height: 1.65rem;
+  font-weight: 300;
+  transition: color 0.2s, border 0.2s;
+}
+.nav__link:hover {
+  border: 1px solid #fefefe;
+}
+.nav__link:active {
+  color: #8ac6fc;
+}
+.nav__link:not(:last-of-type) {
+  margin-right: 1.5rem;
+}
+
+.main {
+  padding: 2rem 0;
+}
+.main__title {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  line-height: 3rem;
+  font-weight: 700;
+  color: #222222;
+}
+
+.employee {
+  padding: 1.5rem 2rem;
+}
+.employee-box {
+  display: flex;
+  border-top: 0.5rem solid rgb(0, 222, 144);
+  border-bottom: 0.5rem solid rgb(0, 222, 144);
+  padding: 0.5rem;
+}
+.employee-box:not(:last-of-type) {
+  margin-bottom: 1rem;
+}
+.employee__title {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-size: 1.7rem;
+  line-height: 2.55rem;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.employee__description {
+  padding: 0.5rem;
+}
+.employee__text {
+  font-size: 0.9rem;
+  line-height: 1.35rem;
+  font-weight: 300;
+  color: #2f2f2f;
+}
+.employee__value {
+  font-size: 0.9rem;
+  line-height: 1.35rem;
+  font-weight: 400;
+  color: #222222;
+  text-transform: capitalize;
+}
+.employee__box-pic {
+  min-width: 10rem;
+  background-color: #052742;
+  border: 0.5rem solid #8ac6fc;
+  border-bottom: 2rem solid #8ac6fc;
+  margin-right: 2rem;
+}
+.employee__controls {
+  margin-left: auto;
+}
+
+.manage__box-input {
+  margin: 0.7rem auto;
+  max-width: 675px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px dotted #052742;
+}
+.manage__box-input:last-of-type {
+  margin-bottom: 2rem;
+}
+.manage__input-label {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 300;
+}
+.manage__input-field {
+  width: 60%;
+  padding: 0.2rem;
+  font-size: 1.1rem;
+  line-height: 1.65rem;
+  font-weight: 300;
+}
+.manage__title {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-size: 1.7rem;
+  line-height: 2.55rem;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.manage__send {
+  display: block;
+  margin: 0 auto;
+  padding: 0.2rem 2rem;
+  font-size: 1.7rem;
+  line-height: 2.55rem;
+  font-weight: 400;
+}
+
+input[type=number] {
+  text-align: right;
+}
+
+.result {
+  text-align: center;
+}
+.result-box {
+  display: block;
+  z-index: 99;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 400px;
+  width: 100%;
+  max-height: 200px;
+  height: 100%;
+  padding: 2rem;
+  border: 5px solid #052742;
+  background-color: #fefefe;
+  -webkit-box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+  -moz-box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+  box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+}
+.result__title {
+  font-size: 1.8rem;
+  line-height: 2.16rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #2f2f2f;
+}
+.result__text {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 300;
+  color: #595959;
+}
+.result__close {
+  display: block;
+  margin: 2rem auto;
+  padding: 0.2rem 2rem;
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  font-weight: 400;
+}
+
+.hidden {
+  display: none !important;
+}
+
+li {
+  border: 1px solid #fefefe;
+}
+
+/*# sourceMappingURL=style.css.map */

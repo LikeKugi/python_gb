@@ -9,5 +9,7 @@ class PassportDesc:
     def __set__(self, instance, value):
         if type(value) == int and 1 < value < 1000000:
             setattr(instance, self.private_name, value)
+        elif value.isdigit():
+            setattr(instance, self.private_name, int(value))
         else:
             setattr(instance, self.private_name, 0)

@@ -2,14 +2,14 @@
 {% block title %}Главная{% endblock %}
 {% block head %}
 {{ super() }}
-<script defer src="{{ url_for('static', filename='js/adding.js') }}"></script>
+<script defer src="{{ url_for('static', filename='js/manage.js') }}"></script>
 {% endblock %}
 
 {% block content %}
 
 <div class="manage">
 
-    <h2 class="manage__title">Добавить рабочего</h2>
+    <h2 class="manage__title">Новый работник</h2>
 
     <div class="manage__box-input">
         <label class="manage__input-label" for="name">Введите имя:</label>
@@ -41,17 +41,14 @@
         <input class="manage__input-field" type="number" name="name" id="cabinet" autocomplete="off" min="0">
     </div>
 
+    <button id="btnAdd" class="manage__send">Отправить</button>
+</div>
+
+<div class="result result-box hidden" id="result">
+    <h2 class="result__title" id="resultTitle">Lorem ipsum dolor.</h2>
+    <p class="result__text" id="resultText">Lorem ipsum dolor sit amet.</p>
+    <button class="result__close" id="close">OK</button>
 </div>
 
 
-<button id="btnAdd">Отправить</button>
-
-
-<button id="getWorkers">Рабочие</button>
-
-<ul id="workers"></ul>
-
-<button id="testGet">TEST GET</button>
-<button id="testPut">TEST PUT</button>
-<button id="testDelete">TEST DELETE</button>
 {% endblock %}

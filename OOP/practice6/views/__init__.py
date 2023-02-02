@@ -1,1 +1,1 @@
-from .flask_part import app
+from .flask_part import app, db

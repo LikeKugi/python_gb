@@ -9,5 +9,7 @@ class SalaryDesc:
     def __set__(self, instance, value):
         if isinstance(value, float) and 0 < value < 1_000_000:
             setattr(instance, self.private_name, value)
+        elif value.replace('.', '').isdigit():
+            setattr(instance, self.private_name, float(value))
         else:
             setattr(instance, self.private_name, 0)

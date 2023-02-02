@@ -9,5 +9,7 @@ class PhoneDesc:
     def __set__(self, instance, value):
         if type(value) == int and 0 < value < 1_000_000_000_000:
             setattr(instance, self.private_name, value)
+        elif value.isdigit():
+            setattr(instance, self.private_name, int(value))
         else:
             setattr(instance, self.private_name, 0)

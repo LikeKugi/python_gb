@@ -1,11 +1,14 @@
 .manage {
   &__box {
     &-input {
-      margin: .5rem auto;
+      margin: .7rem auto;
       max-width: 675px;
       display: flex;
       justify-content: space-between;
       border-bottom: 1px dotted $blue-dark;
+      &:last-of-type {
+        margin-bottom: 2rem;
+      }
     }
   }
 
@@ -13,19 +16,71 @@
     &-label {
       @include txt-thin(1rem);
     }
+
     &-field {
       width: 60%;
       padding: .2rem;
       @include txt-thin(1.1rem);
     }
   }
+
   &__title {
     margin-bottom: 1.5rem;
     text-align: center;
     @include txt-norm(1.7rem);
     text-transform: uppercase;
   }
+
+  &__send {
+    display: block;
+    margin: 0 auto;
+    padding: .2rem 2rem;
+    @include txt-norm(1.7rem);
+  }
 }
+
 input[type="number"] {
   text-align: right;
+}
+
+.result {
+  text-align: center;
+  &-box {
+    display: block;
+    z-index: 99;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 400px;
+    width: 100%;
+    max-height: 200px;
+    height: 100%;
+    padding: 2rem;
+    border: 5px solid $blue-dark;
+    background-color: $white;
+    -webkit-box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+    -moz-box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+    box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+  }
+  &__title {
+    @include txt-title(1.8rem);
+    margin-bottom: .5rem;
+    color: $gray-dark;
+  }
+  &__text {
+    @include txt-thin(1rem);
+    color: $gray;
+  }
+  &__close {
+    display: block;
+    margin: 2rem auto;
+    padding: .2rem 2rem;
+    @include txt-norm(1.5rem);
+
+  }
+}
+
+.hidden {
+  display: none !important;
 }

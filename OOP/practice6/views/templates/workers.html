@@ -2,57 +2,41 @@
 {% block title %}Работники{% endblock %}
 {% block head %}
 {{ super() }}
+<script defer src="{{ url_for('static', filename='js/workers.js') }}"></script>
 {% endblock %}
 
 {% block content %}
 
-{% if employees %}
 <div class="employee">
     <h2 class="employee__title">список работников</h2>
-        {% for employee in employees %}
-    <div class="employee-box"  style="height: 200px">
 
-            <div class="employee__box-pic">
+</div>
 
+<template id="employeeCard">
+    <div class="employee-box" style="height: 200px">
+        <div class="employee__box-pic">
+        </div>
+        <div class="employee__description">
+            <div class="employee__box-name">
+                <p class="employee__text">ИМЯ: <span class="employee__value name">_</span></p>
+                <p class="employee__text">ФАМИЛИЯ: <span class="employee__value lastname">_</span></p>
             </div>
-            <div class="employee__description">
-                <div class="employee__box-name">
-                    <p class="employee__text">ИМЯ: <span class="employee__value">{{ employee.name }}</span></p>
-                    <p class="employee__text">ФАМИЛИЯ: <span class="employee__value">{{ employee.last_name }}</span></p>
-                </div>
-                <div class="employee__box-personal">
-                    <p class="employee__text">ПАСПОРТ: <span class="employee__value">{{ employee.passport_id }}</span></p>
-                    <p class="employee__text">ТЕЛЕФОН: <span class="employee__value">{{ employee.phone_number }}</span></p>
-                </div>
-                <div class="employee__box-properties">
-                    <p class="employee__text">ЗАРПЛАТА: <span class="employee__value">{{ employee.salary }}</span></p>
-                    <p class="employee__text">КАБИНЕТ: <span class="employee__value">{{ employee.cabinet }}</span></p>
-                </div>
-
+            <div class="employee__box-personal">
+                <p class="employee__text">ПАСПОРТ: <span class="employee__value passport">_</span></p>
+                <p class="employee__text">ТЕЛЕФОН: <span class="employee__value phone">_</span></p>
             </div>
-
+            <div class="employee__box-properties">
+                <p class="employee__text">ЗАРПЛАТА: <span class="employee__value salary">_</span></p>
+                <p class="employee__text">КАБИНЕТ: <span class="employee__value cabinet">_</span></p>
+            </div>
+        </div>
         <div class="employee__controls">
-            <input type="hidden" name="employee_id" id="id_{{employee.name}}">
+            <input type="hidden" name="employee_id" value="_" class="hiddenID">
             <button>edit</button>
         </div>
-
     </div>
-        {% endfor %}
-</div>
-{% endif %}
+</template>
 
-
-<!--<input type="text" name="name" id="name">-->
-<!--<button id="btnForm">Отправить</button>-->
-
-
-<!--<button id="getWorkers">Рабочие</button>-->
-
-<!--<ul id="workers"></ul>-->
-
-<!--<button id="testGet">TEST GET</button>-->
-<!--<button id="testPut">TEST PUT</button>-->
-<!--<button id="testDelete">TEST DELETE</button>-->
 {% endblock %}
 
 
