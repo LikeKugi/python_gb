@@ -2,37 +2,52 @@
 {% block title %}Главная{% endblock %}
 {% block head %}
 {{ super() }}
+<script defer src="{{ url_for('static', filename='js/edit.js') }}"></script>
 {% endblock %}
 
 {% block content %}
-
+<input type="hidden" name="emp_id" id="emp_id" value="{{emp_id}}">
 <div class="employee">
-    <h2 class="employee__title">список работников</h2>
+    <h2 class="employee__title">Редактирование</h2>
+
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="name">Имя:</label>
+        <input class="manage__input-field" type="text" name="name" id="name" autocomplete="off">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="last_name">Фамилия:</label>
+        <input class="manage__input-field" type="text" name="name" id="last_name" autocomplete="off">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="passport">Паспорт:</label>
+        <input class="manage__input-field" type="number" name="name" id="passport" autocomplete="off" min="0">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="phone">Телефон:</label>
+        <input class="manage__input-field" type="number" name="name" id="phone" autocomplete="off" min="0">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="salary">Зарплата:</label>
+        <input class="manage__input-field" type="number" name="name" id="salary" autocomplete="off" min="0">
+    </div>
+
+    <div class="manage__box-input">
+        <label class="manage__input-label" for="cabinet">Кабинет:</label>
+        <input class="manage__input-field" type="number" name="name" id="cabinet" autocomplete="off" min="0">
+    </div>
+
+    <div class="button-box">
+        <button id="btnAdd" class="manage__send">Обновить информацию</button>
+        <button id="btnRes" class="manage__send">Отменить</button>
+
+    </div>
+    <button id="btnDel" class="manage__send">Удалить работника</button>
+
 
 </div>
-
-<template id="employeeCard">
-    <div class="employee-box" style="height: 200px">
-        <div class="employee__box-pic">
-        </div>
-        <div class="employee__description">
-            <div class="employee__box-name">
-                <p class="employee__text">ИМЯ: <span class="employee__value name">_</span></p>
-                <p class="employee__text">ФАМИЛИЯ: <span class="employee__value lastname">_</span></p>
-            </div>
-            <div class="employee__box-personal">
-                <p class="employee__text">ПАСПОРТ: <span class="employee__value passport">_</span></p>
-                <p class="employee__text">ТЕЛЕФОН: <span class="employee__value phone">_</span></p>
-            </div>
-            <div class="employee__box-properties">
-                <p class="employee__text">ЗАРПЛАТА: <span class="employee__value salary">_</span></p>
-                <p class="employee__text">КАБИНЕТ: <span class="employee__value cabinet">_</span></p>
-            </div>
-        </div>
-        <div class="employee__controls">
-            <input type="hidden" name="employee_id" value="_" class="hiddenID">
-            <button>edit</button>
-        </div>
-    </div>
-</template>
 {% endblock %}

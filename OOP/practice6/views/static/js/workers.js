@@ -21,6 +21,8 @@ window.addEventListener('DOMContentLoaded', async function() {
         emp_cabinet.textContent = worker['cabinet'];
         let emp_id = clone.querySelector('.hiddenID');
         emp_id.value = worker['id'];
+        let emp_edit = clone.querySelector('.edit');
+        emp_edit.setAttribute('href', `/edit.html/${worker['id']}`);
 
         employeesList.append(clone);
     }

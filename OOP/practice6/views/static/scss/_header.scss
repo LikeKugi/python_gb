@@ -1,8 +1,8 @@
 .header {
-  height: 4rem;
+  height: 5rem;
   background-color: $blue-dark;
   &__box {
-    padding: 0.5rem 0;
+    padding: .8rem 0;
     &-links {
       display: flex;
       justify-content: space-between;
@@ -14,11 +14,11 @@
 .nav{
   &__link {
     display: inline-block;
-    padding: 0.4rem;
+    padding: .5rem;
     color: $white;
     border: 1px solid $gray;
     text-decoration: none;
-    @include txt-thin(1.1rem);
+    @include txt-thin(1.5rem);
     transition: color .2s, border .2s;
     &:hover {
       border: 1px solid $white;

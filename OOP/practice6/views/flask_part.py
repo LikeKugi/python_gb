@@ -39,8 +39,9 @@ class Employee(db.Model):
 #  API requests
 # --------------------------------------------------------------------------
 
-class GetEmployee(Resource):
+class GetEmployees(Resource):
     """
+    all employee
     GET request
     get from db
     """
@@ -54,6 +55,23 @@ class GetEmployee(Resource):
                              'salary': employee.salary, 'cabinet': employee.cabinet}
             employee_list.append(employee_data)
         return {'data': employee_list}, 200
+
+
+class GetSingleEmployee(Resource):
+    """
+    one employee
+    GET request
+    get from db
+    """
+    def get(self, emp_id):
+        employee = Employee.query.get(emp_id)
+        if employee is None:
+            return {'error': 'not found'}, 404
+        else:
+            employee_data = {'id': employee.e_id, 'name': employee.name,
+                             'lastname': employee.lastname, 'passport': employee.passport, 'phone': employee.phone,
+                             'salary': employee.salary, 'cabinet': employee.cabinet}
+            return {'data': employee_data}, 200
 
 
 class AddEmployee(Resource):
@@ -136,11 +154,10 @@ class DeleteEmployee(Resource):
 @app.route('/', methods=['GET'])
 @app.route('/index', methods=['GET'])
 @app.route('/index.html', methods=['GET'])
-def hello():
+def index():
     if not (os.path.exists(path=DB_PATH)):
         db.create_all()
     return render_template('index.html')
-
 
 @app.route('/workers.html', methods=['GET'])
 def workers():
@@ -158,48 +175,28 @@ def workers():
 def manage():
     return render_template('manage.html')
 
+@app.route('/edit.html/<int:emp_id>', methods=['GET'])
+def edit(emp_id):
+    return render_template('edit.html', emp_id=emp_id)
 
-@app.route('/edit.html', methods=['GET'])
-def edit():
-    return render_template('edit.html')
 
-
-api.add_resource(GetEmployee, '/api/workers')
+api.add_resource(GetEmployees, '/api/workers')
 api.add_resource(AddEmployee, '/api/new_worker')
-api.add_resource(UpdateEmployee, '/api/update_worker/<int:e_id>')
-api.add_resource(DeleteEmployee, '/api/delete_worker<int:e_id>')
+api.add_resource(GetSingleEmployee, '/api/get_worker/<int:emp_id>')
+api.add_resource(UpdateEmployee, '/api/update_worker/<int:emp_id>')
+api.add_resource(DeleteEmployee, '/api/delete_worker/<int:emp_id>')
 
-# @app.route('/api/new_worker', methods=['POST'])
-# def new_worker():
-#     res = request.json
-#     print(res)
-#     _name = res['name']
-#     _l_name = res['lastName']
-#     _passport = res['passport']
-#     _phone = res['phone']
-#     _salary = res['salary']
-#     _cabinet = res['cabinet']
-#     nw = create_worker(name=_name, last_name=_l_name, salary=_salary, passport_id=_passport, phone_number=_phone,
-#                        cabinet=_cabinet)
-#     workers_list.append(nw)
-#     print(workers_list)
-#     return jsonify({'response': 201}), 201
-
-
-# @app.route('/api/workers', methods=['GET'])
-# def get_workers():
-#     sending = [worker.toJSON() for worker in workers_list]
-#     return jsonify({'data': sending}), 200
-
-
-# @app.route('/api/workers/<int:worker_id>', methods=['GET', 'PUT', 'DELETE'])
-# def worker(worker_id):
-#     if request.method == 'GET':
-#         print(f'GET: {worker_id}')
-#         return jsonify({'data': {'r': 'asked worker'}}), 200
-#     if request.method == 'PUT':
-#         print(f'MODIFY: {worker_id}')
-#         return jsonify({'data': {'r': 'modified worker'}}), 200
-#     if request.method == 'DELETE':
-#         print(f'DELETE: {worker_id}')
-#         return jsonify({'data': {'r': 'deleted worker'}}), 200
+@app.route('/api/workers/<int:e_id>', methods=['GET', 'PUT', 'DELETE', 'UPDATE'])
+def tester(e_id):
+    if request.method == 'GET':
+        print(f'GET: {e_id}')
+        return jsonify({'data': {'r': 'asked worker'}}), 200
+    if request.method == 'PUT':
+        print(f'MODIFY: {e_id}')
+        return jsonify({'data': {'r': 'modified worker'}}), 200
+    if request.method == 'DELETE':
+        print(f'DELETE: {e_id}')
+        return jsonify({'data': {'r': 'deleted worker'}}), 200
+    if request.method == 'UPDATE':
+        print(f'UPDATE: {e_id}')
+        return jsonify({'data': {'r': 'updated worker'}}), 200

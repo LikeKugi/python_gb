@@ -41,7 +41,7 @@ getWorkers.addEventListener('click', async function () {
 const testGetBtn = document.querySelector('#testGet');
 
 testGetBtn.addEventListener('click', async function() {
-    const response = await fetch('api/workers/2');
+    const response = await fetch('api/get_worker/2');
     const jsoned = await response.json();
     console.log(jsoned)
     const answer = jsoned['data'];

@@ -3,7 +3,16 @@
   &__title {
     text-align: center;
     text-transform: uppercase;
-    @include txt-title(2.5rem);
+    @include txt-title(4rem);
     color: $dark-color;
+  }
+  &__subtitle {
+    text-align: center;
+    text-transform: uppercase;
+    @include txt-norm(2.5rem);
+    color: $gray;
+  }
+  &__text {
+    @include txt-thin(1.5rem);
   }
 }

@@ -2,38 +2,39 @@
   padding: 1.5rem 2rem;
   &-box {
     display: flex;
-    border-top: 0.5rem solid $green;
-    border-bottom: 0.5rem solid $green;
-    padding: 0.5rem;
+    min-height: 13rem;
+    border-top: .8rem solid $green;
+    border-bottom: .8rem solid $green;
+    padding: .8rem;
     &:not(:last-of-type) {
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
     }
   }
   &__title {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     text-align: center;
-    @include txt-norm(1.7rem);
+    @include txt-norm(2.1rem);
     text-transform: uppercase;
   }
   &__description {
     padding: 0.5rem;
   }
   &__text {
-    @include txt-thin(0.9rem);
+    @include txt-thin(1.5rem);
     color: $gray-dark;
   }
   &__value {
-    @include txt-norm(0.9rem);
+    @include txt-norm(1.5rem);
     color: $dark-color;
     text-transform: capitalize;
   }
   &__box {
     &-pic {
-      min-width: 10rem;
+      min-width: 13rem;
       background-color: $blue-dark;
-      border: .5rem solid $blue;
+      border: .8rem solid $blue;
       border-bottom: 2rem solid $blue;
-      margin-right: 2rem;
+      margin-right: 3rem;
     }
   }
   &__controls {

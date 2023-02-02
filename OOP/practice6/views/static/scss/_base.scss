@@ -30,19 +30,44 @@ body {
   border: 1px solid $gray-dark;
   border-radius: 1rem;
 }
+.result {
+  text-align: center;
+  &-box {
+    display: block;
+    z-index: 99;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 400px;
+    width: 100%;
+    max-height: 200px;
+    height: 100%;
+    padding: 2rem;
+    border: 5px solid $blue-dark;
+    background-color: $white;
+    -webkit-box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+    -moz-box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+    box-shadow: 0 11px 25px 17px rgba(5, 140, 244, 0.27);
+  }
+  &__title {
+    @include txt-title(1.8rem);
+    margin-bottom: .8rem;
+    color: $gray-dark;
+  }
+  &__text {
+    @include txt-thin(1.5rem);
+    color: $gray;
+  }
+  &__close {
+    display: block;
+    margin: 2rem auto;
+    padding: .5rem 3rem;
+    @include txt-norm(4rem);
 
-.btn {
-  display: inline-block;
-  padding: 12px 23px;
-  text-transform: uppercase;
-  cursor: pointer;
-  transition: all .2s;
-  &:hover {
-    background-color: $gray;
-    color: $white;
-    outline: 1px solid $blue-dark;
   }
-  &:active {
-    outline: 1px solid $blue;
-  }
+}
+
+.hidden {
+  display: none !important;
 }

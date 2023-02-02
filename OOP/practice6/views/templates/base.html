@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/reset.css') }}"/>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
 
-    <script defer src="{{ url_for('static', filename='js/script.js') }}"></script>
     <title>Lessons | {% block title %}{% endblock %}</title>
     {% endblock %}
 </head>
@@ -23,11 +22,10 @@
         <div class="container">
             <div class="header__box">
                 <nav class="header__box-links nav">
-                    <a href="index.html" class="nav__link">главная</a>
+                    <a href="{{ url_for('index') }}" class="nav__link">главная</a>
                     <div class="nav__group">
-                        <a href="workers.html" class="nav__link">работники</a>
-                        <a href="manage.html" class="nav__link">новый работник</a>
-                        <a href="edit.html" class="nav__link">link</a>
+                        <a href="{{ url_for('workers') }}" class="nav__link">работники</a>
+                        <a href="{{ url_for('manage') }}" class="nav__link">новый работник</a>
                     </div>
                 </nav>
             </div>
@@ -44,11 +42,17 @@
         </div>
     </div>
 
+    <div class="result result-box hidden" id="result">
+        <h2 class="result__title" id="resultTitle">Lorem ipsum dolor.</h2>
+        <p class="result__text" id="resultText">Lorem ipsum dolor sit amet.</p>
+        <button class="result__close" id="close">OK</button>
+    </div>
+
 
     <div class="footer">
         <div class="container footer__content">
             {% block footer %}
-            <p class="footer__text">&copy; NoCopyright by <a class="link footer__link" href="index.html">OOP Lessons</a>
+            <p class="footer__text">&copy; NoCopyright by <a class="link footer__link" href="{{ url_for('index') }}">OOP Lessons</a>
             </p>.
             {% endblock %}
         </div>
