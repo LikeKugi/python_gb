@@ -179,6 +179,9 @@ def manage():
 def edit(emp_id):
     return render_template('edit.html', emp_id=emp_id)
 
+# --------------------------------------------------------------------------
+#  API routes and test routes
+# --------------------------------------------------------------------------
 
 api.add_resource(GetEmployees, '/api/workers')
 api.add_resource(AddEmployee, '/api/new_worker')
