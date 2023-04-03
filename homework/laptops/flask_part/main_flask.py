@@ -68,7 +68,7 @@ def upload_page():
 @app.route('/cpu', methods=['GET', 'POST'])
 @app.route('/cpu.html', methods=['GET', 'POST'])
 def filter_cpu():
-    filtered = request.form.getlist('cpu')
+    filtered = request.form
     print(f'{filtered = }')
     filtered = request.data
     print(f'{filtered = }')

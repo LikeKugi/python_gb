@@ -7,9 +7,9 @@
 {% block cpu%}
 {% if cpu %}
 <!-- {{ url_for('filter_cpu') }}  -->
-<form action="" method="get">
+<form action="index.html" method="get">
     {% for item in cpu %}
-    <input class="mega__item" type="checkbox" name="cpu" id="{{ item }}" value="{{ item }}"/>
+    <input class="mega__item" type="checkbox" name="cpu-item" id="{{ item }}" data-value="{{ item }}"/>
     <label class="mega__label" for="{{ item }}">
         {{ item }}
     </label>
