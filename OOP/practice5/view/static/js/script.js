@@ -44,3 +44,12 @@ function operation(val='') {
     printExpression.textContent = queryExpression.textContent + val;
     queryExpression.textContent = 0;
 }
+
+const testBtn = document.querySelector('#test');
+
+testBtn.addEventListener('click', async function (){
+    const response = await fetch('/test');
+    console.log(response);
+    const jsoned = await response.json()
+    console.log(jsoned)
+})

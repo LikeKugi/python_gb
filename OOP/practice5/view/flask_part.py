@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 
 from controller import confirm_expression, eval_expression, init_calc, add_calc
 
@@ -23,3 +23,9 @@ def index():
             print(res)
             answer_text, answer_val = eval_expression(q)
     return render_template('index.html', answer=answer_text, answer_val=answer_val, history=res)
+
+
+@app.route('/test', methods=['GET', 'POST'])
+def tested():
+    test_res = {'test_key': 'test_value'}
+    return jsonify(test_res)
