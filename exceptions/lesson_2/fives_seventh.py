@@ -61,4 +61,5 @@ def recursive_counter(n, line):
 
 
 if __name__ == '__main__':
+    count()
     algorithmic_count()
